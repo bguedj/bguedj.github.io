@@ -1,118 +1,138 @@
 /*
-	Prologue by HTML5 UP
-	html5up.net | @n33co
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
 (function($) {
 
 	skel.breakpoints({
-		wide: '(min-width: 961px) and (max-width: 1880px)',
-		normal: '(min-width: 961px) and (max-width: 1620px)',
-		narrow: '(min-width: 961px) and (max-width: 1320px)',
-		narrower: '(max-width: 960px)',
-		mobile: '(max-width: 736px)'
+		xlarge: '(max-width: 1680px)',
+		large: '(max-width: 1280px)',
+		medium: '(max-width: 980px)',
+		small: '(max-width: 736px)',
+		xsmall: '(max-width: 480px)',
+		xxsmall: '(max-width: 360px)'
 	});
 
 	$(function() {
 
 		var	$window = $(window),
-			$body = $('body');
+			$body = $('body'),
+			$main = $('#main');
 
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
 
 			$window.on('load', function() {
-				$body.removeClass('is-loading');
+				window.setTimeout(function() {
+					$body.removeClass('is-loading');
+				}, 100);
 			});
-
-		// CSS polyfills (IE<9).
-			if (skel.vars.IEVersion < 9)
-				$(':last-child').addClass('last-child');
 
 		// Fix: Placeholder polyfill.
 			$('form').placeholder();
 
-		// Prioritize "important" elements on mobile.
-			skel.on('+mobile -mobile', function() {
+		// Prioritize "important" elements on medium.
+			skel.on('+medium -medium', function() {
 				$.prioritize(
-					'.important\\28 mobile\\29',
-					skel.breakpoint('mobile').active
+					'.important\\28 medium\\29',
+					skel.breakpoint('medium').active
 				);
 			});
 
-		// Scrolly links.
-			$('.scrolly').scrolly();
-
 		// Nav.
-			var $nav_a = $('#nav a');
+			var $nav = $('#nav');
 
-			// Scrolly-fy links.
-				$nav_a
-					.scrolly()
-					.on('click', function(e) {
+			if ($nav.length > 0) {
 
-						var t = $(this),
-							href = t.attr('href');
+				// Shrink effect.
+					$main
+						.scrollex({
+							mode: 'top',
+							enter: function() {
+								$nav.addClass('alt');
+							},
+							leave: function() {
+								$nav.removeClass('alt');
+							},
+						});
 
-						if (href[0] != '#')
-							return;
+				// Links.
+					var $nav_a = $nav.find('a');
 
-						e.preventDefault();
+					$nav_a
+						.scrolly({
+							speed: 1000,
+							offset: function() { return $nav.height(); }
+						})
+						.on('click', function() {
 
-						// Clear active and lock scrollzer until scrolling has stopped
-							$nav_a
-								.removeClass('active')
-								.addClass('scrollzer-locked');
+							var $this = $(this);
 
-						// Set this link to active
-							t.addClass('active');
+							// External link? Bail.
+								if ($this.attr('href').charAt(0) != '#')
+									return;
 
-					});
+							// Deactivate all links.
+								$nav_a
+									.removeClass('active')
+									.removeClass('active-locked');
 
-			// Initialize scrollzer.
-				var ids = [];
+							// Activate link *and* lock it (so Scrollex doesn't try to activate other links as we're scrolling to this one's section).
+								$this
+									.addClass('active')
+									.addClass('active-locked');
 
-				$nav_a.each(function() {
+						})
+						.each(function() {
 
-					var href = $(this).attr('href');
+							var	$this = $(this),
+								id = $this.attr('href'),
+								$section = $(id);
 
-					if (href[0] != '#')
-						return;
+							// No section for this link? Bail.
+								if ($section.length < 1)
+									return;
 
-					ids.push(href.substring(1));
+							// Scrollex.
+								$section.scrollex({
+									mode: 'middle',
+									initialize: function() {
 
-				});
+										// Deactivate section.
+											if (skel.canUse('transition'))
+												$section.addClass('inactive');
 
-				$.scrollzer(ids, { pad: 200, lastHack: true });
+									},
+									enter: function() {
 
-		// Header (narrower + mobile).
+										// Activate section.
+											$section.removeClass('inactive');
 
-			// Toggle.
-				$(
-					'<div id="headerToggle">' +
-						'<a href="#header" class="toggle"></a>' +
-					'</div>'
-				)
-					.appendTo($body);
+										// No locked links? Deactivate all links and activate this section's one.
+											if ($nav_a.filter('.active-locked').length == 0) {
 
-			// Header.
-				$('#header')
-					.panel({
-						delay: 500,
-						hideOnClick: true,
-						hideOnSwipe: true,
-						resetScroll: true,
-						resetForms: true,
-						side: 'left',
-						target: $body,
-						visibleClass: 'header-visible'
-					});
+												$nav_a.removeClass('active');
+												$this.addClass('active');
 
-			// Fix: Remove transitions on WP<10 (poor/buggy performance).
-				if (skel.vars.os == 'wp' && skel.vars.osVersion < 10)
-					$('#headerToggle, #header, #main')
-						.css('transition', 'none');
+											}
+
+										// Otherwise, if this section's link is the one that's locked, unlock it.
+											else if ($this.hasClass('active-locked'))
+												$this.removeClass('active-locked');
+
+									}
+								});
+
+						});
+
+			}
+
+		// Scrolly.
+			$('.scrolly').scrolly({
+				speed: 1000
+			});
 
 	});
 

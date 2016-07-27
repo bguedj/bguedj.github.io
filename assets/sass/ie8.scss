@@ -4,71 +4,80 @@
 @import 'libs/skel';
 
 /*
-	Prologue by HTML5 UP
-	html5up.net | @n33co
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Section/Article */
+/* Type */
 
-	section, article {
-		> .last-child,
-		&.last-child {
-			margin-bottom: 0;
-		}
-	}
-
-/* Form */
-
-	form {
-		input[type="text"],
-		input[type="email"],
-		input[type="password"],
-		select,
-		textarea {
-			-ms-behavior: url('assets/js/ie/PIE.htc');
-		}
+	body {
+		color: _palette(fg-bold);
 	}
 
 /* Button */
 
-	input[type="button"],
-	input[type="submit"],
-	input[type="reset"],
-	button,
 	.button {
-		-ms-behavior: url('assets/js/ie/PIE.htc');
+		position: relative;
+		border: solid 1px !important;
+
+		&.special {
+			border: none !important;
+		}
 	}
 
-/* Header */
+/* Icon */
 
-	#nav {
-		ul {
-			li {
-				a {
-					color: #888;
+	.icon {
+		&.major {
+			-ms-behavior: url('assets/js/ie/PIE.htc');
 
-					&.active {
-						background: #1C2022;
-					}
-				}
+			&:before {
+				font-size: 4em;
+				border: 0;
 			}
 		}
 	}
 
-	#headerToggle {
-		.toggle {
-			background-color: #888;
+/* Spotlight */
+
+	.spotlight {
+		.image {
+			position: relative;
+			-ms-behavior: url('assets/js/ie/PIE.htc');
+
+			img {
+				position: relative;
+				-ms-behavior: url('assets/js/ie/PIE.htc');
+			}
+		}
+	}
+
+/* Features */
+
+	.features {
+		li {
+			width: 29%;
+		}
+	}
+
+/* Footer */
+
+	#footer {
+		> * {
+			width: 50%;
+			margin-left: 0;
 		}
 	}
 
 /* Main */
 
 	#main {
-		> section {
-			&.cover {
-				background-position: auto;
-				-ms-behavior: url('assets/js/ie/backgroundsize.min.htc');
+		> .main {
+			> .image.main:first-child {
+				margin-top: 0;
+				margin-left: 0;
+				width: 100%;
 			}
 		}
 	}
