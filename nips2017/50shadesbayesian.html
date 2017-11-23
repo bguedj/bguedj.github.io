@@ -5,7 +5,14 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+
 <head>
+	<!-- <script type=“text/javascript” async src=“https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML“> -->
+	<!-- <script type=“text/javascript” async src=“https://unpkg.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML“>
+	</script> -->
+	<!-- // to enable MathJax writing -->
 	<title>(Almost) 50 shades of Bayesian Learning: PAC-Bayesian trends and insights - NIPS 2017 workshop</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -35,7 +42,6 @@
 
 	<!-- Wrapper -->
 	<div id="wrapper">
-
 		<!-- Intro -->
 		<section id="intro" class="wrapper style1 fullscreen fade-up">
 			<div class="inner">
@@ -223,168 +229,175 @@
 								</tr>
 								<tr>
 									<td>8.30-9.30</td>
-									<td><details>
-										<summary>
-											A Tutorial on PAC-Bayesian Theory
-										</summary>
-										<p>
+									<td>
+										<!-- <details> -->
+											<!-- <summary> -->
+												A Tutorial on PAC-Bayesian Theory
+												<!-- </summary> -->
+										<!-- <p>
 											A tutorial on PAC-Bayesian Theory.
-										</p>
-									</details>
-								</td> 
-								<td>François Laviolette</td>
-							</tr>
-							<tr>
-								<td>9.30-10.15</td>
-								<td>
-									<details>
-										<summary>
-											A Tight Excess Risk Bound via a Unified PAC-Bayesian-Rademacher-Shtarkov-MDL Complexity
-										</summary>
-										<p>
-											Over the last 15 years, machine learning theorists have bounded the performance of empirical risk minimization by (localized) Rademacher complexity; Bayesians with frequentist sympathies have studied Bayesian consistency and rate of convergence theorems, sometimes under misspecification, and PAC-Bayesians have studied convergence properties of generalized Bayesian and Gibbs posteriors. We show that, amazingly, most such bounds readily follow from essentially a single result that bounds excess risk in terms of a novel complexity COMP$(\eta,w)$. which depends on a learning rate $\eta$  and a luckiness function $w$, the latter generalizing the concept of a 'prior'. Depending on the choice of  $w$, COMP$(\eta,w)$ specializes to PAC-Bayesian (KL(posterior||prior) complexity, MDL (normalized maximum likelihood) complexity and Rademacher complexity, and the bounds obtained are optimized for generalized Bayes, ERM, penalized ERM (such as Lasso) or other methods. Tuning  $\eta$ leads to optimal excess risk convergence rates, even for very large (polynomial entropy) classes which have always been problematic for the PAC-Bayesian approach; the optimal $\eta$ depends on 'fast rate' properties of the domain, such as central, Bernstein and Tsybakov conditions.
+										</p> -->
+										<!-- </details> -->
+									</td> 
+									<td>François Laviolette</td>
+								</tr>
+								<tr>
+									<td>9.30-10.15</td>
+									<td>
+										<details>
+											<summary>
+												A Tight Excess Risk Bound via a Unified PAC-Bayesian-Rademacher-Shtarkov-MDL Complexity
+											</summary>
+											<p>
+												Over the last 15 years, machine learning theorists have bounded the performance of empirical risk minimization by (localized) Rademacher complexity; Bayesians with frequentist sympathies have studied Bayesian consistency and rate of convergence theorems, sometimes under misspecification, and PAC-Bayesians have studied convergence properties of generalized Bayesian and Gibbs posteriors. We show that, amazingly, most such bounds readily follow from essentially a single result that bounds excess risk in terms of a novel complexity COMP\( (\eta,w) \). which depends on a learning rate \( \eta \)  and a luckiness function \( w \), the latter generalizing the concept of a 'prior'. Depending on the choice of  \( w \), COMP\( (\eta,w) \) specializes to PAC-Bayesian (KL(posterior||prior) complexity, MDL (normalized maximum likelihood) complexity and Rademacher complexity, and the bounds obtained are optimized for generalized Bayes, ERM, penalized ERM (such as Lasso) or other methods. Tuning  \( \eta \) leads to optimal excess risk convergence rates, even for very large (polynomial entropy) classes which have always been problematic for the PAC-Bayesian approach; the optimal \( \eta \) depends on 'fast rate' properties of the domain, such as central, Bernstein and Tsybakov conditions.
+												<br><br>
 
-											Joint work with Nishant Mehta, University of Victoria. See <a href="https://arxiv.org/abs/1710.07732">the paper</a>.
-										</p>
-									</details>
-								</td> 
-								<td>Peter Grünwald</td>
-							</tr>
-							<tr>
-								<td>10.15-11.00</td>
-								<td><b>Coffee break and posters session</b></td> 
-								<td></td>
-							</tr>
-							<tr>
-								<td>11.00-11.45</td>
-								<td>
-									<details>
-										<summary>
-											Some recent advances on Approximate Bayesian Computation techniques
-										</summary>
-										<p>
-											In an increasing number of application domains, the statistical model is so complex that the point-wise computation of the likelihood is intractable. That is typically the case when the underlying probability distribution involves numerous latent variables. Approximate Bayesian Computation (ABC) is a widely used technique to bypass that difficulty. I will review some recent developments on ABC techniques, emphazing the fact that modern machine learning approaches are useful in this field. Although intrinsically very different of PAC-Bayesian strategies - the choice of a generative model is essential within the ABC paradigm -  I will highlight some links between these two methodologies.
-										</p>
-									</details>
-								</td> 
-								<td>Jean-Michel Marin</td>
-							</tr>
-							<tr>
-								<td>11.45-12.05</td>
-								<td>
-									<details>
-										<summary>
-											A PAC-Bayesian Approach to Spectrally-Normalized Margin Bounds for Neural Networks
-										</summary>
-										<p>
+												Joint work with Nishant Mehta, University of Victoria. See <a href="https://arxiv.org/abs/1710.07732">the paper</a>.
+											</p>
+										</details>
+									</td> 
+									<td>Peter Grünwald</td>
+								</tr>
+								<tr>
+									<td>10.15-11.00</td>
+									<td><b>Coffee break and posters session</b></td> 
+									<td></td>
+								</tr>
+								<tr>
+									<td>11.00-11.45</td>
+									<td>
+										<details>
+											<summary>
+												Some recent advances on Approximate Bayesian Computation techniques
+											</summary>
+											<p>
+												In an increasing number of application domains, the statistical model is so complex that the point-wise computation of the likelihood is intractable. That is typically the case when the underlying probability distribution involves numerous latent variables. Approximate Bayesian Computation (ABC) is a widely used technique to bypass that difficulty. I will review some recent developments on ABC techniques, emphazing the fact that modern machine learning approaches are useful in this field. Although intrinsically very different of PAC-Bayesian strategies - the choice of a generative model is essential within the ABC paradigm -  I will highlight some links between these two methodologies.
+											</p>
+										</details>
+									</td> 
+									<td>Jean-Michel Marin</td>
+								</tr>
+								<tr>
+									<td>11.45-12.05</td>
+									<td>
+										<details>
+											<summary>
+												A PAC-Bayesian Approach to Spectrally-Normalized Margin Bounds for Neural Networks
+											</summary>
+											<p>
 
-										</p>
-									</details>
-								</td> 
-								<td>Behnam Neyshabur</td>
-							</tr>
-							<tr>
-								<td>12.05-14.00</td>
-								<td><b>Lunch break</b></td> 
-								<td></td>
-							</tr>
-							<tr>
-								<td>14.00-14.40</td>
-								<td>
-									<details>
-										<summary>
-											Dimension-free PAC-Bayesian Bounds
-										</summary>
-										<p>
-											PAC-Bayesian inequalities have already proved to be a great tool
-											to obtain dimension free generalization bounds, such as margin 
-											bounds for Support Vector Machines. In this talk, 
-											we will play with PAC-Bayesian inequalities and influence 
-											functions to present new robust estimators for the mean 
-											of random vectors and random matrices, as well as for 
-											linear least squares regression. A common theme of the 
-											presentation will be to establish dimension free bounds
-											and to work under mild polynomial moment assumptions 
-											regarding the tail of the sample distribution. 
-										</p>
-									</details>
-								</td> 
-								<td>Olivier Catoni</td>
-							</tr>
-							<tr>
-								<td>14.40-15.00</td>
-								<td>
-									<details>
-										<summary>
-											Dimension free PAC-Bayesian bounds for the estimation of the mean of a random vector
-										</summary>
-										<p>
+											</p>
+										</details>
+									</td> 
+									<td>Behnam Neyshabur</td>
+								</tr>
+								<tr>
+									<td>12.05-14.00</td>
+									<td><b>Lunch break</b></td> 
+									<td></td>
+								</tr>
+								<tr>
+									<td>14.00-14.40</td>
+									<td>
+										<details>
+											<summary>
+												Dimension-free PAC-Bayesian Bounds
+											</summary>
+											<p>
+												PAC-Bayesian inequalities have already proved to be a great tool
+												to obtain dimension free generalization bounds, such as margin 
+												bounds for Support Vector Machines. In this talk, 
+												we will play with PAC-Bayesian inequalities and influence 
+												functions to present new robust estimators for the mean 
+												of random vectors and random matrices, as well as for 
+												linear least squares regression. A common theme of the 
+												presentation will be to establish dimension free bounds
+												and to work under mild polynomial moment assumptions 
+												regarding the tail of the sample distribution. 
+											</p>
+										</details>
+									</td> 
+									<td>Olivier Catoni</td>
+								</tr>
+								<tr>
+									<td>14.40-15.00</td>
+									<td>
+										<details>
+											<summary>
+												Dimension free PAC-Bayesian bounds for the estimation of the mean of a random vector
+											</summary>
+											<p>
 
-										</p>
-									</details>
-								</td> 
-								<td>Olivier Catoni</td>
-							</tr>
-							<tr>
-								<td>15.00-15.30</td>
-								<td><b>Coffee break and posters session</b></td> 
-								<td></td>
-							</tr>
-							<tr>
-								<td>15.30-16.15</td>
-								<td>
-									<details>
-										<summary>
-											A Strongly Quasiconvex PAC-Bayesian Bound
-										</summary>
-										<p>
-											We propose a new PAC-Bayesian bound and a way of constructing a hypothesis space, so that the bound is convex in the posterior distribution and also convex in a trade-off parameter between empirical performance of the posterior distribution and its complexity. The complexity is measured by the Kullback-Leibler divergence to a prior. We derive an alternating procedure for minimizing the bound. We show that the bound can be rewritten as a one-dimensional function of the trade-off parameter and provide sufficient conditions under which the function has a single global minimum. When the conditions are satisfied the alternating minimization is guaranteed to converge to the global minimum of the bound. We provide experimental results demonstrating that rigorous minimization of the bound is competitive with cross-validation in tuning the trade-off between complexity and empirical performance. In all our experiments the trade-off turned to be quasiconvex even when the sufficient conditions were violated. 
+											</p>
+										</details>
+									</td> 
+									<td>Olivier Catoni</td>
+								</tr>
+								<tr>
+									<td>15.00-15.30</td>
+									<td><b>Coffee break and posters session</b></td> 
+									<td></td>
+								</tr>
+								<tr>
+									<td>15.30-16.15</td>
+									<td>
+										<details>
+											<summary>
+												A Strongly Quasiconvex PAC-Bayesian Bound
+											</summary>
+											<p>
+												We propose a new PAC-Bayesian bound and a way of constructing a hypothesis space, so that the bound is convex in the posterior distribution and also convex in a trade-off parameter between empirical performance of the posterior distribution and its complexity. The complexity is measured by the Kullback-Leibler divergence to a prior. We derive an alternating procedure for minimizing the bound. We show that the bound can be rewritten as a one-dimensional function of the trade-off parameter and provide sufficient conditions under which the function has a single global minimum. When the conditions are satisfied the alternating minimization is guaranteed to converge to the global minimum of the bound. We provide experimental results demonstrating that rigorous minimization of the bound is competitive with cross-validation in tuning the trade-off between complexity and empirical performance. In all our experiments the trade-off turned to be quasiconvex even when the sufficient conditions were violated. 
+												<br><br>
 
-											Joint work with Niklas Thiemann, Christian Igel, and Olivier Wintenberger.
-										</p>
-									</details>
-								</td> 
-								<td>Yevgeny Seldin</td>
-							</tr>
-							<tr>
-								<td>16.15-17.00</td>
-								<td>
-									<details>
-										<summary>
-											Distribution Dependent Priors for Stable Learning
-										</summary>
-										<p>
-											One feature of PAC-Bayes approach is that though the prior must be fixed, we do not need to have an explicit expression for it, only to be able to bound the distance between prior and posterior. Furthermore, the choice of prior only impacts the quality of the bound and not the validity of the results. We will discuss the implications of these observations describing ways in which the prior may be chosen to improve the quality of the bounds obtained. The application of these ideas to the stability analysis for SVMs delivers a tightening of the well-known stability bounds.
-										</p>
-									</details>
-								</td> 
-								<td>John Shawe-Taylor</td>
-							</tr>
-							<tr>
-								<td>17.00-17.30</td>
-								<td>
-									<details>
-										<summary>
-											PAC-Bayesian Generalizations Bounds for Deep Neural Networks
-										</summary>
-										<p>
-
-										</p>
-									</details>
-								</td> 
-								<td>Dan Roy</td>
-							</tr>
-							<tr>
-								<td>17.30-18.25</td>
-								<td>Discussion</td> 
-								<td>Neil Lawrence, François Laviolette and Francis Bach</td>
-							</tr>
-							<tr>
-								<td>18.25</td>
-								<td>Concluding remarks</td> 
-								<td>Organizers</td>
-							</tr>
-						</table>
+												Joint work with Niklas Thiemann, Christian Igel, and Olivier Wintenberger.
+											</p>
+										</details>
+									</td> 
+									<td>Yevgeny Seldin</td>
+								</tr>
+								<tr>
+									<td>16.15-17.00</td>
+									<td>
+										<details>
+											<summary>
+												Distribution Dependent Priors for Stable Learning
+											</summary>
+											<p>
+												One feature of PAC-Bayes approach is that though the prior must be fixed, we do not need to have an explicit expression for it, only to be able to bound the distance between prior and posterior. Furthermore, the choice of prior only impacts the quality of the bound and not the validity of the results. We will discuss the implications of these observations describing ways in which the prior may be chosen to improve the quality of the bounds obtained. The application of these ideas to the stability analysis for SVMs delivers a tightening of the well-known stability bounds.
+											</p>
+										</details>
+									</td> 
+									<td>John Shawe-Taylor</td>
+								</tr>
+								<tr>
+									<td>17.00-17.30</td>
+									<td>
+										<details>
+											<summary>
+												PAC-Bayesian Generalizations Bounds for Deep Neural Networks
+											</summary>
+											<p>
+												One of the defining properties of deep learning is that models are chosen to have many more parameters than available training data. In light of this capacity for overfitting, it is remarkable that simple algorithms like SGD reliably return solutions with low test error. One roadblock to explaining these phenomena in terms of implicit regularization, structural properties of the solution, and/or easiness of the data is that many learning bounds are quantitatively vacuous when applied to networks learned by SGD in this "deep learning" regime. Logically, in order to explain generalization, we need nonvacuous bounds. 
+												<br><br>
+												I will discuss recent work using PAC-Bayesian bounds and optimization to arrive at nonvacuous generalization bounds for neural networks with millions of parameters trained on only tens of thousands of examples. We connect our findings to recent and old work on flat minima and MDL-based explanations of generalization, as well as to variational inference for deep learning. Time permitting, I'll discuss new work interpreting Entropy-SGD as a PAC-Bayesian method.
+												<br><br>
+												Joint work with Gintare Karolina Dziugaite, based on <a href="https://arxiv.org/abs/1703.11008">this paper</a>.
+											</p>
+										</details>
+									</td> 
+									<td>Dan Roy</td>
+								</tr>
+								<tr>
+									<td>17.30-18.25</td>
+									<td>Discussion</td> 
+									<td>Neil Lawrence, François Laviolette and Francis Bach</td>
+								</tr>
+								<tr>
+									<td>18.25</td>
+									<td>Concluding remarks</td> 
+									<td>Organizers</td>
+								</tr>
+							</table>
 							<!-- <div class="split style1">
 								<section>
 									<form method="post" action="#">
@@ -588,7 +601,7 @@
 											<!-- <p>The workshop welcomes world-class experts on {quasi,PAC,&#8709;}-Bayesian learning.</p> -->
 											<!-- <div class="features"> -->
 												<p align="center">
-													<a href="mailto:benjamin.guedj@inria.fr?subject=[Website]%20Your%20NIPS%20Workshop&cc=francis.bach@inria.fr,pascal.germain@inria.fr">Contact us</a>
+													<a href="mailto:benjamin.guedj@inria.fr?subject=[Website]%20Your%20NIPS%20Workshop&cc=francis.bach@inria.fr,pascal.germain@inria.fr">Contact us!</a>
 												</p>
 
 
