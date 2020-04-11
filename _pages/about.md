@@ -36,7 +36,9 @@ I obtained a Ph.D. in mathematics in 2013 from [UPMC](http://www.upmc.fr/) (Univ
 
 TBC
 
-#### Address [see on Google Maps](https://goo.gl/maps/5JmzYNJTt8hZufbZA)
+### Address 
+
+([see on Google Maps](https://goo.gl/maps/5JmzYNJTt8hZufbZA))
 <address>
   UCL Centre for Artificial Intelligence<br />Office 1.25L<br />90 High Holborn<br /> WC1V 6LJ London<br /> United Kingdom
 </address>
