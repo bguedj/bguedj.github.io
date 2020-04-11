@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Benjamin Guedj"
-excerpt: "Benjamin Guedj"
+excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,3 +17,7 @@ This website is still under development. Until I'm done, you might want to visit
 - the website for the NIPS 2017 workshop I co-organised: [https://bguedj.github.io/nips2017/](https://bguedj.github.io/nips2017/)
 
 This website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
+
+### Bio
+
+TBC
