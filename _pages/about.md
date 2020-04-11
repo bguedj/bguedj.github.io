@@ -22,6 +22,12 @@ This website is powered by the [academicpages template](https://github.com/acade
 
 TBC
 
+<!-- Since December 2018, I am a Principal Research Scientist at [University College London (UCL)](https://www.ucl.ac.uk/), in the [Computer Science department](https://www.ucl.ac.uk/computer-science/).
+
+Since November 2014, I am a (tenured) researcher at [Inria](http://www.inria.fr/), member of the [MODAL project-team](https://modal.lille.inria.fr/wikimodal/doku.php) (MOdels for Data Analysis and Learning) of the [Inria Lille - Nord Europe research centre](http://www.inria.fr/centre/lille), France. I am also affiliated with the [Laboratoire Paul Painlevé](https://math.univ-lille1.fr/) (UMR CNRS 8524), which is the mathematics department of the [University of Lille](http://www.univ-lille.fr/).
+
+I obtained a Ph.D. in mathematics in 2013 from [UPMC](http://www.upmc.fr/) (Université Pierre & Marie Curie, France) under the supervision of [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Éric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr). Prior to that, I was a research assistant at [DTU Compute](http://www.compute.dtu.dk/) (Denmark) supervised by [Gilles Guillot](http://www2.imm.dtu.dk/~gigu/#). -->
+
 ### Contact
 
 TBC
