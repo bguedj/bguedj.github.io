@@ -18,6 +18,12 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Events"
+    url: /events/
+
+  - title: "Service"
+    url: /service/
+
   - title: "Tools"
     url: /tools/
     
