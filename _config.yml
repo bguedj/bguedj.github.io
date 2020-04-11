@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Benjamin Guedj"
   avatar           : "profile.png"
-  bio              : "Mathematician and computer scientist. Senior researcher in machine learning"
+  bio              : "Mathematician and computer scientist, senior researcher in machine learning."
   location         : "London, United Kingdom"
-  employer         : "Inria and University College London"
+  employer         : # "Inria and University College London"
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=q-JTC2sAAAAJ"
   email            : "benjamin.guedj@inria.fr"
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-1237-7430"
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackexchange.com/users/10793782/benjamin
+  stackoverflow    : "https://stackexchange.com/users/10793782/benjamin"
   steam            :
   tumblr           :
   twitter          : "bguedj"
