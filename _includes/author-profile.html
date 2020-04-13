@@ -98,6 +98,9 @@
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
       {% if author.googlescholar %}
+        <li><a href="{{ author.arxiv }}"><i class="ai ai-fw ai-arxiv-square"></i> arXiv</a></li>
+      {% endif %}
+      {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.pubmed %}

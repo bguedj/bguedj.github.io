@@ -10,15 +10,15 @@ author_profile: true
 
 [dblp](https://dblp.uni-trier.de/pers/hd/g/Guedj:Benjamin)
 
-[HAL](https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Benjamin%2C+Guedj&CB_auteur=oui&CB_titre=oui&CB_identifiant=oui&CB_article=oui&CB_DOI=oui&CB_typdoc=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=AT&Fen=Aff&css=../css/styles_publicationsHAL.css)
+<!-- [HAL](https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Benjamin%2C+Guedj&CB_auteur=oui&CB_titre=oui&CB_identifiant=oui&CB_article=oui&CB_DOI=oui&CB_typdoc=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=AT&Fen=Aff&css=../css/styles_publicationsHAL.css) -->
 
 [Iris](http://iris.ucl.ac.uk/iris/browse/profile?upi=BGUED94)
 
-[ResearchGate](https://www.researchgate.net/profile/Benjamin_Guedj)
+<!-- [ResearchGate](https://www.researchgate.net/profile/Benjamin_Guedj) -->
 
-[Google Scholar](https://scholar.google.fr/citations?user=q-JTC2sAAAAJ&hl=fr)
+<!-- [Google Scholar](https://scholar.google.fr/citations?user=q-JTC2sAAAAJ&hl=fr) -->
 
-[ORCID](https://orcid.org/0000-0003-1237-7430)
+<!-- [ORCID](https://orcid.org/0000-0003-1237-7430) -->
 
 
 
