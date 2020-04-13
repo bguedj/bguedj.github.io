@@ -28,15 +28,9 @@ This website is still under development. In the meantime, you might want to visi
 
 This website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com).
 
-## Bio
+<!-- ## News
 
-TBC
-
-<!-- I obtained a Ph.D. in mathematics in 2013 from [UPMC](http://www.upmc.fr/) (Université Pierre & Marie Curie, France) under the supervision of [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Éric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr). Prior to that, I was a research assistant at [DTU Compute](http://www.compute.dtu.dk/) (Denmark) supervised by [Gilles Guillot](http://www2.imm.dtu.dk/~gigu/#).
- -->
-
-<!-- My main line of research is in statistical machine learning. I am primarily interested in the design, analysis and implementation of statistical learning methods for high dimensional problems. My interests include (but are not limited to): PAC-Bayesian theory, sparsity and high-dimensional statistics, optimisation theory, statistical learning theory, non-negative matrix factorisation, aggregation of estimators and classifiers, MCMC algorithms, (un)supervised learning, online clustering, concentration inequalities... -->
-
+TBC -->
 
 ## Contact
 
@@ -47,6 +41,16 @@ TBC
 </address>
 
 ([see on Google Maps](https://goo.gl/maps/5JmzYNJTt8hZufbZA))
+
+## Bio
+
+TBC
+
+<!-- I obtained a Ph.D. in mathematics in 2013 from [UPMC](http://www.upmc.fr/) (Université Pierre & Marie Curie, France) under the supervision of [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Éric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr). Prior to that, I was a research assistant at [DTU Compute](http://www.compute.dtu.dk/) (Denmark) supervised by [Gilles Guillot](http://www2.imm.dtu.dk/~gigu/#).
+ -->
+
+<!-- My main line of research is in statistical machine learning. I am primarily interested in the design, analysis and implementation of statistical learning methods for high dimensional problems. My interests include (but are not limited to): PAC-Bayesian theory, sparsity and high-dimensional statistics, optimisation theory, statistical learning theory, non-negative matrix factorisation, aggregation of estimators and classifiers, MCMC algorithms, (un)supervised learning, online clustering, concentration inequalities... -->
+
 
 ## CV
 
