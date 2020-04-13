@@ -1,7 +1,7 @@
 ---
 title: 'New website!'
 date: 2020-04-11
-permalink: /posts/2020/04/11/new-website/
+permalink: /posts/2020/04/11/newwebsite/
 tags:
   - admin
   <!-- - category1
