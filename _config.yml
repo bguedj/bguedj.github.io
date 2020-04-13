@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-UK"
+locale                   : "en-GB"
 title                    : "Benjamin Guedj"
 title_separator          : "-"
 name                     : &name "Benjamin Guedj"
@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-81430854-1"
 
 
 # Site Author
