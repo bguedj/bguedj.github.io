@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my corner of the web!
 
-I am a **Principal Research Fellow** in machine learning at the [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/) ([Department of Computer Science](https://www.ucl.ac.uk/computer-science/), [University College London](https://www.ucl.ac.uk)) and a **tenured research scientist** at [Inria](http://www.inria.fr/), affiliated with the [Modal research team](https://team.inria.fr/modal/) from the [Lille - Nord Europe research centre](https://www.inria.fr/fr/centre-inria-lille-nord-europe). I am also a **visiting researcher** at [The Alan Turing Institute](https://www.turing.ac.uk).
+I am a **Principal Research Fellow** in machine learning at [University College London](https://www.ucl.ac.uk) ([Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), [Department of Computer Science](https://www.ucl.ac.uk/computer-science/)) and a **tenured research scientist** at [Inria](http://www.inria.fr/) (affiliated with the [Modal research team](https://team.inria.fr/modal/) from the [Lille - Nord Europe research centre](https://www.inria.fr/fr/centre-inria-lille-nord-europe)). I am also a **visiting researcher** at [The Alan Turing Institute](https://www.turing.ac.uk).
 
 This website is still under development. In the meantime, you might want to visit
 - my previous website (2016-2020, now deprecated):
