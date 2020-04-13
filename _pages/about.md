@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my corner of the web!
 
-I am a Principal Research Fellow in machine learning at the [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/) ([Department of Computer Science](https://www.ucl.ac.uk/computer-science/), [University College London](https://www.ucl.ac.uk) and a tenured research scientist at [Inria](http://www.inria.fr/), affiliated with the [Modal research team](https://team.inria.fr/modal/) from the [Lille - Nord Europe research centre](https://www.inria.fr/fr/centre-inria-lille-nord-europe).
+I am a **Principal Research Fellow** in machine learning at the [Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/) ([Department of Computer Science](https://www.ucl.ac.uk/computer-science/), [University College London](https://www.ucl.ac.uk)) and a **tenured research scientist** at [Inria](http://www.inria.fr/), affiliated with the [Modal research team](https://team.inria.fr/modal/) from the [Lille - Nord Europe research centre](https://www.inria.fr/fr/centre-inria-lille-nord-europe). I am also a **visiting researcher** at [The Alan Turing Institute](https://www.turing.ac.uk).
 
 This website is still under development. In the meantime, you might want to visit
 - my previous website (2016-2020, now deprecated):
@@ -32,12 +32,8 @@ This website is powered by the [academicpages template](https://github.com/acade
 
 TBC
 
-<!-- Since December 2018, I am a Principal Research Scientist at [University College London (UCL)](https://www.ucl.ac.uk/), in the [Computer Science department](https://www.ucl.ac.uk/computer-science/).
-
-Since November 2014, I am a (tenured) researcher at [Inria](http://www.inria.fr/), member of the [MODAL project-team](https://modal.lille.inria.fr/wikimodal/doku.php) (MOdels for Data Analysis and Learning) of the [Inria Lille - Nord Europe research centre](http://www.inria.fr/centre/lille), France. I am also affiliated with the [Laboratoire Paul Painlevé](https://math.univ-lille1.fr/) (UMR CNRS 8524), which is the mathematics department of the [University of Lille](http://www.univ-lille.fr/).
-
-I obtained a Ph.D. in mathematics in 2013 from [UPMC](http://www.upmc.fr/) (Université Pierre & Marie Curie, France) under the supervision of [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Éric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr). Prior to that, I was a research assistant at [DTU Compute](http://www.compute.dtu.dk/) (Denmark) supervised by [Gilles Guillot](http://www2.imm.dtu.dk/~gigu/#). -->
-
+<!-- I obtained a Ph.D. in mathematics in 2013 from [UPMC](http://www.upmc.fr/) (Université Pierre & Marie Curie, France) under the supervision of [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Éric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr). Prior to that, I was a research assistant at [DTU Compute](http://www.compute.dtu.dk/) (Denmark) supervised by [Gilles Guillot](http://www2.imm.dtu.dk/~gigu/#).
+ -->
 
 <!-- My main line of research is in statistical machine learning. I am primarily interested in the design, analysis and implementation of statistical learning methods for high dimensional problems. My interests include (but are not limited to): PAC-Bayesian theory, sparsity and high-dimensional statistics, optimisation theory, statistical learning theory, non-negative matrix factorisation, aggregation of estimators and classifiers, MCMC algorithms, (un)supervised learning, online clustering, concentration inequalities... -->
 
@@ -46,12 +42,11 @@ I obtained a Ph.D. in mathematics in 2013 from [UPMC](http://www.upmc.fr/) (Univ
 
 TBC
 
-### Address 
-
-([see on Google Maps](https://goo.gl/maps/5JmzYNJTt8hZufbZA))
 <address>
   UCL Centre for Artificial Intelligence<br />Office 1.25L<br />90 High Holborn<br /> WC1V 6LJ London<br /> United Kingdom
 </address>
+
+([see on Google Maps](https://goo.gl/maps/5JmzYNJTt8hZufbZA))
 
 ## CV
 
