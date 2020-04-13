@@ -11,7 +11,11 @@ You can find my publications on the following systems.
 
 
 
-<li><a href="{{ author.arxiv }}"><i class="ai ai-fw ai-arxiv-square"></i> arXiv</a></li>
+<a href="{{ author.arxiv }}"><i class="ai ai-fw ai-arxiv"></i> arXiv</a> &bull;
+<a href="{{ author.dblp }}"><i class="ai ai-fw ai-dblp"></i> arXiv</a> &bull;
+<a href="{{ author.orcid }}"><i class="ai ai-fw ai-orcid"></i> arXiv</a> &bull;
+<a href="{{ author.researchgate }}"><i class="ai ai-fw ai-researchgate"></i> arXiv</a> &bull;
+
 
 <!-- [arXiv](https://arxiv.org/a/guedj_b_1.html) -->
 
