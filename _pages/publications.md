@@ -5,10 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+TBC
 
-[arXiv](https://arxiv.org/a/guedj_b_1.html)
+You can find my publications on the following systems.
 
-[dblp](https://dblp.uni-trier.de/pers/hd/g/Guedj:Benjamin)
+
+
+<li><a href="{{ author.arxiv }}"><i class="ai ai-fw ai-arxiv-square"></i> arXiv</a></li>
+
+<!-- [arXiv](https://arxiv.org/a/guedj_b_1.html) -->
+
+<!-- [dblp](https://dblp.uni-trier.de/pers/hd/g/Guedj:Benjamin) -->
 
 <!-- [HAL](https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Benjamin%2C+Guedj&CB_auteur=oui&CB_titre=oui&CB_identifiant=oui&CB_article=oui&CB_DOI=oui&CB_typdoc=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=AT&Fen=Aff&css=../css/styles_publicationsHAL.css) -->
 
