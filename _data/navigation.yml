@@ -3,35 +3,38 @@ main:
   - title: "Home"
     url: /about/
 
+  - title: "News"
+    url: /year-archive/
+
+  - title: "Group"
+    url: /team/
+
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
 
   - title: "Research"
     url: /research/
 
-  - title: "Events"
-    url: /events/
-
   - title: "Service"
     url: /service/
 
+  - title: "Talks"
+    url: /talks/    
+
   - title: "Tools"
     url: /tools/
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Portfolio"
+  #   url: /portfolio/
+    
+  # - title: "CV"
+  #   url: /cv/
+
+  # - title: "Events"
+  #   url: /events/
+    
+  # - title: "Guide"
+  #   url: /markdown/
