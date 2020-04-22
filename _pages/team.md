@@ -19,7 +19,7 @@ I have or have had the pleasure of working with the following great students.
 **Research engineers**    
 [Arthur Talpaert](https://www.linkedin.com/in/arthur-talpaert-04b446a5/), since Oct. 2019   
 
-**Master interns**
+**Master interns**      
 [Maxime Haddouche](https://www.linkedin.com/in/maxime-haddouche-0b4973163/), since Oct. 2019    
 [Théophile Cantelobre](https://github.com/theophilec), since Feb. 2020   
 
@@ -29,25 +29,16 @@ I have or have had the pleasure of working with the following great students.
 
 **PhD students**
 
-- [Kento Nozawa](https://nzw0301.github.io), May 2019 -- Oct. 2019 (visiting PhD student)      
-- [Le Li](https://www.researchgate.net/scientific-contributions/2108172811_Le_Li), Oct. 2014 -- Nov. 2018. Now research engineer in the private sector, China    
-[PhD thesis](https://tel.archives-ouvertes.fr/tel-01970795/) ([pdf](https://tel.archives-ouvertes.fr/tel-01970795/document))     
+[Kento Nozawa](https://nzw0301.github.io), May 2019 -- Oct. 2019 (visiting PhD student)      
+[Le Li](https://www.researchgate.net/scientific-contributions/2108172811_Le_Li), Oct. 2014 -- Nov. 2018 (co-supervision with [Sébastien Loustau](https://www.linkedin.com/in/sébastien-loustau-b57b4555/))     
+Now research engineer in the private sector, China           
+[PhD thesis](https://tel.archives-ouvertes.fr/tel-01970795/) ([pdf](https://tel.archives-ouvertes.fr/tel-01970795/document))        
 
-**Research engineers**
+**Research engineers**     
+Bhargav Srinivasa Desikan](https://github.com/bhargavvader/), Oct. 2016 -- Sep. 2018. Now MSc student at [the University of Chicago](https://www.uchicago.edu).
 
 **Master interns**
-
-### Visiting scholars
-
-
-
-### Research engineers
-
-- [Bhargav Srinivasa Desikan](https://github.com/bhargavvader/), Oct. 2016 -- Sep. 2018. Now 
-
-### Master interns
-
-- [Louis Pujol](), Apr. 2019 - Oct. 2019.
-- [Wilfried Heyse](https://www.linkedin.com/in/wilfried-heyse-711008151/), May 2018 - Aug. 2018.
-- [Mostafa Bouziane](), Oct. 2017 - Sep. 2018.
-- [Astha Gupta](https://github.com/astha736/), May 2016 - Jul. 2016.
+Louis Pujol, Apr. 2019 - Oct. 2019. Now PhD student at [Université Paris-Saclay](https://www.universite-paris-saclay.fr)		     
+[Wilfried Heyse](https://www.linkedin.com/in/wilfried-heyse-711008151/) (co-supervision with [Viet Chi Tran](https://perso.math.u-pem.fr/tran.viet-chi/)), May 2018 - Aug. 2018. Now PhD student at [Inria Lille - Nord Europe](https://www.inria.fr/fr/centre-inria-lille-nord-europe) and [Université de Lille](https://www.univ-lille.fr)     
+Mostafa Bouziane (co-supervision with [John Klein](https://john-klein.github.io)), Oct. 2017 - Sep. 2018     
+[Astha Gupta](https://github.com/astha736/), May 2016 - Jul. 2016. Now MSc student at [EPFL](https://www.epfl.ch/fr/)    
