@@ -4,7 +4,7 @@ title: "Team"
 author_profile: true
 ---
 
-I have or have had the pleasure of working with the following great students.
+I have had the pleasure of working with the following students.
 
 ## Current group
 
@@ -13,15 +13,17 @@ I have or have had the pleasure of working with the following great students.
 
 **PhD students**   
 [Felix Biggs](https://www.felixbiggs.com), since Sep. 2019   
+[Arthur Leroy](https://arthur-leroy.netlify.app), since Oct. 2017 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))
 Antoine Vendeville, since Sep. 2019 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))   
-[Arthur Leroy](https://arthur-leroy.netlify.app), since Oct. 2017 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/), [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/) and [Jean-François Toussaint](https://fr.wikipedia.org/wiki/Jean-François_Toussaint))   
+<!-- and [Jean-François Toussaint](https://fr.wikipedia.org/wiki/Jean-François_Toussaint))    -->
 
 **Research engineers**    
 [Arthur Talpaert](https://www.linkedin.com/in/arthur-talpaert-04b446a5/), since Oct. 2019   
 
 **Master interns**      
-[Maxime Haddouche](https://www.linkedin.com/in/maxime-haddouche-0b4973163/), since Oct. 2019    
 [Théophile Cantelobre](https://github.com/theophilec), since Feb. 2020   
+[Maxime Haddouche](https://www.linkedin.com/in/maxime-haddouche-0b4973163/), since Oct. 2019    
+
 
 ## Alumni
 
