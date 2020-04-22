@@ -13,7 +13,7 @@ I have had the pleasure of working with the following students.
 
 **PhD students**   
 [Felix Biggs](https://www.felixbiggs.com), since Sep. 2019   
-[Arthur Leroy](https://arthur-leroy.netlify.app), since Oct. 2017 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))
+[Arthur Leroy](https://arthur-leroy.netlify.app), since Oct. 2017 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))       
 Antoine Vendeville, since Sep. 2019 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))   
 <!-- and [Jean-François Toussaint](https://fr.wikipedia.org/wiki/Jean-François_Toussaint))    -->
 
