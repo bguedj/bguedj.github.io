@@ -8,7 +8,7 @@ I have or have had the pleasure of working with the following great students.
 
 ## Current group
 
-**Postdoc**   
+**Postdocs**   
 [Florent Dewez](https://www.linkedin.com/in/florent-dewez-11783912a/), since Feb. 2019
 
 **PhD students**   
@@ -25,19 +25,21 @@ I have or have had the pleasure of working with the following great students.
 
 ## Alumni
 
-<!-- ### Postdoc -->
+<!-- **Postdocs** -->
 
-### PhD students
+**PhD students**
 
-- [Le Li](https://www.researchgate.net/scientific-contributions/2108172811_Le_Li), Oct. 2014 -- Nov. 2018. Now research engineer in the private sector, China.
+- [Kento Nozawa](https://nzw0301.github.io), May 2019 -- Oct. 2019 (visiting PhD student)      
+- [Le Li](https://www.researchgate.net/scientific-contributions/2108172811_Le_Li), Oct. 2014 -- Nov. 2018. Now research engineer in the private sector, China    
+[PhD thesis](https://tel.archives-ouvertes.fr/tel-01970795/) ([pdf](https://tel.archives-ouvertes.fr/tel-01970795/document))     
 
-PhD thesis: https://tel.archives-ouvertes.fr/tel-01970795/document
+**Research engineers**
 
-https://tel.archives-ouvertes.fr/tel-01970795/
+**Master interns**
 
 ### Visiting scholars
 
-- [Kento Nozawa](https://nzw0301.github.io), May 2019 -- Oct. 2019
+
 
 ### Research engineers
 
