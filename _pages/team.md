@@ -13,7 +13,7 @@ I have or have had the pleasure of working with the following great students.
 
 **PhD students**   
 [Felix Biggs](https://www.felixbiggs.com), since Sep. 2019   
-[Antoine Vendeville](), since Sep. 2019 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))   
+Antoine Vendeville, since Sep. 2019 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))   
 [Arthur Leroy](https://arthur-leroy.netlify.app), since Oct. 2017 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/), [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/) and [Jean-François Toussaint](https://fr.wikipedia.org/wiki/Jean-François_Toussaint))   
 
 **Research engineers**    
@@ -27,8 +27,7 @@ I have or have had the pleasure of working with the following great students.
 
 <!-- **Postdocs** -->
 
-**PhD students**
-
+**PhD students**       
 [Kento Nozawa](https://nzw0301.github.io), May 2019 -- Oct. 2019 (visiting PhD student). Now PhD student at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) and [RIKEN AIP](https://www.u-tokyo.ac.jp/en/)       
 [Le Li](https://www.researchgate.net/scientific-contributions/2108172811_Le_Li), Oct. 2014 -- Nov. 2018 (co-supervision with [Sébastien Loustau](https://www.linkedin.com/in/sébastien-loustau-b57b4555/)). Now research engineer at [Xiaomi](https://www.mi.com/global/about), China. [PhD thesis](https://tel.archives-ouvertes.fr/tel-01970795/) ([pdf](https://tel.archives-ouvertes.fr/tel-01970795/document))        
 
