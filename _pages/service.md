@@ -29,13 +29,13 @@ author_profile: true
 
 **Reviewer for international peer-reviewed journals**
 
-Including [Annals of the Institute of Statistical Mathematics](https://www.springer.com/journal/10463), [Data Mining and Knowledge Discovery](https://www.springer.com/journal/10618), [Electronic Journal of Statistics](https://imstat.org/journals-and-publications/electronic-journal-of-statistics/), [Journal of the American Statistical Assocation](https://www.tandfonline.com/toc/uasa20/current), [Journal of Machine Learning Research](http://jmlr.org), [Journal of Multivariate Analysis](https://www.journals.elsevier.com/journal-of-multivariate-analysis), [Journal of the Royal Statistical Society (series A)](https://rss.onlinelibrary.wiley.com/journal/1467985X), [Molecular Ecology Resources](https://onlinelibrary.wiley.com/journal/17550998), [Neurocomputing](https://www.journals.elsevier.com/neurocomputing), [Statistics and Probability Letters](https://www.journals.elsevier.com/statistics-and-probability-letters), [TEST](https://www.springer.com/journal/11749).
+Including [Annals of the Institute of Statistical Mathematics](https://www.springer.com/journal/10463), [Data Mining and Knowledge Discovery](https://www.springer.com/journal/10618), [Electronic Journal of Statistics](https://imstat.org/journals-and-publications/electronic-journal-of-statistics/), [Journal of the American Statistical Assocation](https://www.tandfonline.com/toc/uasa20/current), [Journal of Machine Learning Research](http://jmlr.org), [Journal of Multivariate Analysis](https://www.journals.elsevier.com/journal-of-multivariate-analysis), [Journal of the Royal Statistical Society (series A)](https://rss.onlinelibrary.wiley.com/journal/1467985X), [Molecular Ecology Resources](https://onlinelibrary.wiley.com/journal/17550998), [Neurocomputing](https://www.journals.elsevier.com/neurocomputing), [Statistics and Probability Letters](https://www.journals.elsevier.com/statistics-and-probability-letters), [TEST](https://www.springer.com/journal/11749)
 
 ## Administrative duties
 
-Elected member of [Inria Evaluation Committee](https://www.inria.fr/en/inria-evaluation-committee) (2017-2019, 2019-2023).
+Elected member of [Inria's Evaluation Committee](https://www.inria.fr/en/inria-evaluation-committee) (2017-2019, 2019-2023)
 
-Elected member of the board (2017-2020) of the [French Statistical Society (SFdS)](https://www.sfds.asso.fr)
+Elected member of the board (2017-2020) of the [French Statistical Society (SFdS)](https://www.sfds.asso.fr), deputy secretary (2017-2018)
 
-Founder and first president (2018-2019) of the group [](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/) of the SFdS
+Founder and first president (2018-2019) of the group [Machine Learning and Artificial Intelligence (MALIA)](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/) of the SFdS
 
