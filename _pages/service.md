@@ -33,9 +33,11 @@ Including [Annals of the Institute of Statistical Mathematics](https://www.sprin
 
 ## Administrative duties
 
-Elected member of [Inria's Evaluation Committee](https://www.inria.fr/en/inria-evaluation-committee) (since 2017)
+**[Inria](https://www.inria.fr/)**      
+Elected member of the [Evaluation Committee](https://www.inria.fr/en/inria-evaluation-committee) (since 2017)
 
-Elected member of the board (2017-2020) of the [French Statistical Society (SFdS)](https://www.sfds.asso.fr), deputy secretary (2017-2018)
-
-Founder and first president (2018-2019) of the group [Machine Learning and Artificial Intelligence (MALIA)](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/) of the SFdS
+**[French Statistical Society (SFdS](https://www.sfds.asso.fr)**      
+Elected member of the board (2017-2020)      
+Deputy secretary (2017-2018)      
+Founder and first president (2018-2019) of the group [Machine Learning and Artificial Intelligence (MALIA)](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/)
 
