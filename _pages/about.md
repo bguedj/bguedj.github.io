@@ -58,9 +58,9 @@ Full CV (soon available [here](#))
 
 ### In a nutshell
 
-- **2019--present:** **Visiting researcher**, [The Alan Turing Institute](https://www.turing.ac.uk), UK
-- **2018--present:** **Principal Research Fellow**, [University College London](https://www.ucl.ac.uk), [Department of Computer Science](https://www.ucl.ac.uk/computer-science/), UK
-- **2014--present:** **tenured research scientist**, [Inria](http://www.inria.fr/), France
+<!-- - **2019--present:** **Visiting researcher**, [The Alan Turing Institute](https://www.turing.ac.uk), UK -->
+- *2018--present*: **Principal Research Fellow**, [University College London](https://www.ucl.ac.uk), [Department of Computer Science](https://www.ucl.ac.uk/computer-science/), UK
+- *2014--present*: **tenured research scientist**, [Inria](http://www.inria.fr/), France
 - 2014: **postdoctoral researcher**, [Sorbonne Université](https://www.sorbonne-universite.fr), France
 - 2011--2013: **PhD student** in mathematical statistics, [Sorbonne Université](https://www.sorbonne-universite.fr) and [Télécom Paris](https://www.telecom-paris.fr), France. Supervisors: [Gérard Biau](http://www.lpsm.paris/pageperso/biau/) and [Eric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr). Obtained with highest honors.     
 [PhD thesis](https://tel.archives-ouvertes.fr/tel-00922353) [(pdf)](https://tel.archives-ouvertes.fr/tel-00922353/document)
