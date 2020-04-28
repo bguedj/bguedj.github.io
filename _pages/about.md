@@ -42,9 +42,6 @@ TBC -->
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4965.579778013099!2d-0.12450412319706675!3d51.51707062522409!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b3585a9c137%3A0xffe1d0c346654ca5!2s90%20High%20Holborn%2C%20Holborn%2C%20London%20WC1V%206LJ!5e0!3m2!1sfr!2suk!4v1588107506410!5m2!1sfr!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-## Bio
-
-TBC
 
 <!-- I obtained a Ph.D. in mathematics in 2013 from [UPMC](http://www.upmc.fr/) (Université Pierre & Marie Curie, France) under the supervision of [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Éric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr). Prior to that, I was a research assistant at [DTU Compute](http://www.compute.dtu.dk/) (Denmark) supervised by [Gilles Guillot](http://www2.imm.dtu.dk/~gigu/#).
  -->
