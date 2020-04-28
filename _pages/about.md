@@ -14,24 +14,26 @@ Welcome to my corner of the web!
 I am a **Principal Research Fellow** in machine learning at [University College London](https://www.ucl.ac.uk) ([Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), [Department of Computer Science](https://www.ucl.ac.uk/computer-science/)) and a **tenured research scientist** at [Inria](http://www.inria.fr/) (affiliated with the [Modal research team](https://team.inria.fr/modal/) from the [Lille - Nord Europe research centre](https://www.inria.fr/fr/centre-inria-lille-nord-europe)). I am also a **visiting researcher** at [The Alan Turing Institute](https://www.turing.ac.uk).
 
 This website is still under development. In the meantime, you might want to visit
-- my previous website (2016-2020, now deprecated):
+- [my previous website]((https://bguedj.github.io/website-2016-2020-deprecated/)) (2016-2020, now deprecated)
+<!-- [https://bguedj.github.io/website-2016-2020-deprecated/](https://bguedj.github.io/website-2016-2020-deprecated/) -->
+- the website for the [6PAC joint research team](https://bguedj.github.io/6pac/) I am a co-leader of
+<!-- [https://bguedj.github.io/6pac/](https://bguedj.github.io/6pac/) -->
+- the website for the [ICML 2019 tutorial](https://bguedj.github.io/icml2019/) I gave
+<!-- [https://bguedj.github.io/icml2019/](https://bguedj.github.io/icml2019/) -->
+- the website for the [NIPS 2017 workshop](https://bguedj.github.io/nips2017/) I co-organised
+<!-- [https://bguedj.github.io/nips2017/](https://bguedj.github.io/nips2017/) -->
 
-[https://bguedj.github.io/website-2016-2020-deprecated/](https://bguedj.github.io/website-2016-2020-deprecated/)
-- the website for the 6PAC joint research team I am a co-leader of:
+<!-- This website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub Pages](https://pages.github.com). -->
 
-[https://bguedj.github.io/6pac/](https://bguedj.github.io/6pac/)
-- the website for the ICML 2019 tutorial I gave:
+## News
 
-[https://bguedj.github.io/icml2019/](https://bguedj.github.io/icml2019/)
-- the website for the NIPS 2017 workshop I co-organised:
+TBC
 
-[https://bguedj.github.io/nips2017/](https://bguedj.github.io/nips2017/)
-
-This website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub Pages](https://pages.github.com).
-
-<!-- ## News
-
-TBC -->
+<div class="grid__wrapper">
+{% for post in site.categories.news-post limit:12 %}  
+    {% include archive-single.html type="grid" %}
+{% endfor %}
+</div>
 
 ## Contact
 
