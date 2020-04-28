@@ -2,6 +2,7 @@
 permalink: /team/
 title: "Team"
 author_profile: true
+classes: wide
 ---
 
 I have had the pleasure of working with the following students.

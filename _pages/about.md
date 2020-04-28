@@ -3,6 +3,7 @@ permalink: /
 title: "Home"
 excerpt: "About me"
 author_profile: true
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
@@ -26,7 +27,7 @@ This website is still under development. In the meantime, you might want to visi
 
 [https://bguedj.github.io/nips2017/](https://bguedj.github.io/nips2017/)
 
-This website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com).
+This website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub Pages](https://pages.github.com).
 
 <!-- ## News
 
