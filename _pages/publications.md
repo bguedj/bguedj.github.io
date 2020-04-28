@@ -48,7 +48,7 @@ You can find my publications on the following systems.
   {% assign year = post.date | date: "%Y" %}
   {% if current_year != year %}
     {% assign current_year = year %}
-    {% include archive-subheader.html %}
+    <!-- {% include archive-subheader.html %} -->
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
