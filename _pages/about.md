@@ -54,9 +54,9 @@ TBC
 
 ## CV
 
-Full CV available [here](#).
+Full CV (soon available [here](#))
 
-#### In a nutshell
+### In a nutshell
 
 - **2019--present:** **Visiting researcher**, [The Alan Turing Institute](https://www.turing.ac.uk), UK
 - **2018--present:** **Principal Research Fellow**, [University College London](https://www.ucl.ac.uk), [Department of Computer Science](https://www.ucl.ac.uk/computer-science/), UK
