@@ -43,16 +43,7 @@ You can find my publications on the following systems.
 
 {% include base_path %}
 
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
-{% assign current_year = "" %}
 {% for post in site.publications reversed %}
-  {% assign year = post.date | date: "%Y" %}
-  <!-- {% if current_year != year %}
-    {% assign current_year = year %}
-    {% include archive-subheader.html %}
-  {% endif %} -->
   {% include archive-single.html %}
 {% endfor %}
+
