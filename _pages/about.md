@@ -59,6 +59,10 @@ Short biography [here](files/biography.txt)
 - 2010--2011: **research assistant** at [DTU Compute](https://www.compute.dtu.dk), Denmark. Supervisor: [Gilles Guillot](https://scholar.google.com/citations?user=F3vNjskAAAAJ&hl=fr)
 - 2009-2010: **MSc student** in pure and applied mathematics, [Sorbonne Université](https://www.sorbonne-universite.fr), France
 
+## Twitter feed
+
+<a class="twitter-timeline" data-width="450" data-height="900" data-theme="dark" href="https://twitter.com/bguedj?ref_src=twsrc%5Etfw">Tweets by bguedj</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## News
 
 <div class="grid__wrapper">
