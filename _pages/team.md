@@ -5,9 +5,13 @@ author_profile: true
 classes: wide
 ---
 
-I have had the pleasure of working with the following students.
+## Joining my group
 
-## Current group
+If you are interested in a postdoc position: contact me.
+
+If you are interested in a PhD position: please check this [webpage](https://www.ucl.ac.uk/ai-centre/study).
+
+## Current
 
 **Postdocs**   
 [Florent Dewez](https://www.linkedin.com/in/florent-dewez-11783912a/), since Feb. 2019
@@ -15,7 +19,7 @@ I have had the pleasure of working with the following students.
 **PhD students**   
 [Felix Biggs](https://www.felixbiggs.com), since Sep. 2019   
 [Arthur Leroy](https://arthur-leroy.netlify.app), since Oct. 2017 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))       
-Antoine Vendeville, since Sep. 2019 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))   
+[Antoine Vendeville](https://github.com/AntoineVendeville), since Sep. 2019 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))   
 <!-- and [Jean-François Toussaint](https://fr.wikipedia.org/wiki/Jean-François_Toussaint))    -->
 
 **Research engineers**    
