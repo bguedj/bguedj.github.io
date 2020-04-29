@@ -20,7 +20,7 @@ You can find my publications on the following systems.
 [UCL Iris](http://iris.ucl.ac.uk/iris/browse/profile?upi=BGUED94)     
 [HAL](https://haltools.inria.fr/Public/afficheRequetePubli.php?auteur_exp=Benjamin%2C+Guedj&CB_auteur=oui&CB_titre=oui&CB_identifiant=oui&CB_article=oui&CB_DOI=oui&CB_typdoc=oui&langue=Anglais&tri_exp=annee_publi&tri_exp2=typdoc&tri_exp3=date_publi&ordre_aff=AT&Fen=Aff&css=../css/styles_publicationsHAL.css)     
 
-You can download my [own bibtex file](files/bguedj-publications.bib).
+You can download my [own bibtex file](files/bguedj-publications.bib) which serves to generate the list below.
 
 <script src="https://bibbase.org/show?bib=https://bguedj.github.io/files/bguedj-publications.bib&jsonp=1"></script> 
 
