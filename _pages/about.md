@@ -25,16 +25,6 @@ This website is still under development. In the meantime, you might want to visi
 
 <!-- This website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub Pages](https://pages.github.com). -->
 
-## News
-
-TBC
-
-<div class="grid__wrapper">
-{% for post in site.posts limit:12 %}  
-    {% include archive-single.html type="grid" %}
-{% endfor %}
-</div>
-
 ## Contact
 
 <address>
@@ -69,3 +59,10 @@ Short biography [here](files/biography.txt)
 - 2010--2011: **research assistant** at [DTU Compute](https://www.compute.dtu.dk), Denmark. Supervisor: [Gilles Guillot](https://scholar.google.com/citations?user=F3vNjskAAAAJ&hl=fr)
 - 2009-2010: **MSc student** in pure and applied mathematics, [Sorbonne Université](https://www.sorbonne-universite.fr), France
 
+## News
+
+<div class="grid__wrapper">
+{% for post in site.posts limit:12 %}  
+    {% include archive-single.html type="grid" %}
+{% endfor %}
+</div>
