@@ -22,7 +22,7 @@ You can find my publications on the following systems.
 
 You can download my [own bibtex file](files/bguedj-publications.bib).
 
-<script src="https://bibbase.org/show?bib=[https://bguedj.github.io/files/bguedj-publications.bib]&jsonp=1"></script> 
+<script src="https://bibbase.org/show?bib=https://bguedj.github.io/files/bguedj-publications.bib&jsonp=1"></script> 
 
 {% include base_path %}
 
