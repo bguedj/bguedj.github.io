@@ -30,7 +30,7 @@ This website is still under development. In the meantime, you might want to visi
 TBC
 
 <div class="grid__wrapper">
-{% for post in site.categories.news-post limit:12 %}  
+{% for post in site.posts limit:12 %}  
     {% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
