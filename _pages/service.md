@@ -9,10 +9,10 @@ classes: wide
 ## Main scientific events organised
 
 COLT 2022 (London, UK)     
-Role: local chair
+*Role:* **local chair**
 
 [NIPS 2017](https://nips.cc/Conferences/2017/) workshop, [(Almost) 50 Shades of Bayesian Learning: PAC-Bayesian trends and insights](https://bguedj.github.io/nips2017/)     
-Role: main organiser (with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Pascal Germain](http://www.pascalgermain.info))
+*Role:* **main organiser** (with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Pascal Germain](http://www.pascalgermain.info))
 
 ## Reviewing activities
 
@@ -28,13 +28,12 @@ Role: main organiser (with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Pa
 [COLT](http://learningtheory.org) 2019, 2020    
 [ICANN](https://e-nns.org/) 2019     
 [ICLR](https://iclr.cc) 2018, 2019, 2020    
-[ICML](https://icml.cc) 2018, 2019[^1], 2020    
+[ICML](https://icml.cc) 2018, $\color{red}{2019}$, 2020    
 [IJCAI](https://www.ijcai.org) 2019     
-[NeurIPS](https://neurips.cc) 2016, 2017, 2018[^2], 2019[^1], 2020         
+[NeurIPS](https://neurips.cc) 2016, 2017, $\color{red}{2018}$, \color{red}{2019}, 2020         
 [UAI](http://www.auai.org) 2018, 2019     
 
-[^1]: Best reviewer award (top 5%)
-[^2]: Best reviewer award (top 25%)
+($\color{red}{red}$ indicates a $\color{red}{best reviewer award}$)
 
 **Reviewer for international peer-reviewed journals**
 
