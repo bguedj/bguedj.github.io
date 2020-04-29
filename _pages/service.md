@@ -28,12 +28,12 @@ COLT 2022 (London, UK)
 [COLT](http://learningtheory.org) 2019, 2020    
 [ICANN](https://e-nns.org/) 2019     
 [ICLR](https://iclr.cc) 2018, 2019, 2020    
-[ICML](https://icml.cc) 2018, $\textcolor{red}{2019}$, 2020    
+[ICML](https://icml.cc) 2018, <span style="color:red">2019</span>, 2020    
 [IJCAI](https://www.ijcai.org) 2019     
-[NeurIPS](https://neurips.cc) 2016, 2017, $\textcolor{red}{2018}$, $\textcolor{red}{2019}$, 2020         
+[NeurIPS](https://neurips.cc) 2016, 2017, <span style="color:red">2018</span>, <span style="color:red">2019</span>, 2020         
 [UAI](http://www.auai.org) 2018, 2019     
 
-($\textcolor{red}{red}$ indicates a $\textcolor{red}{best reviewer award}$)
+(<span style="color:red">red</span> indicates a <span style="color:red">best reviewer award</span>)
 
 **Reviewer for international peer-reviewed journals**
 
