@@ -7,9 +7,7 @@ classes: wide
 
 ## Topics
 
-TBC
-
-My research lies in statistical learning theory and machine learning and I mainly submit my papers to statistics journals and ma- chine learning conferences. I have always been careful to preserve a balance between theoretical research, design and implemen- tation of algorithms, and impact through collaborations with companies. Since 2010, I have focused on the following themes.
+I am interested in machine learning, with a particular focus on statistical learning theory, PAC-Bayes theory, computational statistics and algorithms, deep learning, kernels and learning representation.
 
 ## Software
 
@@ -30,13 +28,13 @@ https://i-pri.org/special/Biostatistics/Software/Geneland/
 
 ## Funding
 
-TBC
+### Current
 
 https://anr.fr/en/
 
 **Current**
 
-nips 2017 workshop 8k
+
 
 6pac 30k feb 2018 - jan 2021
 
@@ -51,6 +49,8 @@ Call H2020-CS2-CFP07-2017-02
 
 **Past**
 
+nips 2017 workshop 8k
+
 slap-me (55k), oct 2017-sept 2018
 
 Modal-insight (10k), sept 2016-sept 2018
@@ -61,10 +61,10 @@ TBC
 
 ## Awards
 
-NeurIPS 2019 best reviewer award (top 5%)
+**Best reviewer award** (top 5%), NeurIPS 2019
 
-ICML 2019 best reviewer award (top 5%)
+**Best reviewer award** (top 5%), ICML 2019
 
-NeurIPS 2018 best reviewer award (top 25%)
+**Best reviewer award** (top 25%), NeurIPS 2018
 
-PEDR Inria (2018--2022)
+**PEDR** (bonus for excellence in research and supervision), Inria (2018--2022)
