@@ -48,6 +48,8 @@ Full CV (soon available [here](#))
 
 Short biography [here](files/biography.txt)
 
+[Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=199813)
+
 ### In a nutshell
 
 <!-- - **2019--present:** **Visiting researcher**, [The Alan Turing Institute](https://www.turing.ac.uk), UK -->
