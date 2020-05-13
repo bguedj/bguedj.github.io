@@ -14,7 +14,7 @@ If you are interested in a PhD position: please check this [webpage](https://www
 ## Current
 
 **Postdocs**   
-[Florent Dewez](https://www.linkedin.com/in/florent-dewez-11783912a/), since Feb. 2019
+[Florent Dewez](https://scholar.google.fr/citations?user=5YzcyIAAAAAJ&hl=fr&oi=ao), since Feb. 2019
 
 **PhD students**   
 [Felix Biggs](https://www.felixbiggs.com), since Sep. 2019   
