@@ -19,7 +19,7 @@ If you are interested in a PhD position: please check this [webpage](https://www
 **PhD students**   
 [Felix Biggs](https://www.felixbiggs.com), since Sep. 2019   
 [Arthur Leroy](https://arthur-leroy.netlify.app), since Oct. 2017 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))       
-[Antonin Schrab](), from Sep. 2020 (co-supervision with [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/))
+[Antonin Schrab](), from Sep. 2020 (co-supervision with [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/))     
 [Antoine Vendeville](https://github.com/AntoineVendeville), since Sep. 2019 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))   
 <!-- and [Jean-François Toussaint](https://fr.wikipedia.org/wiki/Jean-François_Toussaint))    -->
 
