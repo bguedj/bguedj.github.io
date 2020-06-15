@@ -2,7 +2,7 @@
 title: "A (condensed) primer on PAC-Bayesian Learning *followed by* A walkthrough of advanced PAC-Bayes results"
 collection: talks
 type: "Seminar"
-permalink: /talks/2020-06-16-talk-faicdt
+permalink: /talks/2020-06-16-seminar-faicdt
 venue: "Foundational AI CDT Seminar Series"
 date: 2020-06-16
 location: "London, UK"
