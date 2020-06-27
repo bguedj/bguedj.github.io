@@ -13,6 +13,8 @@ Welcome to my corner of the web!
 
 I am a **Principal Research Fellow** in machine learning at [University College London](https://www.ucl.ac.uk) ([Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), [Department of Computer Science](https://www.ucl.ac.uk/computer-science/)) and a **tenured research scientist** at [Inria](http://www.inria.fr/) (affiliated with the [Modal research team](https://team.inria.fr/modal/) from the [Lille - Nord Europe research centre](https://www.inria.fr/fr/centre-inria-lille-nord-europe)). I am also a **visiting researcher** at [The Alan Turing Institute](https://www.turing.ac.uk).
 
+I am a member of the [ELLIS society](https://ellis.eu).
+
 This website is still under development. In the meantime, you might want to visit
 - [my previous website]((https://bguedj.github.io/website-2016-2020-deprecated/)) (2016-2020, now deprecated)
 <!-- [https://bguedj.github.io/website-2016-2020-deprecated/](https://bguedj.github.io/website-2016-2020-deprecated/) -->
