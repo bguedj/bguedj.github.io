@@ -28,7 +28,7 @@ If you are interested in a PhD position: please check this [webpage](https://www
 
 **Master interns**      
 [Théophile Cantelobre](https://github.com/theophilec), since Feb. 2020   
-[Maxime Haddouche](https://www.linkedin.com/in/maxime-haddouche-0b4973163/), since Oct. 2019    
+[Maxime Haddouche](https://maximehaddouche.github.io), since Oct. 2019    
 
 
 ## Alumni
