@@ -17,6 +17,7 @@ If you are interested in a PhD position: please check this [webpage](https://www
 [Florent Dewez](https://scholar.google.fr/citations?user=5YzcyIAAAAAJ&hl=fr&oi=ao), since Feb. 2019
 
 **PhD students**   
+[Reuben Adams](https://www.linkedin.com/in/reuben-adams-10031b180/?originalSubdomain=nl), from Sep. 2020 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
 [Felix Biggs](https://www.felixbiggs.com), since Sep. 2019   
 [Arthur Leroy](https://arthur-leroy.netlify.app), since Oct. 2017 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))       
 [Antonin Schrab](), from Sep. 2020 (co-supervision with [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/))     
