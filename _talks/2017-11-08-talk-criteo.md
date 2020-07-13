@@ -8,9 +8,9 @@ date: 2017-11-08
 location: "Paris, France"
 ---
 
-[Link](http://labs.criteo.com/2017/10/announcing-3rd-annual-machine-learning-real-world-workshop/)
+[Link](http://labs.criteo.com/2017/10/announcing-3rd-annual-machine-learning-real-world-workshop/) to the workshop.
 
-[Video](https://youtu.be/hncA61eBWDI)
+[Video](https://youtu.be/hncA61eBWDI).
 
 
 
