@@ -24,7 +24,7 @@ You can find my publications on the following systems.
 
 You can download my [own bibtex file](https://bguedj.github.io/files/bguedj-publications.bib) which serves to generate the list below.
 
-<script src="https://bibbase.org/show?bib=https://bguedj.github.io/files/bguedj-publications.bib&jsonp=1&nocache=1&owner=guedj&css=https://bibbase.org/css/styles/default.css"></script> 
+<script src="https://bibbase.org/show?bib=https://bguedj.github.io/files/bguedj-publications.bib&jsonp=1&nocache=1&owner=guedj"></script> 
 
 {% include base_path %}
 
