@@ -11,7 +11,7 @@ You can find my publications on the following systems.
 <a href="{{ site.author.arxiv }}"><i class="ai ai-fw ai-arxiv"></i> arXiv</a>   
 <a href="{{ site.author.googlescholar }}"><i class="ai ai-fw ai-google-scholar"></i> Google Scholar</a>   
 <a href="{{ site.author.dblp }}"><i class="ai ai-fw ai-dblp"></i> dblp</a>   
-<a href="{{ site.author.googlescholar }}"><i class="ai ai-fw ai-google-scholar"></i> ResearchGate</a>   
+<a href="https://www.researchgate.net/profile/Benjamin_Guedj"><i class="ai ai-fw ai-google-scholar"></i> ResearchGate</a>   
 <a href="https://www.mendeley.com/profiles/benjamin-guedj2/"><i class="ai ai-fw ai-mendeley"></i> Mendeley</a>    
 <a href="{{ site.author.orcid }}"><i class="ai ai-fw ai-orcid"></i> ORCID</a>    
 <a href="https://publons.com/researcher/3156326/benjamin-guedj/"><i class="ai ai-fw ai-publons"></i> Publons</a>     
