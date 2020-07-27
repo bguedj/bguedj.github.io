@@ -28,7 +28,7 @@ If you are interested in a PhD position: please check this [webpage](https://www
 [Arthur Talpaert](https://www.linkedin.com/in/arthur-talpaert-04b446a5/), since Oct. 2019   
 
 **Master interns**      
-[Théophile Cantelobre](https://github.com/theophilec), since Feb. 2020   
+[Théophile Cantelobre](https://theophilec.github.io), since Feb. 2020   
 [Maxime Haddouche](https://maximehaddouche.github.io), since Oct. 2019    
 
 
