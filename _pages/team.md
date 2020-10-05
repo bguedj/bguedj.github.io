@@ -20,7 +20,7 @@ If you are interested in a PhD position: please check this [webpage](https://www
 [Reuben Adams](https://reubenadams.github.io), since Sep. 2020 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
 [Felix Biggs](https://www.felixbiggs.com), since Sep. 2019   
 [Arthur Leroy](https://arthur-leroy.netlify.app), since Oct. 2017 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))       
-[Antonin Schrab](), since Sep. 2020 (co-supervision with [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/))     
+[Antonin Schrab](https://antoninschrab.github.io), since Sep. 2020 (co-supervision with [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/))     
 [Antoine Vendeville](https://antoinevendeville.github.io/), since Sep. 2019 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))   
 
 <!-- **Research engineers**     -->
