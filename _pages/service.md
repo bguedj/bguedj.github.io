@@ -25,13 +25,13 @@ Serving as **Associate Editor**, member of the Editorial Board for [Information 
 **Member of program committees (reviewer)**
 
 [AAAI](https://www.aaai.org) 2020    
-[AISTATS](https://www.aistats.org) 2017, 2018, 2019, 2020    
+[AISTATS](https://www.aistats.org) 2017, 2018, 2019, 2020, 2021    
 [ALT](http://algorithmiclearningtheory.org) 2018     
 [COLT](http://learningtheory.org) 2019, 2020    
 [ICANN](https://e-nns.org/) 2019     
 [ICLR](https://iclr.cc) 2018, 2019, 2020    
 [ICML](https://icml.cc) 2018, <span style="color:red">2019</span>, 2020    
-[IJCAI](https://www.ijcai.org) 2019     
+[IJCAI](https://www.ijcai.org) 2019, 2021     
 [NeurIPS](https://neurips.cc) 2016, 2017, <span style="color:red">2018</span>, <span style="color:red">2019</span>, <span style="color:red">2020</span>         
 [UAI](http://www.auai.org) 2018, 2019     
 
