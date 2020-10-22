@@ -95,6 +95,8 @@ TBC
 
 ## Awards
 
+**Best reviewer award** (top 10%), NeurIPS 2020
+
 **Best reviewer award** (top 5%), NeurIPS 2019
 
 **Best reviewer award** (top 5%), ICML 2019
