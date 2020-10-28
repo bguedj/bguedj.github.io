@@ -14,7 +14,7 @@ If you are interested in a PhD position: please check this [webpage](https://www
 ## Current
 
 **Postdocs**   
-[Florent Dewez](https://scholar.google.fr/citations?user=5YzcyIAAAAAJ&hl=fr&oi=ao), since Feb. 2019
+[Florent Dewez](https://fdewez.github.io), since Feb. 2019
 
 **PhD students**   
 [Reuben Adams](https://reubenadams.github.io), since Sep. 2020 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
