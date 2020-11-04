@@ -15,6 +15,8 @@ I am a **Principal Research Fellow** in machine learning at [University College 
 
 I am a member of the [ELLIS society](https://ellis.eu).
 
+I serve as the scientific director of [The Inria London Programme](https://london.inria.fr), a joint structure to foster scientific collaboration between [Inria](http://www.inria.fr/) and [University College London](https://www.ucl.ac.uk) as part of a strategic France-UK partnership.
+
 This website is still under development. In the meantime, you might want to visit
 - [my previous website]((https://bguedj.github.io/website-2016-2020-deprecated/)) (2016-2020, now deprecated)
 <!-- [https://bguedj.github.io/website-2016-2020-deprecated/](https://bguedj.github.io/website-2016-2020-deprecated/) -->
