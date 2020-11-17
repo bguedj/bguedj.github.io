@@ -478,3 +478,17 @@ eprint={2009.10627},
 archivePrefix={arXiv},
 primaryClass={cs.SI}
 }
+
+@misc{leroy2020clusterspecific,
+      title={Cluster-Specific Predictions with Multi-Task Gaussian Processes}, 
+      author={Arthur Leroy and Pierre Latouche and Benjamin Guedj and Servane Gey},
+      year={2020},
+      note = "Submitted.",
+      abstract = {A model involving Gaussian processes (GPs) is introduced to simultaneously handle multi-task learning, clustering, and prediction for multiple functional data. This procedure acts as a model-based clustering method for functional data as well as a learning step for subsequent predictions for new tasks. The model is instantiated as a mixture of multi-task GPs with common mean processes. A variational EM algorithm is derived for dealing with the optimisation of the hyper-parameters along with the hyper-posteriors' estimation of latent variables and processes. We establish explicit formulas for integrating the mean processes and the latent clustering variables within a predictive distribution, accounting for uncertainty on both aspects. This distribution is defined as a mixture of cluster-specific GP predictions, which enhances the performances when dealing with group-structured data. The model handles irregular grid of observations and offers different hypotheses on the covariance structure for sharing additional information across tasks. The performances on both clustering and prediction tasks are assessed through various simulated scenarios and real datasets. The overall algorithm, called MagmaClust, is publicly available as an R package.},
+      url = "https://arxiv.org/abs/2011.07866",
+      url_PDF = "https://arxiv.org/pdf/2011.07866.pdf",
+      url_Software = "https://github.com/ArthurLeroy/MAGMAclust",
+      eprint={2011.07866},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
