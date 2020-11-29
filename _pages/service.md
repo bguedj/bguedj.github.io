@@ -33,7 +33,7 @@ Serving as **Associate Editor**, member of the Editorial Board for [Information 
 [ICML](https://icml.cc) 2018, <span style="color:red">2019</span>, 2020    
 [IJCAI](https://www.ijcai.org) 2019, 2021     
 [NeurIPS](https://neurips.cc) 2016, 2017, <span style="color:red">2018</span>, <span style="color:red">2019</span>, <span style="color:red">2020</span>         
-[UAI](http://www.auai.org) 2018, 2019     
+[UAI](http://www.auai.org) 2018, 2019, 2021     
 
 (<span style="color:red">red</span> indicates a <span style="color:red">best reviewer award</span>)
 
