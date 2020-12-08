@@ -7,14 +7,19 @@ classes: wide
 
 ## Joining my group
 
+If you are interested in a faculty or permanent researcher position: contact me.
+
 If you are interested in a postdoc position: contact me.
 
-If you are interested in a PhD position: please check this [webpage](https://www.ucl.ac.uk/ai-centre/study).
+If you are interested in a PhD position: please check this [webpage](https://www.ucl.ac.uk/ai-centre/study) and prepare a draft of your research proposal prior to contacting me. For your application to be fully considered, you should ideally link your proposal to my research interests and highlight why you would list me as potential supervisor.
+
+If you are interested in an internship: unfortunately, I can only consider applications from students enrolled at UCL or in a French higher education institution. Due to a large volume of solicitations I might not be able to reply to your query if you are in neither of those cases.
 
 ## Current
 
 **Postdocs**   
-[Florent Dewez](https://fdewez.github.io), since Feb. 2019
+[Florent Dewez](https://fdewez.github.io), since Feb. 2019        
+[Valentina Zantedeschi](http://vzantedeschi.com), from Jan. 2021
 
 **PhD students**   
 [Reuben Adams](https://reubenadams.github.io), since Sep. 2020 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
