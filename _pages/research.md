@@ -95,6 +95,8 @@ TBC
 
 ## Awards
 
+Our paper ["PAC-Bayesian Bound for the Conditional Value at Risk"](https://proceedings.neurips.cc//paper/2020/file/d02e9bdc27a894e882fa0c9055c99722-Paper.pdf) with [Zakaria Mhammedi](https://www.zakmhammedi.com) and [Bob Williamson](https://scholar.google.com/citations?user=G4MBruQAAAAJ&hl=fr) was accepted as a spotlight presentation (top 3% of submissions) at NeurIPS 2020
+
 **Best reviewer award** (top 10%), NeurIPS 2020
 
 **Best reviewer award** (top 5%), NeurIPS 2019
