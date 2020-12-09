@@ -24,7 +24,6 @@ If you are interested in an internship: unfortunately, I can only consider appli
 **PhD students**   
 [Reuben Adams](https://reubenadams.github.io), since Sep. 2020 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
 [Felix Biggs](https://www.felixbiggs.com), since Sep. 2019   
-[Arthur Leroy](https://arthur-leroy.netlify.app), since Oct. 2017 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))       
 [Antonin Schrab](https://antoninschrab.github.io), since Sep. 2020 (co-supervision with [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/))     
 [Antoine Vendeville](https://antoinevendeville.github.io/), since Sep. 2019 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))   
 
@@ -42,6 +41,9 @@ If you are interested in an internship: unfortunately, I can only consider appli
 **PhD students**       
 [Kento Nozawa](https://nzw0301.github.io), May 2019 -- Oct. 2019 (visiting PhD student)      
 &nbsp;&nbsp;&nbsp;*Now PhD student at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) and [RIKEN AIP](https://www.u-tokyo.ac.jp/en/)*       
+[Arthur Leroy](https://arthur-leroy.netlify.app), Oct. 2017 -- Dec. 2020 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))       
+[Thesis (pdf)](https://arthur-leroy.netlify.app/files/Thesis-Arthur_LEROY.pdf), [Slides from the defense](https://arthur-leroy.netlify.app/files/slides_soutenance/slides_thesis.html#/), [Video of the defense](https://youtu.be/6xpyS0tTSCo)      
+&nbsp;&nbsp;&nbsp;*Now teaching assistant at [Université de Paris](https://u-paris.fr/en/498-2/), France*       
 [Le Li](https://www.researchgate.net/scientific-contributions/2108172811_Le_Li), Oct. 2014 -- Nov. 2018 (co-supervision with [Sébastien Loustau](https://www.linkedin.com/in/sébastien-loustau-b57b4555/)). [PhD thesis](https://tel.archives-ouvertes.fr/tel-01970795/) ([pdf](https://tel.archives-ouvertes.fr/tel-01970795/document))            
 &nbsp;&nbsp;&nbsp;*Now research engineer at [Xiaomi](https://www.mi.com/global/about), China* 
 
