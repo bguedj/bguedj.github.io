@@ -44,7 +44,8 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 **PhD students**       
 [Arthur Leroy](https://arthur-leroy.netlify.app), Oct. 2017 -- Dec. 2020 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))           
-&nbsp;&nbsp;&nbsp;[Thesis (pdf)](https://arthur-leroy.netlify.app/files/Thesis-Arthur_LEROY.pdf), [Slides from the defense](https://arthur-leroy.netlify.app/files/slides_soutenance/slides_thesis.html#/), [Video of the defense](https://youtu.be/gAaKoKq9UDo), [Video of the full defense (presentation+questions)](https://youtu.be/6xpyS0tTSCo)      
+&nbsp;&nbsp;&nbsp;[Thesis (pdf)](https://arthur-leroy.netlify.app/files/Thesis-Arthur_LEROY.pdf), [Slides from the defense](https://arthur-leroy.netlify.app/files/slides_soutenance/slides_thesis.html#/)        
+&nbsp;&nbsp;&nbsp;[Video of the defense](https://youtu.be/gAaKoKq9UDo), [Video of the full defense (presentation+questions)](https://youtu.be/6xpyS0tTSCo)      
 &nbsp;&nbsp;&nbsp;*Now teaching assistant at [Université de Paris](https://u-paris.fr/en/498-2/), France*       
 [Le Li](https://www.researchgate.net/scientific-contributions/2108172811_Le_Li), Oct. 2014 -- Nov. 2018 (co-supervision with [Sébastien Loustau](https://www.linkedin.com/in/sébastien-loustau-b57b4555/)).      
 &nbsp;&nbsp;&nbsp;[PhD thesis](https://tel.archives-ouvertes.fr/tel-01970795/) ([pdf](https://tel.archives-ouvertes.fr/tel-01970795/document))            
