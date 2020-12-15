@@ -7,9 +7,9 @@ classes: wide
 
 ## Joining my group
 
-If you are interested in a faculty or permanent researcher position: contact me.
+If you are interested in a faculty or permanent researcher position: please contact me.
 
-If you are interested in a postdoc position: contact me.
+If you are interested in a postdoc position: please contact me.
 
 If you are interested in a PhD position: please check this [webpage](https://www.ucl.ac.uk/ai-centre/study) and prepare a draft of your research proposal prior to contacting me. For your application to be fully considered, you should ideally link your proposal to my research interests and highlight why you would list me as potential supervisor.
 
@@ -38,13 +38,16 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 <!-- **Postdocs** -->
 
-**PhD students**       
+**Visiting**       
 [Kento Nozawa](https://nzw0301.github.io), May 2019 -- Oct. 2019 (visiting PhD student)      
 &nbsp;&nbsp;&nbsp;*Now PhD student at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) and [RIKEN AIP](https://www.u-tokyo.ac.jp/en/)*       
-[Arthur Leroy](https://arthur-leroy.netlify.app), Oct. 2017 -- Dec. 2020 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))       
-[Thesis (pdf)](https://arthur-leroy.netlify.app/files/Thesis-Arthur_LEROY.pdf), [Slides from the defense](https://arthur-leroy.netlify.app/files/slides_soutenance/slides_thesis.html#/), [Video of the defense](https://youtu.be/6xpyS0tTSCo)      
+
+**PhD students**       
+[Arthur Leroy](https://arthur-leroy.netlify.app), Oct. 2017 -- Dec. 2020 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))           
+&nbsp;&nbsp;&nbsp;[Thesis (pdf)](https://arthur-leroy.netlify.app/files/Thesis-Arthur_LEROY.pdf), [Slides from the defense](https://arthur-leroy.netlify.app/files/slides_soutenance/slides_thesis.html#/), [Video of the defense](https://youtu.be/gAaKoKq9UDo), [Video of the full defense (presentation+questions)](https://youtu.be/6xpyS0tTSCo)      
 &nbsp;&nbsp;&nbsp;*Now teaching assistant at [Université de Paris](https://u-paris.fr/en/498-2/), France*       
-[Le Li](https://www.researchgate.net/scientific-contributions/2108172811_Le_Li), Oct. 2014 -- Nov. 2018 (co-supervision with [Sébastien Loustau](https://www.linkedin.com/in/sébastien-loustau-b57b4555/)). [PhD thesis](https://tel.archives-ouvertes.fr/tel-01970795/) ([pdf](https://tel.archives-ouvertes.fr/tel-01970795/document))            
+[Le Li](https://www.researchgate.net/scientific-contributions/2108172811_Le_Li), Oct. 2014 -- Nov. 2018 (co-supervision with [Sébastien Loustau](https://www.linkedin.com/in/sébastien-loustau-b57b4555/)).      
+&nbsp;&nbsp;&nbsp;[PhD thesis](https://tel.archives-ouvertes.fr/tel-01970795/) ([pdf](https://tel.archives-ouvertes.fr/tel-01970795/document))            
 &nbsp;&nbsp;&nbsp;*Now research engineer at [Xiaomi](https://www.mi.com/global/about), China* 
 
 **Research engineers**     
