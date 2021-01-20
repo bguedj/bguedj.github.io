@@ -19,11 +19,11 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 **Postdocs**   
 [Florent Dewez](https://fdewez.github.io), since Feb. 2019        
-[Valentina Zantedeschi](http://vzantedeschi.com), from Jan. 2021
+[Valentina Zantedeschi](http://vzantedeschi.com), since Jan. 2021
 
 **PhD students**   
 [Reuben Adams](https://reubenadams.github.io), since Sep. 2020 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
-[Felix Biggs](https://www.felixbiggs.com), since Sep. 2019   
+[Felix Biggs](https://www.felixbiggs.com), since Sep. 2019 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
 [Antonin Schrab](https://antoninschrab.github.io), since Sep. 2020 (co-supervision with [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/))     
 [Antoine Vendeville](https://antoinevendeville.github.io/), since Sep. 2019 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))   
 
