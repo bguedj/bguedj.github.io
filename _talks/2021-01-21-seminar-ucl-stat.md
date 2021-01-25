@@ -8,4 +8,4 @@ date: 2021-01-21
 location: "London, UK"
 ---
 
-I gave a talk at [UCL Statistical Science Seminar](https://www.ucl.ac.uk/statistics/seminar). You can access the [slides](https://bguedj.github.io/files/bguedj-talk-2021-ucl-stat.pdf) and the [video]().
+I gave a talk at [UCL Statistical Science Seminar](https://www.ucl.ac.uk/statistics/seminar). You can access the [slides](https://bguedj.github.io/files/bguedj-talk-2021-ucl-stat.pdf) and the [video](https://www.youtube.com/watch?v=jOXM34hQdBc&feature=youtu.be).
