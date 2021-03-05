@@ -24,7 +24,7 @@ You can find my publications on the following systems.
 
 You can download my [own bibtex file](https://bguedj.github.io/files/bguedj-publications.bib) which serves to generate the list below (which might take a few seconds to appear depending on your connection).
 
-I have an Erd&#x0151;s number of 2 (I am aware of the following paths: François Laviolette &#8594; Norbert W. Sauer &#8594; Paul Erd&#x0151;s ; John Shawe-Taylor &#8594; Christopher D. Godsil &#8594; Paul Erd&#x0151;s).
+I have an Erd&#x0151;s number of 3 (I am aware of the following paths: me &#8594; François Laviolette &#8594; Norbert W. Sauer &#8594; Paul Erd&#x0151;s ; me &#8594; John Shawe-Taylor &#8594; Christopher D. Godsil &#8594; Paul Erd&#x0151;s).
 
 <script src="https://bibbase.org/show?bib=https://bguedj.github.io/files/bguedj-publications.bib&jsonp=1&nocache=1&theme=default"></script> 
 
