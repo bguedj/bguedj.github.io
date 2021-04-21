@@ -323,17 +323,25 @@ url_PDF = "https://papers.nips.cc/paper/9387-pac-bayes-un-expected-bernstein-ine
 url_Software = "https://github.com/bguedj/PAC-Bayesian-Un-Expected-Bernstein-Inequality"
 }
 
-@inproceedings{cohenaddad2019online,
-title={Online k-means Clustering},
-author={Vincent Cohen-Addad and Benjamin Guedj and Varun Kanade and Guy Rom},
-year={2021},
-booktitle = "AISTATS",
-eprint={1909.06861},
-url = "https://arxiv.org/abs/1909.06861",
-url_PDF = "https://arxiv.org/pdf/1909.06861.pdf",
-archivePrefix={arXiv},
-primaryClass={cs.LG}
+
+@InProceedings{pmlr-v130-cohen-addad21a,
+title = 	 { Online k-means Clustering },
+author =       {Cohen-Addad, Vincent and Guedj, Benjamin and Kanade, Varun and Rom, Guy},
+booktitle = 	 {Proceedings of The 24th International Conference on Artificial Intelligence and Statistics},
+pages = 	 {1126--1134},
+year = 	 {2021},
+editor = 	 {Banerjee, Arindam and Fukumizu, Kenji},
+volume = 	 {130},
+series = 	 {Proceedings of Machine Learning Research},
+month = 	 {13--15 Apr},
+publisher =    {PMLR},
+url_PDF = 	 {http://proceedings.mlr.press/v130/cohen-addad21a/cohen-addad21a.pdf},
+url = 	 {http://proceedings.mlr.press/v130/cohen-addad21a.html},
+url_arXiv = "https://arxiv.org/abs/1909.06861",
+abstract = 	 { We study the problem of learning a clustering of an online set of points. The specific formulation we use is the k-means objective: At each time step the algorithm has to maintain a set of k candidate centers and the loss incurred by the algorithm is the squared distance between the new point and the closest center. The goal is to minimize regret with respect to the best solution to the k-means objective in hindsight. We show that provided the data lies in a bounded region, learning is possible, namely an implementation of the Multiplicative Weights Update Algorithm (MWUA) using a discretized grid achieves a regret bound of $\tilde{O}(\sqrt{T})$ in expectation. We also present an online-to-offline reduction that shows that an efficient no-regret online algorithm (despite being allowed to choose a different set of candidate centres at each round) implies an offline efficient algorithm for the k-means problem, which is known to be NP-hard. In light of this hardness, we consider the slightly weaker requirement of comparing regret with respect to $(1 + \epsilon)OPT$ and present a no-regret algorithm with runtime $O\left(T \mathrm{poly}(\log(T),k,d,1/\epsilon)^{O(kd)}\right)$. Our algorithm is based on maintaining a set of points of bounded size which is a coreset that helps identifying the \emph{relevant} regions of the space for running an adaptive, more efficient, variant of the MWUA. We show that simpler online algorithms, such as \emph{Follow The Leader} (FTL), fail to produce sublinear regret in the worst case. We also report preliminary experiments with synthetic and real-world data. Our theoretical results answer an open question of Dasgupta (2008). }
 }
+
+
 
 @unpublished{guedj2019free,
 title={Still no free lunches: the price to pay for tighter PAC-Bayes bounds},
