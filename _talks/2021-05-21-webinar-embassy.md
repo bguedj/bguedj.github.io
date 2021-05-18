@@ -1,7 +1,7 @@
 ---
 title: "Covid-19 and AI: unexpected challenges and lessons"
 collection: talks
-type: "Webinar"
+type: "Seminar"
 permalink: /talks/2021-05-21-webinar-embassy
 venue: "Amba-series from the French Embassy to the United Kingdom"
 date: 2021-05-21
