@@ -64,9 +64,9 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 **Master interns**         
 [Théophile Cantelobre](https://theophilec.github.io), Feb. 2020 - Aug. 2020      
-&nbsp;&nbsp;&nbsp;*Now MSc student at [Sorbonne Université](https://www.sorbonne-universite.fr)*      			     
+&nbsp;&nbsp;&nbsp;*Now back to the team!*      			     
 [Maxime Haddouche](https://maximehaddouche.github.io), Oct. 2019 - Aug. 2020     
-&nbsp;&nbsp;&nbsp;*Now MSc student at [Sorbonne Université](https://www.sorbonne-universite.fr)*       			     
+&nbsp;&nbsp;&nbsp;*Now back to the team!*       			     
 Louis Pujol, Apr. 2019 - Oct. 2019    
 &nbsp;&nbsp;&nbsp;*Now PhD student at [Université Paris-Saclay](https://www.universite-paris-saclay.fr)*		     
 [Wilfried Heyse](https://www.linkedin.com/in/wilfried-heyse-711008151/), May 2018 - Aug. 2018 (co-supervision with [Viet Chi Tran](https://perso.math.u-pem.fr/tran.viet-chi/))     
