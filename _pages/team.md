@@ -18,12 +18,15 @@ If you are interested in an internship: unfortunately, I can only consider appli
 ## Current
 
 **Postdocs**   
-[Florent Dewez](https://fdewez.github.io), since Feb. 2019        
 [Valentina Zantedeschi](http://vzantedeschi.com), since Jan. 2021
 
 **PhD students**   
 [Reuben Adams](https://reubenadams.github.io), since Sep. 2020 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
+[Mathieu Alain](https://mathieualain.github.io), since Sep. 2021 (co-supervision with [Miguel Rodrigues](https://scholar.google.co.uk/citations?user=Fmjz3bYAAAAJ&hl=en))     
 [Felix Biggs](https://www.felixbiggs.com), since Sep. 2019 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
+[Théophile Cantelobre](https://theophilec.github.io), since Sep. 2021 (co-supervision with [Alessandro Rudi](https://www.di.ens.fr/~rudi/) and [Carlo Ciliberto](https://cciliber.github.io))     
+[Maxime Haddouche](https://maximehaddouche.github.io), since Sep. 2021 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))     
+[Antoine Picard](https://www.linkedin.com/in/antoine-picard-3147a1212/), since Sep. 2021         
 [Antonin Schrab](https://antoninschrab.github.io), since Sep. 2020 (co-supervision with [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/))     
 [Antoine Vendeville](https://antoinevendeville.github.io/), since Sep. 2019 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))   
 
@@ -36,7 +39,9 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 ## Alumni
 
-<!-- **Postdocs** -->
+**Postdocs**        
+[Florent Dewez](https://fdewez.github.io), Feb. 2019 -- August 2021         
+&nbsp;&nbsp;&nbsp;*Now Senior Data Scientist at [DiagRAMS Technologies](https://diagrams-technologies.com), France*        
 
 **Visiting**       
 [Kento Nozawa](https://nzw0301.github.io), May 2019 -- Oct. 2019 (visiting PhD student)      
