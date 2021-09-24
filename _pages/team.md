@@ -58,9 +58,9 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 **Research engineers**     
 [Arthur Talpaert](https://www.linkedin.com/in/arthur-talpaert-04b446a5/), Oct. 2019 - Sept. 2020      
-&nbsp;&nbsp;&nbsp;*Now in between jobs*		   
+&nbsp;&nbsp;&nbsp;*Now data science engineer with [Data Prisme](https://www.data-prisme.com), France*		   
 [Bhargav Srinivasa Desikan](https://github.com/bhargavvader/), Oct. 2016 -- Sep. 2018      
-&nbsp;&nbsp;&nbsp;*Now MSc student at [the University of Chicago](https://www.uchicago.edu)*
+&nbsp;&nbsp;&nbsp;*Now PhD student at [EPFL](https://www.epfl.ch/en/)*
 
 **Master interns**         
 [Théophile Cantelobre](https://theophilec.github.io), Feb. 2020 - Aug. 2020      
