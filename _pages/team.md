@@ -64,7 +64,7 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 **Master interns**         
 Valentin Kilian, May 2021 - Jul. 2021      
-&nbsp;&nbsp;&nbsp;*Now MSc student at [Ecole Normale Supérieure de Rennes](http://www.international.ens-rennes.fr/ens-rennes-english-version-253208.kjsp?RH=KERLANN_FR), France*           	
+&nbsp;&nbsp;&nbsp;*Now MSc student at [Ecole Normale Supérieure de Rennes](http://www.international.ens-rennes.fr/ens-rennes-english-version-253208.kjsp?RH=KERLANN_FR), France*       
 [Théophile Cantelobre](https://theophilec.github.io), Feb. 2020 - Aug. 2020      
 &nbsp;&nbsp;&nbsp;*Now back to the team!*      			     
 [Maxime Haddouche](https://maximehaddouche.github.io), Oct. 2019 - Aug. 2020     
