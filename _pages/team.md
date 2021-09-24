@@ -45,7 +45,7 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 **Visiting**       
 [Kento Nozawa](https://nzw0301.github.io), May 2019 -- Oct. 2019 (visiting PhD student)      
-&nbsp;&nbsp;&nbsp;*Now PhD student at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) and [RIKEN AIP](https://www.u-tokyo.ac.jp/en/)*       
+&nbsp;&nbsp;&nbsp;*Now PhD student at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) and [RIKEN AIP](https://www.u-tokyo.ac.jp/en/), Japan*       
 
 **PhD students**       
 [Arthur Leroy](https://arthur-leroy.netlify.app), Oct. 2017 -- Dec. 2020 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))           
@@ -60,20 +60,20 @@ If you are interested in an internship: unfortunately, I can only consider appli
 [Arthur Talpaert](https://www.linkedin.com/in/arthur-talpaert-04b446a5/), Oct. 2019 - Sept. 2020      
 &nbsp;&nbsp;&nbsp;*Now data science engineer with [Data Prisme](https://www.data-prisme.com), France*		   
 [Bhargav Srinivasa Desikan](https://github.com/bhargavvader/), Oct. 2016 -- Sep. 2018      
-&nbsp;&nbsp;&nbsp;*Now PhD student at [EPFL](https://www.epfl.ch/en/)*
+&nbsp;&nbsp;&nbsp;*Now PhD student at [EPFL](https://www.epfl.ch/en/), Switzerland*
 
 **Master interns**         
 Valentin Kilian, May 2021 - Jul. 2021      
-&nbsp;&nbsp;&nbsp;*Now MSc student at [Ecole Normale Supérieure de Rennes](http://www.international.ens-rennes.fr/ens-rennes-english-version-253208.kjsp?RH=KERLANN_FR), France*      		
+&nbsp;&nbsp;&nbsp;*Now MSc student at [Ecole Normale Supérieure de Rennes](http://www.international.ens-rennes.fr/ens-rennes-english-version-253208.kjsp?RH=KERLANN_FR), France*           	
 [Théophile Cantelobre](https://theophilec.github.io), Feb. 2020 - Aug. 2020      
 &nbsp;&nbsp;&nbsp;*Now back to the team!*      			     
 [Maxime Haddouche](https://maximehaddouche.github.io), Oct. 2019 - Aug. 2020     
 &nbsp;&nbsp;&nbsp;*Now back to the team!*       			     
 Louis Pujol, Apr. 2019 - Oct. 2019    
-&nbsp;&nbsp;&nbsp;*Now PhD student at [Université Paris-Saclay](https://www.universite-paris-saclay.fr)*		     
+&nbsp;&nbsp;&nbsp;*Now PhD student at [Université Paris-Saclay](https://www.universite-paris-saclay.fr), France*		     
 [Wilfried Heyse](https://www.linkedin.com/in/wilfried-heyse-711008151/), May 2018 - Aug. 2018 (co-supervision with [Viet Chi Tran](https://perso.math.u-pem.fr/tran.viet-chi/))     
-&nbsp;&nbsp;&nbsp;*Now PhD student at [Inria Lille - Nord Europe](https://www.inria.fr/fr/centre-inria-lille-nord-europe) and [Université de Lille](https://www.univ-lille.fr)*     
+&nbsp;&nbsp;&nbsp;*Now PhD student at [Inria Lille - Nord Europe](https://www.inria.fr/fr/centre-inria-lille-nord-europe) and [Université de Lille](https://www.univ-lille.fr), France*     
 [Mostafa Bouziane](https://www.linkedin.com/in/mostafa-b-49732b11b/), Oct. 2017 - Sep. 2018 (co-supervision with [John Klein](https://john-klein.github.io))     
-&nbsp;&nbsp;&nbsp;*Now research engineer at [BusterAI](https://buster.ai)*   
+&nbsp;&nbsp;&nbsp;*Now research engineer at [BusterAI](https://buster.ai), France*   
 [Astha Gupta](https://www.linkedin.com/in/astha736/), May 2016 - Jul. 2016    
-&nbsp;&nbsp;&nbsp;*Now MSc student at [EPFL](https://www.epfl.ch/fr/)*    
+&nbsp;&nbsp;&nbsp;*Now MSc student at [EPFL](https://www.epfl.ch/fr/), Switzerland*    
