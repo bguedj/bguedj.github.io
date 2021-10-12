@@ -202,6 +202,7 @@ title={{A Primer on PAC-Bayesian Learning}},
 author={Guedj, Benjamin},
 booktitle={Proceedings of the second congress of the French Mathematical Society},
 year={2019},
+volume = {33},
 abstract = "Generalised Bayesian learning algorithms are increasingly popular in machine learning, due to their PAC generalisation properties and flexibility. The present paper aims at providing a self-contained survey on the resulting PAC-Bayes framework and some of its main theoretical and algorithmic developments.",
 url = "https://arxiv.org/abs/1901.05353",
 url_PDF = "https://arxiv.org/pdf/1901.05353.pdf",
@@ -266,7 +267,7 @@ Roman Garnett},
 title     = {{Dichotomize and Generalize: PAC-Bayesian Binary Activated Deep Neural
 Networks}},
 booktitle = {Advances in Neural Information Processing Systems 32: Annual Conference
-on Neural Information Processing Systems 2019, NeurIPS 2019, 8-14
+on Neural Information Processing Systems 2019, [NeurIPS 2019], 8-14
 December 2019, Vancouver, BC, Canada},
 pages     = {6869--6879},
 year      = {2019},
@@ -309,7 +310,7 @@ Emily B. Fox and
 Roman Garnett},
 title     = {{PAC-Bayes Un-Expected Bernstein Inequality}},
 booktitle = {Advances in Neural Information Processing Systems 32: Annual Conference
-on Neural Information Processing Systems 2019, NeurIPS 2019, 8-14
+on Neural Information Processing Systems 2019, [NeurIPS 2019], 8-14
 December 2019, Vancouver, BC, Canada},
 pages     = {12180--12191},
 year      = {2019},
@@ -361,7 +362,7 @@ title={{PAC-Bayesian Contrastive Unsupervised Representation Learning}},
 author={Kento Nozawa and Pascal Germain and Benjamin Guedj},
 year={2020},
 abstract = "Contrastive unsupervised representation learning (CURL) is the state-of-the-art technique to learn representations (as a set of features) from unlabelled data. While CURL has collected several empirical successes recently, theoretical understanding of its performance was still missing. In a recent work, Arora et al. (2019) provide the first generalisation bounds for CURL, relying on a Rademacher complexity. We extend their framework to the flexible PAC-Bayes setting, allowing us to deal with the non-iid setting. We present PAC-Bayesian generalisation bounds for CURL, which are then used to derive a new representation learning algorithm. Numerical experiments on real-life datasets illustrate that our algorithm achieves competitive accuracy, and yields non-vacuous generalisation bounds.",
-booktitle = "UAI",
+booktitle = {{Conference on Uncertainty in Artificial Intelligence [UAI]}},
 url = "https://arxiv.org/abs/1910.04464",
 url_PDF = "http://www.auai.org/uai2020/proceedings/24_supp.pdf",
 url_Video = "https://youtu.be/WUh3Fgo5nhY",
@@ -405,16 +406,23 @@ month={Jan},
 pages={63}
 }
 
-@unpublished{haddouche2020pacbayes,
+@article{haddouche2020pacbayes,
 title={{PAC-Bayes unleashed: generalisation bounds with unbounded losses}},
 author={Maxime Haddouche and Benjamin Guedj and Omar Rivasplata and John Shawe-Taylor},
 year={2021},
 eprint={2006.07279},
 archivePrefix={arXiv},
+journal = {Entropy},
+volume = {23},
+number = {10},
+ARTICLE-NUMBER = {1330},
+ISSN = {1099-4300},
+DOI = {10.3390/e23101330},
+issuetitle = {Approximate Bayesian Inference},
 abstract = "We present new PAC-Bayesian generalisation bounds for learning problems with unbounded loss functions. This extends the relevance and applicability of the PAC-Bayes learning framework, where most of the existing literature focuses on supervised learning problems with a bounded loss function (typically assumed to take values in the interval [0;1]). In order to relax this assumption, we propose a new notion called HYPE (standing for \emph{HYPothesis-dependent rangE}), which effectively allows the range of the loss to depend on each predictor. Based on this new notion we derive a novel PAC-Bayesian generalisation bound for unbounded loss functions, and we instantiate it on a linear regression problem. To make our theory usable by the largest audience possible, we include discussions on actual computation, practicality and limitations of our assumptions.",
 primaryClass={stat.ML},
-note = "Accepted for publication at Entropy",
-url = "https://arxiv.org/abs/2006.07279",
+url = "https://www.mdpi.com/1099-4300/23/10/1330",
+url_arXiv = "https://arxiv.org/abs/2006.07279",
 url_PDF = "https://arxiv.org/pdf/2006.07279.pdf",
 url_Software = "https://github.com/bguedj/pac-bayes-self-bounding"
 }
@@ -446,6 +454,7 @@ issuetitle = {Approximate Bayesian Inference},
 eprint={2006.12228},
 abstract = "We make two related contributions motivated by the challenge of training stochastic neural networks, particularly in a PAC–Bayesian setting: (1) we show how averaging over an ensemble of stochastic neural networks enables a new class of partially-aggregated estimators, proving that these lead to unbiased lower-variance output and gradient estimators; (2) we reformulate a PAC–Bayesian bound for signed-output networks to derive in combination with the above a directly optimisable, differentiable objective and a generalisation guarantee, without using a surrogate loss or loosening the bound. We show empirically that this leads to competitive generalisation guarantees and compares favourably to other methods for training such networks. Finally, we note that the above leads to a simpler PAC–Bayesian training scheme for sign-activation networks than previous work.",
 url = "https://www.mdpi.com/1099-4300/23/10/1280",
+url_arXiv = "https://arxiv.org/abs/2006.12228",
 url_PDF = "https://arxiv.org/pdf/2006.12228.pdf",
 archivePrefix={arXiv},
 doi = "10.3390/e23101280",
@@ -453,11 +462,24 @@ primaryClass={cs.LG}
 }
 
 @inproceedings{mhammedi2020pacbayesian,
-title={{PAC-Bayesian Bound for the Conditional Value at Risk}},
-author={Zakaria Mhammedi and Benjamin Guedj and Robert C. Williamson},
-year={2020},
+author    = {Zakaria Mhammedi and
+Benjamin Guedj and
+Robert C. Williamson},
+editor    = {Hugo Larochelle and
+Marc'Aurelio Ranzato and
+Raia Hadsell and
+Maria{-}Florina Balcan and
+Hsuan{-}Tien Lin},
+title = {{PAC-Bayesian Bound for the Conditional Value at Risk}},
+booktitle = {Advances in Neural Information Processing Systems 33: Annual Conference
+on Neural Information Processing Systems 2020, [NeurIPS 2020], December
+6-12, 2020, virtual},
+year      = {2020},
+url       = {https://proceedings.neurips.cc/paper/2020/hash/d02e9bdc27a894e882fa0c9055c99722-Abstract.html},
+timestamp = {Tue, 19 Jan 2021 15:57:31 +0100},
+biburl    = {https://dblp.org/rec/conf/nips/MhammediGW20.bib},
+bibsource = {dblp computer science bibliography, https://dblp.org},
 eprint={2006.14763},
-booktitle = {NeurIPS},
 abstract = {Conditional Value at Risk (CVaR) is a family of "coherent risk measures" which generalize the traditional mathematical expectation. Widely used in mathematical finance, it is garnering increasing interest in machine learning, e.g., as an alternate approach to regularization, and as a means for ensuring fairness. This paper presents a generalization bound for learning algorithms that minimize the CVaR of the empirical loss. The bound is of PAC-Bayesian type and is guaranteed to be small when the empirical CVaR is small. We achieve this by reducing the problem of estimating CVaR to that of merely estimating an expectation. This then enables us, as a by-product, to obtain concentration inequalities for CVaR even when the random variable in question is unbounded.},
 archivePrefix={arXiv},
 url = "https://arxiv.org/abs/2006.14763",
@@ -563,15 +585,15 @@ primaryClass={cs.LG}
 }
 
 @techreport{guedj:hal-03277494,
-  TITLE = {{Covid-19 and AI: Unexpected Challenges and Lessons}},
-  AUTHOR = {Guedj, Benjamin},
-  url = {https://hal.inria.fr/hal-03277494},
-  YEAR = {2021},
-  MONTH = Jul,
-  type = {Research Report},
-  abstract = {On May 21st, 2021, we held the webinar "Covid-19 and AI: unexpected challenges and lessons". This short note presents its highlights.},
-  url_PDF = {https://hal.inria.fr/hal-03277494v2/file/main.pdf},
-  url_Video = {https://youtu.be/5AnQ35tBnv0}
+TITLE = {{Covid-19 and AI: Unexpected Challenges and Lessons}},
+AUTHOR = {Guedj, Benjamin},
+url = {https://hal.inria.fr/hal-03277494},
+YEAR = {2021},
+MONTH = {Jul},
+type = {Research Report},
+abstract = {On May 21st, 2021, we held the webinar "Covid-19 and AI: unexpected challenges and lessons". This short note presents its highlights.},
+url_PDF = {https://hal.inria.fr/hal-03277494v2/file/main.pdf},
+url_Video = {https://youtu.be/5AnQ35tBnv0}
 }
 
 @unpublished{zantedeschi2021learning,
