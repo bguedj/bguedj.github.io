@@ -11,16 +11,16 @@ redirect_from:
 
 Welcome to my corner of the web!
 
-I am a **Principal Research Fellow** in machine learning at [University College London](https://www.ucl.ac.uk) ([Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), [Department of Computer Science](https://www.ucl.ac.uk/computer-science/)) and a **tenured research scientist** at [Inria](http://www.inria.fr/) (affiliated with the [Modal research team](https://team.inria.fr/modal/) from the [Lille - Nord Europe research centre](https://www.inria.fr/fr/centre-inria-lille-nord-europe)). I am also a **visiting researcher** at [The Alan Turing Institute](https://www.turing.ac.uk) -- from October 1, 2021, I will be a **Turing Fellow**.
+I am a **Principal Research Fellow** in machine learning at [University College London](https://www.ucl.ac.uk) ([Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), [Department of Computer Science](https://www.ucl.ac.uk/computer-science/)) and a **tenured research scientist** at [Inria](http://www.inria.fr/) (affiliated with the [Modal research team](https://team.inria.fr/modal/) from the [Lille - Nord Europe research centre](https://www.inria.fr/fr/centre-inria-lille-nord-europe)). I am also a **Turing Fellow** at [The Alan Turing Institute](https://www.turing.ac.uk).
 
 I am a member of the [ELLIS society](https://ellis.eu) (and more precisely of its [UCL Unit](https://ucl-ellis.github.io)) and a Fellow of the [Royal Statistical Society](https://rss.org.uk).
 
 I serve as the scientific director of [The Inria London Programme](https://london.inria.fr), a joint structure to foster scientific collaboration between [Inria](http://www.inria.fr/) and [University College London](https://www.ucl.ac.uk) as part of a strategic France-UK partnership.
 
-This website is still under development. In the meantime, you might want to visit
+You might want to visit companion websites:
 - [my previous website]((https://bguedj.github.io/website-2016-2020-deprecated/)) (2016-2020, now deprecated)
 <!-- [https://bguedj.github.io/website-2016-2020-deprecated/](https://bguedj.github.io/website-2016-2020-deprecated/) -->
-- the website for the [6PAC joint research team](https://bguedj.github.io/6pac/) I am a co-leader of
+- the website for the [6PAC joint research team](https://bguedj.github.io/6pac/) I was a co-leader of
 <!-- [https://bguedj.github.io/6pac/](https://bguedj.github.io/6pac/) -->
 - the website for the [ICML 2019 tutorial](https://bguedj.github.io/icml2019/) I gave
 <!-- [https://bguedj.github.io/icml2019/](https://bguedj.github.io/icml2019/) -->
@@ -48,15 +48,15 @@ This website is still under development. In the meantime, you might want to visi
 
 ## CV
 
-Full CV (soon available [here](#))
+<!-- Full CV (soon available [here](#)) -->
 
-Short biography [here](files/biography.txt)
+[Short biography](files/biography.txt)
 
 [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=199813)
 
 ### In a nutshell
 
-<!-- - **2019--present:** **Visiting researcher**, [The Alan Turing Institute](https://www.turing.ac.uk), UK -->
+- *2021--present:* **Turing Fellow**, [The Alan Turing Institute](https://www.turing.ac.uk), UK
 - *2018--present*: **Principal Research Fellow**, [University College London](https://www.ucl.ac.uk), [Department of Computer Science](https://www.ucl.ac.uk/computer-science/), UK
 - *2014--present*: **tenured research scientist**, [Inria](http://www.inria.fr/), France
 - 2014: **postdoctoral researcher**, [Sorbonne Université](https://www.sorbonne-universite.fr), France
@@ -69,10 +69,11 @@ Short biography [here](files/biography.txt)
 
 <a class="twitter-timeline" data-width="450" data-height="900" data-theme="dark" href="https://twitter.com/bguedj?ref_src=twsrc%5Etfw">Tweets by bguedj</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## News
+<!-- ## News
 
 <div class="grid__wrapper">
 {% for post in site.posts limit:12 %}  
     {% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
+ -->
