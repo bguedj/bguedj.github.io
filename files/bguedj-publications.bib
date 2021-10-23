@@ -242,11 +242,22 @@ url_Video = "https://youtu.be/cX1DErrxzOk"
 }
 
 @unpublished{zhang2019perturbation,
-title={{Perturbation Validation: A New Heuristic to Validate Machine Learning Models}},
+title={{Model Validation Using Mutated Training Labels: An Exploratory Study}},
 author={Jie M. Zhang and Mark Harman and Benjamin Guedj and Earl T. Barr and John Shawe-Taylor},
 year={2019},
 note = "Submitted.",
-abstract = {This paper introduces Perturbation Validation (PV), a new heuristic to validate machine learning models. PV does not rely on test data. Instead, it perturbs training data labels, re-trains the model against the perturbed data, then uses the consequent training accuracy decrease rate to assess model fit. PV also differs from traditional statistical approaches, which make judgements without considering label distribution. We evaluate PV on 10 real-world datasets and 6 synthetic datasets. Our results demonstrate that PV is more discriminating about model fit than existing validation approaches and it accords well with widely-held intuitions concerning the properties of a good model fit measurement. We also show that PV complements existing validation approaches, allowing us to give explanations for some of the issues present in the recently-debated "apparent paradox" that high capacity (potentially "overfitted") models may, nevertheless, exhibit good generalisation ability.},
+abstract = {We introduce an exploratory study on Mutation Validation (MV), a model
+validation method using mutated training labels for supervised learning. MV
+mutates training data labels, retrains the model against the mutated data, then
+uses the metamorphic relation that captures the consequent training performance
+changes to assess model fit. It does not use a validation set or test set. The
+intuition underpinning MV is that overfitting models tend to fit noise in the
+training data. We explore 8 different learning algorithms, 18 datasets, and 5
+types of hyperparameter tuning tasks. Our results demonstrate that MV is
+accurate in model selection: the model recommendation hit rate is 92\% for MV
+and less than 60\% for out-of-sample-validation. MV also provides more stable
+hyperparameter tuning results than out-of-sample-validation across different
+runs.},
 url = "https://arxiv.org/abs/1905.10201",
 url_PDF = "https://arxiv.org/pdf/1905.10201.pdf",
 archivePrefix={arXiv},
