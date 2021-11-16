@@ -660,18 +660,17 @@ archivePrefix={arXiv},
 primaryClass={stat.ML}
 }
 
-@unpublished{perezortiz2021progress,
+@inproceedings{perezortiz2021progress,
 title={Progress in self-certified neural networks},
 author={Maria Perez-Ortiz and Omar Rivasplata and Emilio Parrado-Hernandez and Benjamin Guedj and John Shawe-Taylor},
 year={2021},
-note = "Accepted at the NeurIPS 2021 workshop on Bayesian Deep Learning [BDL].",
-abstract = {},
-url = {},
-url_PDF = {},
-url_Software = {},
-eprint={},
+booktitle={{NeurIPS 2021 workshop Bayesian Deep Learning [BDL]}},
+abstract = {A learning method is self-certified if it uses all available data to simultaneously learn a predictor and certify its quality with a statistical certificate that is valid on unseen data. Recent work has shown that neural network models trained by optimising PAC-Bayes bounds lead not only to accurate predictors, but also to tight risk certificates, bearing promise towards achieving self-certified learning. In this context, learning and certification strategies based on PAC-Bayes bounds are especially attractive due to their ability to leverage all data to learn a posterior and simultaneously certify its risk. In this paper, we assess the progress towards self-certification in probabilistic neural networks learnt by PAC-Bayes inspired objectives. We empirically compare (on 4 classification datasets) classical test set bounds for deterministic predictors and a PAC-Bayes bound for randomised self-certified predictors. We first show that both of these generalisation bounds are not too far from out-of-sample test set errors. We then show that in data starvation regimes, holding out data for the test set bounds adversely affects generalisation performance, while self-certified strategies based on PAC-Bayes bounds do not suffer from this drawback, proving that they might be a suitable choice for the small data regime. We also find that probabilistic neural networks learnt by PAC-Bayes inspired objectives lead to certificates that can be surprisingly competitive with commonly used test set bounds.},
+url = {https://arxiv.org/abs/2111.07737},
+url_PDF = {https://arxiv.org/pdf/2111.07737.pdf},
+eprint={2111.07737},
 archivePrefix={arXiv},
-primaryClass={}
+primaryClass={cs.LG}
 }
 
 
