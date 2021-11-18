@@ -69,7 +69,7 @@ Valentin Kilian, May 2021 - Jul. 2021
 &nbsp;&nbsp;&nbsp;*Now back to the team!*      			     
 [Maxime Haddouche](https://maximehaddouche.github.io), Oct. 2019 - Aug. 2020     
 &nbsp;&nbsp;&nbsp;*Now back to the team!*       			     
-Louis Pujol, Apr. 2019 - Oct. 2019    
+[Louis Pujol](https://louis-pujol.github.io), Apr. 2019 - Oct. 2019    
 &nbsp;&nbsp;&nbsp;*Now PhD student at [Université Paris-Saclay](https://www.universite-paris-saclay.fr), France*		     
 [Wilfried Heyse](https://www.linkedin.com/in/wilfried-heyse-711008151/), May 2018 - Aug. 2018 (co-supervision with [Viet Chi Tran](https://perso.math.u-pem.fr/tran.viet-chi/))     
 &nbsp;&nbsp;&nbsp;*Now PhD student at [Inria Lille - Nord Europe](https://www.inria.fr/fr/centre-inria-lille-nord-europe) and [Université de Lille](https://www.univ-lille.fr), France*     
