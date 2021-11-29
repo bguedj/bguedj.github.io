@@ -8,7 +8,7 @@ classes: wide
 
 ## Main scientific events organised
 
-COLT 2022 (London, UK)     
+[COLT 2022](http://learningtheory.org/colt2022/) (London, UK)     
 *Role:* **local chair**
 
 [NIPS 2017](https://nips.cc/Conferences/2017/) workshop, [(Almost) 50 Shades of Bayesian Learning: PAC-Bayesian trends and insights](https://bguedj.github.io/nips2017/)     
