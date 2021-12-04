@@ -13,7 +13,7 @@ Welcome to my corner of the web!
 
 I am a **Principal Research Fellow** in machine learning at [University College London](https://www.ucl.ac.uk) ([Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), [Department of Computer Science](https://www.ucl.ac.uk/computer-science/)) and a **tenured research scientist** at [Inria](http://www.inria.fr/) (affiliated with the [Modal research team](https://team.inria.fr/modal/) from the [Lille - Nord Europe research centre](https://www.inria.fr/fr/centre-inria-lille-nord-europe)). I am also a **Turing Fellow** at [The Alan Turing Institute](https://www.turing.ac.uk).
 
-I am a member of the [ELLIS society](https://ellis.eu) (and more precisely of its [UCL Unit](https://ucl-ellis.github.io)) and a Fellow of the [Royal Statistical Society](https://rss.org.uk).
+I am a member of the [ELLIS society](https://ellis.eu) (and more precisely of its [UCL Unit](https://ucl-ellis.github.io)) and a Fellow of the [Royal Statistical Society](https://rss.org.uk) (member of the [Computational Statistics and Machine Learning](https://rss.org.uk/membership/rss-groups-and-committees/sections/statistical-computing/) section).
 
 I serve as the scientific director of [The Inria London Programme](https://london.inria.fr), a joint structure to foster scientific collaboration between [Inria](http://www.inria.fr/) and [University College London](https://www.ucl.ac.uk) as part of a strategic France-UK partnership.
 
