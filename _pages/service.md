@@ -58,3 +58,4 @@ Elected member of the board (2017-2020)
 Deputy secretary (2017-2018)      
 Founder and first president (2018-2019) of the group [Machine Learning and Artificial Intelligence (MALIA)](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/)
 
+I am a member of the board of [FERN-UK](https://uk.ambafrance.org/The-board) (French Education and Research Network in the UK, led by the [French Embassy to the UK](https://uk.ambafrance.org/-Science-Tech-)) and a member of the board of the [Franco-British Data Society](https://www.francobritishdatasociety.org).
