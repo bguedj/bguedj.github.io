@@ -18,7 +18,9 @@ classes: wide
 
 **Editorial Boards**
 
-Serving as **Associate Editor**, member of the Editorial Board for [Data-Centric Engineering](https://www.cambridge.org/core/journals/data-centric-engineering) (since March 2021)
+Serving as **Action Editor**, member of the Editorial Board for [Transactions on Machine Learning Research](https://jmlr.org/tmlr/) (TMLR, since December 2021)          
+
+Serving as **Associate Editor**, member of the Editorial Board for [Data-Centric Engineering](https://www.cambridge.org/core/journals/data-centric-engineering) (since March 2021)       
 
 Serving as **member of the Editorial Board of reviewers** for the [Journal of Machine Learning Research (JMLR)](http://www.jmlr.org) (since June 2020)
 
@@ -34,11 +36,11 @@ Serving as **Associate Editor**, member of the Editorial Board for [Information 
 [AAAI](https://www.aaai.org) 2020    
 [AISTATS](https://www.aistats.org) 2017, 2018, 2019, 2020, 2021    
 [ALT](http://algorithmiclearningtheory.org) 2018     
-[COLT](http://learningtheory.org) 2019, 2020, 2021    
+[COLT](http://learningtheory.org) 2019, 2020, 2021, 2022    
 [ICANN](https://e-nns.org/) 2019     
 [ICLR](https://iclr.cc) 2018, 2019, 2020    
-[ICML](https://icml.cc) 2018, <span style="color:red">2019</span>, 2020, 2021    
-[IJCAI](https://www.ijcai.org) 2019      <!-- , 2021 (senior reviewer)     -->
+[ICML](https://icml.cc) 2018, <span style="color:red">2019</span>, 2020, 2021, 2022    
+[IJCAI](https://www.ijcai.org) 2019       
 [NeurIPS](https://neurips.cc) 2016, 2017, <span style="color:red">2018</span>, <span style="color:red">2019</span>, <span style="color:red">2020</span>         
 [UAI](http://www.auai.org) 2018, 2019, 2021     
 
@@ -57,5 +59,9 @@ Elected member of the [Evaluation Committee](https://www.inria.fr/en/inria-evalu
 Elected member of the board (2017-2020)      
 Deputy secretary (2017-2018)      
 Founder and first president (2018-2019) of the group [Machine Learning and Artificial Intelligence (MALIA)](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/)
+
+**[Royal Statistical Society](https://rss.org.uk)**
+Nominated member of the [Computational Statistics and Machine Learning](https://rss.org.uk/membership/rss-groups-and-committees/sections/statistical-computing/) Section (2021--)
+
 
 I am a member of the board of [FERN-UK](https://uk.ambafrance.org/The-board) (French Education and Research Network in the UK, led by the [French Embassy to the UK](https://uk.ambafrance.org/-Science-Tech-)) and a member of the board of the [Franco-British Data Society](https://www.francobritishdatasociety.org).
