@@ -735,9 +735,9 @@ primaryClass={cs.LG}
 @unpublished{cherief2021vae,
 title={On {PAC-Bayesian} reconstruction guarantees for {VAEs}},
 author={Badr-Eddine Chérief-Abdellatif and Yuyang Shi and Arnaud Doucet and Benjamin Guedj},
-year={2021},
+year={2022},
 note = "Accepted for publication at AISTATS",
-abstract = {},
+abstract = {Despite its wide use and empirical successes, the theoretical understanding and study of the behaviour and performance of the variational autoencoder (VAE) have only emerged in the past few years. We contribute to this recent line of work by analysing the VAE's reconstruction ability for unseen test data, leveraging arguments from the PAC-Bayes theory. We provide generalisation bounds on the theoretical reconstruction error, and provide insights on the regularisation effect of VAE objectives.We illustrate our theoretical results with supporting experiments on classical benchmark datasets.},
 url = {},
 url_PDF = {},
 url_Code = {},
@@ -780,14 +780,41 @@ author={Théophile Cantelobre and Carlo Ciliberto and Benjamin Guedj and Alessan
 year={2022},
 note = "Submitted.",
 abstract = {Measures of similarity (or dissimilarity) are a key ingredient to many machine learning algorithms. We introduce DID, a pairwise dissimilarity measure applicable to a wide range of data spaces, which leverages the data's internal structure to be invariant to diffeomorphisms. We prove that DID enjoys properties which make it relevant for theoretical study and practical use. By representing each datum as a function, DID is defined as the solution to an optimization problem in a Reproducing Kernel Hilbert Space and can be expressed in closed-form. In practice, it can be efficiently approximated via Nyström sampling. Empirical experiments support the merits of DID.},
-url = {},
-url_PDF = {},
+url = {https://arxiv.org/abs/2202.05614},
+url_PDF = {https://arxiv.org/pdf/2202.05614.pdf},
 url_Code = {},
-eprint={},
+eprint={2202.05614},
 archivePrefix={arXiv},
-primaryClass={cs.LG}
+primaryClass={stat.ML}
 }
 
+@unpublished{adams2022confusion,
+title={Controlling Confusion via Generalisation Bounds},
+author={Reuben Adams and John Shawe-Taylor and Benjamin Guedj},
+year={2022},
+note = "Submitted.",
+abstract = {We establish new generalisation bounds for multiclass classification by abstracting to a more general setting of discretised error types. Extending the PAC-Bayes theory, we are hence able to provide fine-grained bounds on performance for multiclass classification, as well as applications to other learning problems including discretisation of regression losses. Tractable training objectives are derived from the bounds. The bounds are uniform over all weightings of the discretised error types and thus can be used to bound weightings not foreseen at training, including the full confusion matrix in the multiclass classification case.},
+url = {https://arxiv.org/abs/2202.05560},
+url_PDF = {https://arxiv.org/pdf/2202.05560.pdf},
+url_Code = {},
+eprint={2202.05560},
+archivePrefix={arXiv},
+primaryClass={stat.ML}
+}
+
+@unpublished{picard2022divergence,
+title={On change of measure inequalities for $f$-divergences},
+author={Antoine Picard-Weibel and Benjamin Guedj},
+year={2022},
+note = "Submitted.",
+abstract = {We propose new change of measure inequalities based on $f$-divergences (of which the Kullback-Leibler divergence is a particular case). Our strategy relies on combining the Legendre transform of $f$-divergences and the Young-Fenchel inequality. By exploiting these new change of measure inequalities, we derive new PAC-Bayesian generalisation bounds with a complexity involving $f$-divergences, and holding in mostly unchartered settings (such as heavy-tailed losses). We instantiate our results for the most popular $f$-divergences.},
+url = {https://arxiv.org/abs/2202.05568},
+url_PDF = {https://arxiv.org/pdf/2202.05568.pdf},
+url_Code = {},
+eprint={2202.05568},
+archivePrefix={arXiv},
+primaryClass={stat.ML}
+}
 
 
 
