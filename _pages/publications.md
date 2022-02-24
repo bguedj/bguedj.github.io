@@ -26,6 +26,9 @@ You can download my [own bibtex file](https://bguedj.github.io/files/bguedj-publ
 
 I have an Erd&#x0151;s number of 3 (I am aware of the following paths: me &#8594; François Laviolette &#8594; Norbert W. Sauer &#8594; Paul Erd&#x0151;s ; me &#8594; John Shawe-Taylor &#8594; Christopher D. Godsil &#8594; Paul Erd&#x0151;s).
 
+In the list below, all links called "Paper" refer to the published, definitive versions of my works. Most of my papers are also available on the arXiv and have an "arXiv" link, but please note these might not always point to the published version. Whenever relevant, you will also find a link to code or a presentation. If you are considering citing my work (thanks!), you can use the (carefully curated) bibtex entries below.
+
+
 <script src="https://bibbase.org/show?bib=https://bguedj.github.io/files/bguedj-publications.bib&jsonp=1&nocache=1&theme=default"></script> 
 
 {% include base_path %}
