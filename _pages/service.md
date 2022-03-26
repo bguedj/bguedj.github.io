@@ -21,7 +21,7 @@ classes: wide
 
 **Editorial Boards**
 
-Serving as **Action Editor**, member of the Editorial Board for [Transactions on Machine Learning Research](https://jmlr.org/tmlr/) (TMLR, since December 2021)          
+Serving as **Action Editor**, member of the Editorial Board for [Transactions on Machine Learning Research](https://jmlr.org/tmlr/editorial-board.html) (TMLR, since December 2021)          
 
 Serving as **Associate Editor**, member of the Editorial Board for [Data-Centric Engineering](https://www.cambridge.org/core/journals/data-centric-engineering) (since March 2021)       
 
