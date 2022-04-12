@@ -15,7 +15,7 @@ I am a **Principal Research Fellow** in machine learning at [University College 
 
 I am a member of the [ELLIS society](https://ellis.eu) (and more precisely of its [UCL Unit](https://ucl-ellis.github.io)) and a Fellow of the [Royal Statistical Society](https://rss.org.uk) (member of the [Computational Statistics and Machine Learning](https://rss.org.uk/membership/rss-groups-and-committees/sections/statistical-computing/) section).
 
-I serve as the scientific director of [The Inria London Programme](https://london.inria.fr), a joint structure to foster scientific collaboration between [Inria](http://www.inria.fr/) and [University College London](https://www.ucl.ac.uk) as part of a strategic France-UK partnership.
+I serve as the scientific director of [The Inria London Programme](https://london.inria.fr), a joint structure to foster scientific collaboration between [Inria](http://www.inria.fr/) and [University College London](https://www.ucl.ac.uk) as part of a strategic France-UK partnership. Some more details in [this press news](https://www.inria.fr/fr/machine-learning-comment-allier-performance-dapprentissage-et-sobriete-numerique).
 
 You might want to visit companion websites:
 - [my previous website]((https://bguedj.github.io/website-2016-2020-deprecated/)) (2016-2020, now deprecated)
