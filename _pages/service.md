@@ -11,8 +11,11 @@ classes: wide
 [COLT 2022](http://learningtheory.org/colt2022/) (London, UK)     
 *Role:* **local chair**
 
-[IMS-COLT joint workshop](https://bguedj.github.io/colt-ims-2022.github.io/) (London, UK)
+[IMS-COLT joint workshop](https://bguedj.github.io/colt-ims-2022.github.io/) (London, UK)      
 *Role:* **general chair**  
+
+[COLT 2020](http://learningtheory.org/colt2020/) (virtual)        
+*Role:* **virtual arrangements chair**  
 
 [NIPS 2017](https://nips.cc/Conferences/2017/) workshop, [(Almost) 50 Shades of Bayesian Learning: PAC-Bayesian trends and insights](https://bguedj.github.io/nips2017/)     
 *Role:* **main organiser** (with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Pascal Germain](http://www.pascalgermain.info))
