@@ -28,8 +28,12 @@ If you are interested in an internship: unfortunately, I can only consider appli
 [Maxime Haddouche](https://maximehaddouche.github.io), since Sep. 2021 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))     
 [Antoine Picard](https://www.linkedin.com/in/antoine-picard-3147a1212/), since Sep. 2021         
 [Antonin Schrab](https://antoninschrab.github.io), since Sep. 2020 (co-supervision with [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/))     
-[Antoine Vendeville](https://antoinevendeville.github.io/), since Sep. 2019 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))   
+[Antoine Vendeville](https://antoinevendeville.github.io/), since Sep. 2019 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))      
 
+
+**Visiting**       
+[Eugenio Clerico](https://scholar.google.com/citations?user=Q8byazcAAAAJ&hl=en), Apr. 2022 -- Jul. 2022 (visiting PhD student)      
+&nbsp;&nbsp;&nbsp;*PhD student at [The University of Oxford](https://www.ox.ac.uk) with [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and [George Deligiannidis](https://www.stats.ox.ac.uk/~deligian/), UK*       
 <!-- **Research engineers**     -->
    
 
