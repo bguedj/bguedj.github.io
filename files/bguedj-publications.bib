@@ -560,18 +560,19 @@ url_Supplementary = "https://proceedings.neurips.cc/paper/2020/file/d02e9bdc27a8
 primaryClass={cs.LG}
 }
 
-@unpublished{leroy2020magma,
+@article{leroy2020magma,
 title={{MAGMA}: Inference and Prediction with Multi-Task {Gaussian} Processes},
 author={Arthur Leroy and Pierre Latouche and Benjamin Guedj and Servane Gey},
 year={2022},
-abstract = {We investigate the problem of multiple time series forecasting, with the objective to improve multiple-step-ahead predictions. We propose a multi-task Gaussian process framework to simultaneously model batches of individuals with a common mean function and a specific covariance structure. This common mean is defined as a Gaussian process for which the hyper-posterior distribution is tractable. Therefore an EM algorithm can be derived for simultaneous hyper-parameters optimisation and hyper-posterior computation. Unlike previous approaches in the literature, we account for uncertainty and handle uncommon grids of observations while maintaining explicit formulations, by modelling the mean process in a non-parametric probabilistic framework. We also provide predictive formulas integrating this common mean process. This approach greatly improves the predictive performance far from observations, where information shared across individuals provides a relevant prior mean. Our overall algorithm is called \textsc{Magma} (standing for Multi tAsk Gaussian processes with common MeAn), and publicly available as a R package. The quality of the mean process estimation, predictive performances, and comparisons to alternatives are assessed in various simulated scenarios and on real datasets.},
+journal = {Machine Learning},
+abstract = {A novel multi-task Gaussian process (GP) framework is proposed, by using a common mean process for sharing information across tasks. In particular, we investigate the problem of time series forecasting, with the objective to improve multiple-step-ahead predictions. The common mean process is defined as a GP for which the hyper-posterior distribution is tractable. Therefore an EM algorithm is derived for handling both hyper-parameters optimisation and hyper-posterior computation. Unlike previous approaches in the literature, the model fully accounts for uncertainty and can handle irregular grids of observations while maintaining explicit formulations, by modelling the mean process in a unified GP framework. Predictive analytical equations are provided, integrating information shared across tasks through a relevant prior mean. This approach greatly improves the predictive performances, even far from observations, and may reduce significantly the computational complexity compared to traditional multi-task GP models. Our overall algorithm is called MAGMA (standing for Multi tAsk GPs with common MeAn). The quality of the mean process estimation, predictive performances, and comparisons to alternatives are assessed in various simulated scenarios and on real datasets.},
 eprint={2007.10731},
 archivePrefix={arXiv},
 primaryClass={stat.CO},
 url = {https://arxiv.org/abs/2007.10731},
 url_PDF = {https://arxiv.org/pdf/2007.10731.pdf},
 url_Code = {https://github.com/ArthurLeroy/MAGMA},
-note = "Accepted for publication at Machine Learning"
+DOI = "10.1007/s10994-022-06172-1"
 }
 
 @article{vendeville2020elections,
@@ -787,7 +788,7 @@ primaryClass={stat.ML}
 title={Non-Vacuous Generalisation Bounds for Shallow Neural Networks},
 author={Felix Biggs and Benjamin Guedj},
 year={2022},
-note = "Submitted.",
+note = "Accepted at ICML",
 abstract = {We focus on a specific class of shallow neural networks with a single hidden layer, namely those with $L_2$-normalised data and either a sigmoid-shaped Gaussian error function (``erf'') activation or a Gaussian Error Linear Unit (GELU) activation. For these networks, we derive new generalisation bounds through the PAC-Bayesian theory; unlike most existing such bounds they apply to neural networks with deterministic rather than randomised parameters. Our bounds are empirically non-vacuous when the network is trained with vanilla stochastic gradient descent on MNIST and Fashion-MNIST.},
 url = {https://arxiv.org/abs/2202.01627},
 url_PDF = {https://arxiv.org/pdf/2202.01627.pdf},
@@ -801,11 +802,12 @@ primaryClass={cs.LG}
 title={Measuring dissimilarity with diffeomorphism invariance},
 author={Théophile Cantelobre and Carlo Ciliberto and Benjamin Guedj and Alessandro Rudi},
 year={2022},
-note = "Submitted.",
+note = "Accepted at ICML",
 abstract = {Measures of similarity (or dissimilarity) are a key ingredient to many machine learning algorithms. We introduce DID, a pairwise dissimilarity measure applicable to a wide range of data spaces, which leverages the data's internal structure to be invariant to diffeomorphisms. We prove that DID enjoys properties which make it relevant for theoretical study and practical use. By representing each datum as a function, DID is defined as the solution to an optimization problem in a Reproducing Kernel Hilbert Space and can be expressed in closed-form. In practice, it can be efficiently approximated via Nyström sampling. Empirical experiments support the merits of DID.},
 url = {https://arxiv.org/abs/2202.05614},
 url_PDF = {https://arxiv.org/pdf/2202.05614.pdf},
 url_Code = {https://github.com/theophilec/diffy},
+url_Video = {https://youtu.be/WKADjgoTBBs},
 eprint={2202.05614},
 archivePrefix={arXiv},
 primaryClass={stat.ML}
