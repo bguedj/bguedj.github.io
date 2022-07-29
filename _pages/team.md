@@ -46,7 +46,7 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 **Postdocs**        
 [Valentina Zantedeschi](http://vzantedeschi.com), Jan. 2021 -- July 2022       
-&nbsp;&nbsp;&nbsp;*Now Senior Data Scientist at [ServiceNow Research](https://www.servicenow.com), Canada*        
+&nbsp;&nbsp;&nbsp;*Now Senior Research Scientist at [ServiceNow Research](https://www.servicenow.com), Canada*        
 [Florent Dewez](https://fdewez.github.io), Feb. 2019 -- August 2021         
 &nbsp;&nbsp;&nbsp;*Now Senior Data Scientist at [DiagRAMS Technologies](https://diagrams-technologies.com), France*        
 
