@@ -17,8 +17,7 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 ## Current
 
-**Postdocs**   
-[Valentina Zantedeschi](http://vzantedeschi.com), since Jan. 2021
+<!-- **Postdocs**    -->
 
 **PhD students**   
 [Reuben Adams](https://reubenadams.github.io), since Sep. 2020 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
@@ -46,6 +45,8 @@ If you are interested in an internship: unfortunately, I can only consider appli
 ## Alumni
 
 **Postdocs**        
+[Valentina Zantedeschi](http://vzantedeschi.com), Jan. 2021 -- July 2022       
+&nbsp;&nbsp;&nbsp;*Now Senior Data Scientist at [ServiceNow Research](https://www.servicenow.com), Canada*        
 [Florent Dewez](https://fdewez.github.io), Feb. 2019 -- August 2021         
 &nbsp;&nbsp;&nbsp;*Now Senior Data Scientist at [DiagRAMS Technologies](https://diagrams-technologies.com), France*        
 
@@ -69,7 +70,7 @@ If you are interested in an internship: unfortunately, I can only consider appli
 &nbsp;&nbsp;&nbsp;*Now PhD student at [EPFL](https://www.epfl.ch/en/), Switzerland*
 
 **Master interns**         
-[Valentin Kilian](https://valentinkil.github.io), May 2021 - Jul. 2021      
+[Valentin Kilian](https://valentinkil.github.io), May 2021 - Jul. 2021 (co-supervision with [Antoine Vendeville](https://antoinevendeville.github.io/))      
 &nbsp;&nbsp;&nbsp;*Now MSc student at [Ecole Normale Supérieure de Rennes](http://www.international.ens-rennes.fr/ens-rennes-english-version-253208.kjsp?RH=KERLANN_FR), France*       
 [Théophile Cantelobre](https://theophilec.github.io), Feb. 2020 - Aug. 2020      
 &nbsp;&nbsp;&nbsp;*Now back to the team!*      			     
