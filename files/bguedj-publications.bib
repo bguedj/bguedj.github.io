@@ -641,7 +641,7 @@ url_PDF = {https://hal.inria.fr/hal-03033764/file/CE_GT-Suivi.pdf}
 
 @unpublished{cantelobre2020pacbayesian,
 title={A {PAC-Bayesian} Perspective on Structured Prediction with Implicit Loss Embeddings}, 
-author={Théophile Cantelobre and Benjamin Guedj and María Pérez-Ortiz and John Shawe-Taylor},
+author={Théophile Cantelobre and Benjamin Guedj and Mar\'ia P\'erez-Ortiz and John Shawe-Taylor},
 year={2020},
 note = "Submitted.",
 abstract = {Many practical machine learning tasks can be framed as Structured prediction problems, where several output variables are predicted and considered interdependent. Recent theoretical advances in structured prediction have focused on obtaining fast rates convergence guarantees, especially in the Implicit Loss Embedding (ILE) framework. PAC-Bayes has gained interest recently for its capacity of producing tight risk bounds for predictor distributions. This work proposes a novel PAC-Bayes perspective on the ILE Structured prediction framework. We present two generalization bounds, on the risk and excess risk, which yield insights into the behavior of ILE predictors. Two learning algorithms are derived from these bounds. The algorithms are implemented and their behavior analyzed, with source code available at \url{https://github.com/theophilec/PAC-Bayes-ILE-Structured-Prediction}},
@@ -722,7 +722,7 @@ primaryClass={cs.LG}
 
 @unpublished{perezortiz2021learning,
 title={Learning {PAC-Bayes} Priors for Probabilistic Neural Networks},
-author={Maria Perez-Ortiz and Omar Rivasplata and Benjamin Guedj and Matthew Gleeson and Jingyu Zhang and John Shawe-Taylor and Miroslaw Bober and Josef Kittler},
+author={Mar\'ia P\'erez-Ortiz and Omar Rivasplata and Benjamin Guedj and Matthew Gleeson and Jingyu Zhang and John Shawe-Taylor and Miroslaw Bober and Josef Kittler},
 year={2021},
 note = "Submitted.",
 abstract = {Recent works have investigated deep learning models trained by optimising PAC-Bayes bounds, with priors that are learnt on subsets of the data. This combination has been shown to lead not only to accurate classifiers, but also to remarkably tight risk certificates, bearing promise towards self-certified learning (i.e. use all the data to learn a predictor and certify its quality). In this work, we empirically investigate the role of the prior. We experiment on 6 datasets with different strategies and amounts of data to learn data-dependent PAC-Bayes priors, and we compare them in terms of their effect on test performance of the learnt predictors and tightness of their risk certificate. We ask what is the optimal amount of data which should be allocated for building the prior and show that the optimum may be dataset dependent. We demonstrate that using a small percentage of the prior-building data for validation of the prior leads to promising results. We include a comparison of underparameterised and overparameterised models, along with an empirical study of different training objectives and regularisation strategies to learn the prior distribution.},
@@ -749,7 +749,7 @@ primaryClass={stat.ML}
 
 @inproceedings{perezortiz2021progress,
 title={Progress in self-certified neural networks},
-author={Maria Perez-Ortiz and Omar Rivasplata and Emilio Parrado-Hernandez and Benjamin Guedj and John Shawe-Taylor},
+author={Mar\'ia P\'erez-Ortiz and Omar Rivasplata and Emilio Parrado-Hernandez and Benjamin Guedj and John Shawe-Taylor},
 year={2021},
 booktitle={{NeurIPS 2021 workshop Bayesian Deep Learning [BDL]}},
 abstract = {A learning method is self-certified if it uses all available data to simultaneously learn a predictor and certify its quality with a statistical certificate that is valid on unseen data. Recent work has shown that neural network models trained by optimising PAC-Bayes bounds lead not only to accurate predictors, but also to tight risk certificates, bearing promise towards achieving self-certified learning. In this context, learning and certification strategies based on PAC-Bayes bounds are especially attractive due to their ability to leverage all data to learn a posterior and simultaneously certify its risk. In this paper, we assess the progress towards self-certification in probabilistic neural networks learnt by PAC-Bayes inspired objectives. We empirically compare (on 4 classification datasets) classical test set bounds for deterministic predictors and a PAC-Bayes bound for randomised self-certified predictors. We first show that both of these generalisation bounds are not too far from out-of-sample test set errors. We then show that in data starvation regimes, holding out data for the test set bounds adversely affects generalisation performance, while self-certified strategies based on PAC-Bayes bounds do not suffer from this drawback, proving that they might be a suitable choice for the small data regime. We also find that probabilistic neural networks learnt by PAC-Bayes inspired objectives lead to certificates that can be surprisingly competitive with commonly used test set bounds.},
