@@ -34,6 +34,7 @@ Serving as **Associate Editor**, member of the Editorial Board for [Information 
 
 **Senior member of program committees (area chair)**
 
+[AISTATS](https://www.aistats.org) 2023    
 [COLT](http://learningtheory.org) 2022       
 [ICML](https://icml.cc) 2022       
 [IJCAI](https://www.ijcai.org) 2021      
