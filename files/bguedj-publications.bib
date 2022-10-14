@@ -733,11 +733,12 @@ archivePrefix={arXiv},
 primaryClass={cs.LG}
 }
 
-@unpublished{schrab2021mmd,
+@article{schrab2021mmd,
 title={{MMD} Aggregated Two-Sample Test},
 author={Antonin Schrab and Ilmun Kim and Mélisande Albert and Béatrice Laurent and Benjamin Guedj and Arthur Gretton},
 year={2021},
-note = "Submitted.",
+journal = {Journal of Machine Learning Research [JMLR]},
+note = "Accepted for publication pending minor revision",
 abstract = {We propose a novel nonparametric two-sample test based on the Maximum Mean Discrepancy (MMD), which is constructed by aggregating tests with different kernel bandwidths. This aggregation procedure, called MMDAgg, ensures that test power is maximised over the collection of kernels used, without requiring held-out data for kernel selection (which results in a loss of test power), or arbitrary kernel choices such as the median heuristic. We work in the non-asymptotic framework, and prove that our aggregated test is minimax adaptive over Sobolev balls. Our guarantees are not restricted to a specific kernel, but hold for any product of one-dimensional translation invariant characteristic kernels which are absolutely and square integrable. Moreover, our results apply for popular numerical procedures to determine the test threshold, namely permutations and the wild bootstrap. Through numerical experiments on both synthetic and real-world datasets, we demonstrate that MMDAgg outperforms alternative state-of-the-art approaches to MMD kernel adaptation for two-sample testing.},
 url = {https://arxiv.org/abs/2110.15073},
 url_PDF = {https://arxiv.org/pdf/2110.15073.pdf},
@@ -787,11 +788,12 @@ archivePrefix={arXiv},
 primaryClass={cs.LG}
 }
 
-@unpublished{schrab2022ksd,
+@inproceedings{schrab2022ksd,
 title={{KSD} Aggregated Goodness-of-fit Test},
 author={Antonin Schrab and Benjamin Guedj and Arthur Gretton},
 year={2022},
-note = "Submitted.",
+booktitle = {NeurIPS},
+note = "Accepted for publication",
 abstract = {We investigate properties of goodness-of-fit tests based on the Kernel Stein Discrepancy (KSD). We introduce a strategy to construct a test, called KSDAgg, which aggregates multiple tests with different kernels. KSDAgg avoids splitting the data to perform kernel selection (which leads to a loss in test power), and rather maximises the test power over a collection of kernels. We provide theoretical guarantees on the power of KSDAgg: we show it achieves the smallest uniform separation rate of the collection, up to a logarithmic term. KSDAgg can be computed exactly in practice as it relies either on a parametric bootstrap or on a wild bootstrap to estimate the quantiles and the level corrections. In particular, for the crucial choice of bandwidth of a fixed kernel, it avoids resorting to arbitrary heuristics (such as median or standard deviation) or to data splitting. We find on both synthetic and real-world data that KSDAgg outperforms other state-of-the-art adaptive KSD-based goodness-of-fit testing procedures.},
 url = {https://arxiv.org/abs/2202.00824},
 url_PDF = {https://arxiv.org/pdf/2202.00824.pdf},
@@ -910,11 +912,12 @@ archivePrefix={arXiv},
 primaryClass={cs.CL}
 }
 
-@unpublished{haddouche2022online,
+@inproceedings{haddouche2022online,
 title={Online PAC-Bayesian Learning},
 author={Maxime Haddouche and Benjamin Guedj},
 year={2022},
-note = "Submitted.",
+booktitle = {NeurIPS},
+note = "Accepted for publication",
 abstract = {Most PAC-Bayesian bounds hold in the batch learning setting where data is collected at once, prior to inference or prediction. This somewhat departs from many contemporary learning problems where data streams are collected and the algorithms must dynamically adjust. We prove new PAC-Bayesian bounds in this online learning framework, leveraging an updated definition of regret, and we revisit classical PAC-Bayesian results with a batch-to-online conversion, extending their remit to the case of dependent data. Our results hold for bounded losses, potentially \emph{non-convex}, paving the way to promising developments in online learning.},
 url = {https://arxiv.org/abs/2206.00024},
 url_PDF = {https://arxiv.org/pdf/2206.00024.pdf},
@@ -923,11 +926,12 @@ archivePrefix={arXiv},
 primaryClass={cs.LG}
 }
 
-@unpublished{biggs2022majority,
+@inproceedings{biggs2022majority,
 title={On Margins and Generalisation for Voting Classifiers},
 author={Felix Biggs and Valentina Zantedeschi and Benjamin Guedj},
 year={2022},
-note = "Submitted.",
+booktitle = {NeurIPS},
+note = "Accepted for publication",
 abstract = {We study the generalisation properties of majority voting on finite ensembles of classifiers, proving margin-based generalisation bounds via the PAC-Bayes theory. These provide state-of-the-art guarantees on a number of classification tasks. Our central results leverage the Dirichlet posteriors studied recently by Zantedeschi et al. [2021] for training voting classifiers; in contrast to that work our bounds apply to non-randomised votes via the use of margins. Our contributions add perspective to the debate on the "margins theory" proposed by Schapire et al. [1998] for the generalisation of ensemble classifiers.},
 url = {https://arxiv.org/abs/2206.04607},
 url_PDF = {https://arxiv.org/pdf/2206.04607.pdf},
@@ -936,11 +940,12 @@ archivePrefix={arXiv},
 primaryClass={cs.LG}
 }
 
-@unpublished{schrab2022ustats,
+@inproceedings{schrab2022ustats,
 title={Efficient Aggregated Kernel Tests using Incomplete $U$-statistics},
 author={Antonin Schrab and Ilmun Kim and Benjamin Guedj and Arthur Gretton},
 year={2022},
-note = "Submitted.",
+booktitle = {NeurIPS},
+note = "Accepted for publication",
 abstract = {We propose a series of computationally efficient, nonparametric tests for the two-sample, independence and goodness-of-fit problems, using the Maximum Mean Discrepancy (MMD), Hilbert Schmidt Independence Criterion (HSIC), and Kernel Stein Discrepancy (KSD), respectively. Our test statistics are incomplete $U$-statistics, with a computational cost that interpolates between linear time in the number of samples, and quadratic time, as associated with classical $U$-statistic tests. The three proposed tests aggregate over several kernel bandwidths to detect departures from the null on various scales: we call the resulting tests MMDAggInc, HSICAggInc and KSDAggInc. For the test thresholds, we derive a quantile bound for wild bootstrapped incomplete $U$-statistics, which is of independent interest. We derive uniform separation rates for MMDAggInc and HSICAggInc, and quantify exactly the trade-off between computational efficiency and the attainable rates: this result is novel for tests based on incomplete $U$-statistics, to our knowledge. We further show that in the quadratic-time case, the wild bootstrap incurs no penalty to test power over more widespread permutation-based approaches, since both attain the same minimax optimal rates (which in turn match the rates that use oracle quantiles). We support our claims with numerical experiments on the trade-off between computational efficiency and test power. In the three testing frameworks, we observe that our proposed linear-time aggregated tests obtain higher power than current state-of-the-art linear-time kernel tests.},
 url = {https://arxiv.org/abs/2206.09194},
 url_PDF = {https://arxiv.org/pdf/2206.09194.pdf},
