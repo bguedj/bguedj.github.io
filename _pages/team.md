@@ -21,7 +21,6 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 **PhD students**   
 [Reuben Adams](https://reubenadams.github.io), since Sep. 2020 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
-[Mathieu Alain](https://mathieualain.github.io), since Sep. 2021 (co-supervision with [Miguel Rodrigues](https://scholar.google.co.uk/citations?user=Fmjz3bYAAAAJ&hl=en))     
 [Felix Biggs](https://www.felixbiggs.com), since Sep. 2019 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
 [Théophile Cantelobre](https://theophilec.github.io), since Sep. 2021 (co-supervision with [Alessandro Rudi](https://www.di.ens.fr/~rudi/))         <!-- #and [Carlo Ciliberto](https://cciliber.github.io))     -->      
 [Maxime Haddouche](https://maximehaddouche.github.io), since Sep. 2021 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))     
