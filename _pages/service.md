@@ -62,7 +62,8 @@ Including [Annals of the Institute of Statistical Mathematics](https://www.sprin
 ## Administrative duties
 
 **[Inria](https://www.inria.fr/)**      
-Elected member of the [Evaluation Committee](https://www.inria.fr/en/inria-evaluation-committee) (since 2017)
+Elected member of the [Evaluation Committee](https://www.inria.fr/en/inria-evaluation-committee) (since 2017)       
+Elected member of the [Board of Directors](https://www.inria.fr/en/inrias-board-directors) (since 2022)
 
 **[French Statistical Society (SFdS)](https://www.sfds.asso.fr)**      
 Elected member of the board (2017-2020)      
