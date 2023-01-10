@@ -36,7 +36,7 @@ Serving as **Associate Editor**, member of the Editorial Board for [Information 
 
 [AISTATS](https://www.aistats.org) 2023    
 [COLT](http://learningtheory.org) 2022       
-[ICML](https://icml.cc) 2022       
+[ICML](https://icml.cc) 2022, 2023       
 [IJCAI](https://www.ijcai.org) 2021      
 [NeurIPS](https://neurips.cc) 2021, 2022      
 
