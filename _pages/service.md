@@ -8,6 +8,8 @@ classes: wide
 
 ## Main scientific events organised
 
+Since July 2022: Sponsorship Chair and member of the Board of Directors for the [Association for Computational Learning](http://learningtheory.org) (which organises COLT)      
+
 [COLT 2022](http://learningtheory.org/colt2022/) (London, UK)     
 *Role:* **local chair**
 
@@ -24,13 +26,15 @@ classes: wide
 
 **Editorial Boards**
 
+Serving as **Action Editor**, member of the Editorial Board for the [Journal of Machine Learning Research (JMLR)](http://www.jmlr.org) (since February 2023)
+
 Serving as **Action Editor**, member of the Editorial Board for [Transactions on Machine Learning Research](https://jmlr.org/tmlr/editorial-board.html) (TMLR, since December 2021)          
 
 Serving as **Associate Editor**, member of the Editorial Board for [Data-Centric Engineering](https://www.cambridge.org/core/journals/data-centric-engineering) (since March 2021)       
 
-Serving as **member of the Editorial Board of reviewers** for the [Journal of Machine Learning Research (JMLR)](http://www.jmlr.org) (since June 2020)
-
 Serving as **Associate Editor**, member of the Editorial Board for [Information and Inference: a journal of the Institute of Mathematics and its Applications](https://academic.oup.com/imaiai) (since March 2020)
+
+Served as **member of the Editorial Board of reviewers** for the [Journal of Machine Learning Research (JMLR)](http://www.jmlr.org) (June 2020 -- February 2023)
 
 **Senior member of program committees (area chair)**
 
@@ -45,7 +49,7 @@ Serving as **Associate Editor**, member of the Editorial Board for [Information 
 [AAAI](https://www.aaai.org) 2020    
 [AISTATS](https://www.aistats.org) 2017, 2018, 2019, 2020, 2021    
 [ALT](http://algorithmiclearningtheory.org) 2018     
-[COLT](http://learningtheory.org) 2019, 2020, 2021, 2022    
+[COLT](http://learningtheory.org) 2019, 2020, 2021, 2022, 2023    
 [ICANN](https://e-nns.org/) 2019     
 [ICLR](https://iclr.cc) 2018, 2019, 2020    
 [ICML](https://icml.cc) 2018, <span style="color:red">2019</span>, 2020, 2021     
