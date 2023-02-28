@@ -42,7 +42,7 @@ Served as **member of the Editorial Board of reviewers** for the [Journal of Mac
 [COLT](http://learningtheory.org) 2022       
 [ICML](https://icml.cc) 2022, 2023       
 [IJCAI](https://www.ijcai.org) 2021      
-[NeurIPS](https://neurips.cc) 2021, 2022      
+[NeurIPS](https://neurips.cc) 2021, 2022, 2023      
 
 **Member of program committees (reviewer)**
 
