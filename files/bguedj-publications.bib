@@ -941,15 +941,16 @@ keywords={mine}
 }
 
 @unpublished{vendeville2022depolarising,
-title={Depolarising Social Networks: Optimisation of Exposure to Adverse Opinions in the Presence of a Backfire Effect},
+title={Discord in the Multi-State Voter Model with Zealots},
 author={Antoine Vendeville and Benjamin Guedj and Shi Zhou},
-year={2022},
+year={2023},
 note = "Submitted.",
-abstract = {As social networks are ubiquitous in everyday life, problems such as misinformation, bots and polarisation of opinion gain more and more importance. This paper focuses on the last one as we propose novel methods to reduce the amount of polarisation in a social group. We leverage the voter model in which users hold binary opinions and repeatedly update their beliefs based on others they connect with. Stubborn agents who never change their minds ("zealots") are also disseminated through the network. We are interested in two equilibrium metrics, the diversity of opinions $\sigma$ and the density of active links $\rho$. The latter is a measure of the exposure to adverse opinions. We derive formulas to compute them that are valid in any directed, weighted network. Then we study the problem of finding optimal numbers of zealots in order to maximise these quantities. We account for the presence of a backfire effect, which may lead the group to react negatively and reinforce its level of polarisation in response. We provide exact solutions in the specific context of a complete unweighted graph, and propose a method for $\sigma$ in the general case. Finally we apply these problems to the network of the US House of Representatives. The network exhibits high levels of opinion diversity but lower levels of active links density. We find optimal numbers of zealots that maximise these quantities and show that both can be efficiently increased in some cases.},
+abstract = {The active links density, or proportion of discordant agent pairs, has been a quantity of interest in research on the Voter Model. In this letter, we demonstrate how to calculate the equilibrium probability of discord between any two agents in the multi-state Voter Model with zealots. While previous works considered specific graph models, here no assumptions are made on the underlying topology which can be any directed, weighted graph of finite size. For agent pairs with no path between them and no common ancestors, opinions are independent and the joint distribution can be decoupled. For others we need to solve a large linear system of $\mathcal{O}(N^2)$ equations. We prove the existence of a unique solution for this system, which can be computed via an iterative algorithm. We also propose the \emph{Generalised active links density} to adapt the traditional definition to directed, weighted networks. The reasoning is extended to derive broad joint probability distribution of opinions between any two agents. Finally we explore discord in several types of synthetic networks. In particular, we uncover a rich landscape of varied behaviours in polarised networks split into antagonistic factions.},
 url = {https://arxiv.org/abs/2203.02002},
 url_PDF = {https://arxiv.org/pdf/2203.02002.pdf},
 url_Code = {https://github.com/antoinevendeville/howopinionscrystallise},
 eprint={2203.02002},
+DOI = {10.48550/arXiv.2203.02002},
 archivePrefix={arXiv},
 primaryClass={cs.SI},
 keywords={mine}
@@ -1107,6 +1108,7 @@ primaryClass={cs.LG},
 copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International},
 keywords={mine}
 }
+
 
 
 
