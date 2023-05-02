@@ -17,7 +17,9 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 ## Current
 
-<!-- **Postdocs**    -->
+**Postdocs**   
+
+[Fredrik Hellström](https://fredrikhellstrom.github.io), since May 2023              
 
 **PhD students**   
 [Reuben Adams](https://reubenadams.github.io), since Sep. 2020 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
