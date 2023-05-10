@@ -19,14 +19,13 @@ TBC -->
 
 https://github.com/astha736/PACbayesianNMF
 
-
 https://cran.r-project.org/web/packages/COBRA/index.html
 
 https://cran.r-project.org/web/packages/pacbpred/index.html
 
 https://i-pri.org/special/Biostatistics/Software/Geneland/ -->
 
-<!-- ## Funding -->
+## Funding
 
 <!-- ### Current -->
 
@@ -37,33 +36,33 @@ https://i-pri.org/special/Biostatistics/Software/Geneland/ -->
 **Role:**      
 **Details:**      -->
 
-<!-- **Project:** [6PAC](https://bguedj.github.io/6pac/)     
+**Project:** [6PAC](https://bguedj.github.io/6pac/)     
 **Period:** Feb. 2018 -- Jan. 2021     
 **Amount:** 30k &euro;     
 **Founder:** [Inria](https://www.inria.fr)     
 **Role:** co-PI (with [Peter Grünwald](https://safestatistics.com))     
-**Details:** TBC     -->
+<!-- **Details:** TBC     -->
 
-<!-- **Project:** BEAGLE     
+**Project:** BEAGLE     
 **Period:** Mar. 2019 -- Feb. 2023     
 **Amount:** 180k &euro;     
 **Founder:** [ANR](https://anr.fr/en/) (French Agency for Research -- success rate 12%)     
 **Role:** PI     
-**Details:** TBC     -->
+<!-- **Details:** TBC     -->
 
-<!-- **Project:** [APRIORI](https://project.inria.fr/apriori/)     
+**Project:** [APRIORI](https://project.inria.fr/apriori/)     
 **Period:** Mar. 2019 -- Feb. 2023     
 **Amount:** 180k &euro;     
 **Founder:** [ANR](https://anr.fr/en/) (French Agency for Research -- success rate 12%)     
 **Role:** Member     
-**Details:** TBC     -->
+<!-- **Details:** TBC     -->
 
-<!-- **Project:** PERF-AI     
+**Project:** PERF-AI     
 **Period:** Oct. 2018 -- Oct. 2020     
 **Amount:** 600k &euro;     
 **Founder:** European Research Council (CleanSky 2 program)     
 **Role:** Member     
-**Details:** TBC      -->
+<!-- **Details:** TBC      -->
 
 <!-- ### Past -->
 
@@ -74,20 +73,20 @@ https://i-pri.org/special/Biostatistics/Software/Geneland/ -->
 **Role:** main organiser (with [Francis Bach](https://www.di.ens.fr/~fbach/) and [Pascal Germain](http://www.pascalgermain.info))     
 **Details:** TBC      -->
 
-<!-- **Project:** SLAP-ME     
+**Project:** SLAP-ME     
 **Period:** Oct. 2017 -- Sep. 2018     
 **Amount:** 55k &euros;     
 **Founder:** [Région Hauts-de-France](https://www.hautsdefrance.fr)     
 **Role:** PI     
-**Details:** TBC     
- -->
-<!-- **Project:** Modal-Insight     
+<!-- **Details:** TBC      -->
+
+**Project:** Modal-Insight     
 **Period:** Sep. 2016 -- Sep. 2018     
 **Amount:** 10k &euros;     
 **Founder:** [Inria Lille - Nord Europe research centre](https://www.inria.fr/fr/centre-inria-lille-nord-europe)     
 **Role:** PI     
-**Details:** TBC     
- -->
+<!-- **Details:** TBC      -->
+
 
 <!-- ## Collaborators
 

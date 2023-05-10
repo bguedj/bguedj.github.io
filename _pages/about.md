@@ -18,9 +18,10 @@ I am a member of the [ELLIS society](https://ellis.eu) (and more precisely of it
 I serve as the scientific director of [The Inria London Programme](https://london.inria.fr), a joint structure to foster scientific collaboration between [Inria](http://www.inria.fr/) and [University College London](https://www.ucl.ac.uk) as part of a strategic France-UK partnership. Some more details in [this press news](https://www.inria.fr/fr/machine-learning-comment-allier-performance-dapprentissage-et-sobriete-numerique). This led to my being appointed a [Young Leader](https://francobritish.org/en/young-leaders/) of the [Franco-British Council](https://francobritish.org/en/home/).
 
 You might want to visit companion websites:
-- [my previous website]((https://bguedj.github.io/website-2016-2020-deprecated/)) (2016-2020, now deprecated)
+<!-- - [my previous website]((https://bguedj.github.io/website-2016-2020-deprecated/)) (2016-2020, now deprecated) -->
 <!-- [https://bguedj.github.io/website-2016-2020-deprecated/](https://bguedj.github.io/website-2016-2020-deprecated/) -->
-- the website for the [6PAC joint research team](https://bguedj.github.io/6pac/) I was a co-leader of
+- the website for the [ICML 2023 workshop](https://bguedj.github.io/icml2023-workshop/) I co-organise
+<!-- - the website for the [6PAC joint research team](https://bguedj.github.io/6pac/) I was a co-leader of -->
 <!-- [https://bguedj.github.io/6pac/](https://bguedj.github.io/6pac/) -->
 - the website for the [ICML 2019 tutorial](https://bguedj.github.io/icml2019/) I gave
 <!-- [https://bguedj.github.io/icml2019/](https://bguedj.github.io/icml2019/) -->

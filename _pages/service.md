@@ -10,6 +10,9 @@ classes: wide
 
 Since July 2022: Sponsorship Chair and member of the Board of Directors for the [Association for Computational Learning](http://learningtheory.org) (which organises COLT)      
 
+[ICML 2023](https://icml.cc/Conferences/2023) workshop, [PAC-Bayes Meets Interactive Learning](https://bguedj.github.io/icml2023-workshop/)      
+*Role:* **main organiser** (with [Audrey Durand](https://audur2.ift.ulaval.ca), [Hamish Flynn](https://www.linkedin.com/in/hamishflynn/), [Maxime Heuillet](https://www.linkedin.com/in/maxime-heuillet-955897139/?originalSubdomain=ca) and [Melih Kandemir](https://melihkandemir.github.io))     
+
 [COLT 2022](http://learningtheory.org/colt2022/) (London, UK)     
 *Role:* **local chair**
 
