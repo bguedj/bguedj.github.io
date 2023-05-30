@@ -1112,11 +1112,11 @@ keywords={mine}
 }
 
 @unpublished{haddouche2023wasserstein,
-title = {Wasserstein {PAC-Bayes} Learning: A Bridge Between Generalisation and Optimisation},
+title = {Wasserstein PAC-Bayes Learning: Exploiting Optimisation Guarantees to Explain Generalisation},
 author = {Haddouche, Maxime and Guedj, Benjamin},
 year = {2023},
 note = "Submitted.",
-abstract = {PAC-Bayes learning is an established framework to assess the generalisation ability of learning algorithm during the training phase. However, it remains challenging to know whether PAC-Bayes is useful to understand, before training, why the output of well-known algorithms generalise well. We positively answer this question by expanding the \emph{Wasserstein PAC-Bayes} framework, briefly introduced in \cite{amit2022ipm}. We provide new generalisation bounds exploiting geometric assumptions on the loss function. Using our framework, we prove, before any training, that the output of an algorithm from \citet{lambert2022variational} has a strong asymptotic generalisation ability. More precisely, we show that it is possible to incorporate optimisation results within a generalisation framework, building a bridge between PAC-Bayes and optimisation algorithms.},
+abstract = {PAC-Bayes learning is an established framework to both assess the generalisation ability of learning algorithms, and design new learning algorithm by exploiting generalisation bounds as training objectives. Most of the exisiting bounds involve a \emph{Kullback-Leibler} (KL) divergence, which fails to capture the geometric properties of the loss function which are often useful in optimisation. We address this by extending the emerging \emph{Wasserstein PAC-Bayes} theory. We develop new PAC-Bayes bounds with Wasserstein distances replacing the usual KL, and demonstrate that sound optimisation guarantees translate to good generalisation abilities. In particular we provide generalisation bounds for the \emph{Bures-Wasserstein SGD} by exploiting its optimisation properties.},
 url = {https://arxiv.org/abs/2304.07048},
 url_PDF = {https://arxiv.org/pdf/2304.07048.pdf},
 doi = {10.48550/arXiv.2304.07048},
