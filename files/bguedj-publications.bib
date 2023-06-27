@@ -294,23 +294,12 @@ keywords={mine}
 title={Model Validation Using Mutated Training Labels: An Exploratory Study},
 author={Jie M. Zhang and Mark Harman and Benjamin Guedj and Earl T. Barr and John Shawe-Taylor},
 year={2023},
-note = "To appear",
 journal = {Neurocomputing},
-volume = {},
-doi = {},
-abstract = {We introduce an exploratory study on Mutation Validation (MV), a model
-validation method using mutated training labels for supervised learning. MV
-mutates training data labels, retrains the model against the mutated data, then
-uses the metamorphic relation that captures the consequent training performance
-changes to assess model fit. It does not use a validation set or test set. The
-intuition underpinning MV is that overfitting models tend to fit noise in the
-training data. We explore 8 different learning algorithms, 18 datasets, and 5
-types of hyperparameter tuning tasks. Our results demonstrate that MV is
-accurate in model selection: the model recommendation hit rate is 92\% for MV
-and less than 60\% for out-of-sample-validation. MV also provides more stable
-hyperparameter tuning results than out-of-sample-validation across different
-runs.},
-url = "https://arxiv.org/abs/1905.10201",
+volume = {539},
+doi = {10.1016/j.neucom.2023.02.042},
+abstract = {We introduce an exploratory study on Mutation Validation (MV), a model validation method using mutated training labels for supervised learning. MV mutates training data labels, retrains the model against the mutated data, and then uses the metamorphic relation that captures the consequent training performance changes to assess model fit. It does not use a validation set or test set. The intuition underpinning MV is that overfitting models tend to fit noise in the training data. MV does not aim to replace out-of-sample validation. Instead, we provide the first exploratory study on the possibility of using MV as a complement of out-of-sample validation. We explore 8 different learning algorithms, 18 datasets, and 5 types of hyperparameter tuning tasks. Our results demonstrate that MV complements well cross-validation and test accuracy in model selection and hyperparameter tuning tasks. MV deserves more attention from developers when simplicity, sustainaiblity, security (e.g., defending training data attack), and interpretability of the built models are required.},
+url = "https://www.sciencedirect.com/science/article/abs/pii/S0925231223001911",
+url_arXiv = "https://arxiv.org/abs/1905.10201",
 url_PDF = "https://arxiv.org/pdf/1905.10201.pdf",
 archivePrefix={arXiv},
 primaryClass={cs.LG},
