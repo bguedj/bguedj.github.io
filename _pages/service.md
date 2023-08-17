@@ -41,7 +41,7 @@ Served as **member of the Editorial Board of reviewers** for the [Journal of Mac
 
 **Senior member of program committees (area chair)**
 
-[AISTATS](https://www.aistats.org) 2023    
+[AISTATS](https://www.aistats.org) 2023, 2024    
 [COLT](http://learningtheory.org) 2022       
 [ICML](https://icml.cc) 2022, 2023       
 [IJCAI](https://www.ijcai.org) 2021      
@@ -57,7 +57,7 @@ Served as **member of the Editorial Board of reviewers** for the [Journal of Mac
 [ICLR](https://iclr.cc) 2018, 2019, 2020    
 [ICML](https://icml.cc) 2018, <span style="color:red">2019</span>, 2020, 2021     
 [IJCAI](https://www.ijcai.org) 2019       
-[NeurIPS](https://neurips.cc) 2016, 2017, <span style="color:red">2018</span>, <span style="color:red">2019</span>, <span style="color:red">2020</span>         
+[NeurIPS](https://neurips.cc) 2016, 2017, <span style="color:red">2018</span>, <span style="color:red">2019</span>, <span style="color:red">2020</span>, 2023         
 [UAI](http://www.auai.org) 2018, 2019, 2021     
 
 (<span style="color:red">red</span> indicates a <span style="color:red">best reviewer award</span>)
