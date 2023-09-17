@@ -37,7 +37,7 @@ Serving as **Associate Editor**, member of the Editorial Board for [Data-Centric
 
 Serving as **Associate Editor**, member of the Editorial Board for [Information and Inference: a journal of the Institute of Mathematics and its Applications](https://academic.oup.com/imaiai) (since March 2020)
 
-Served as **member of the Editorial Board of reviewers** for the [Journal of Machine Learning Research (JMLR)](http://www.jmlr.org) (June 2020 -- February 2023)
+Served as **member of the Editorial Board of reviewers** for the [Journal of Machine Learning Research (JMLR)](http://www.jmlr.org) (since June 2020)
 
 **Senior member of program committees (area chair)**
 
