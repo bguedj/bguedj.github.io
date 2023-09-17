@@ -69,6 +69,7 @@ Including [Annals of the Institute of Statistical Mathematics](https://www.sprin
 
 <!-- <img src="I_Review_JMLR.gif" style="width:72px;height:72px;"> -->
 ![I review for JMLR](/images/I_Review_JMLR.gif)
+<!-- can also use png instead -->
 
 
 ## Administrative duties
