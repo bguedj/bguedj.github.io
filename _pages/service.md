@@ -68,7 +68,7 @@ Served as **member of the Editorial Board of reviewers** for the [Journal of Mac
 Including [Annals of the Institute of Statistical Mathematics](https://www.springer.com/journal/10463), [Data Mining and Knowledge Discovery](https://www.springer.com/journal/10618), [Electronic Journal of Statistics](https://imstat.org/journals-and-publications/electronic-journal-of-statistics/), [IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18), [Journal of the American Statistical Assocation](https://www.tandfonline.com/toc/uasa20/current), [Journal of Machine Learning Research](http://jmlr.org), [Journal of Multivariate Analysis](https://www.journals.elsevier.com/journal-of-multivariate-analysis), [Journal of the Royal Statistical Society (series A)](https://rss.onlinelibrary.wiley.com/journal/1467985X), [Molecular Ecology Resources](https://onlinelibrary.wiley.com/journal/17550998), [Neurocomputing](https://www.journals.elsevier.com/neurocomputing), [Statistics and Probability Letters](https://www.journals.elsevier.com/statistics-and-probability-letters), [TEST](https://www.springer.com/journal/11749)
 
 <!-- <img src="I_Review_JMLR.gif" style="width:72px;height:72px;"> -->
-![I review for JMLR](images/I_Review_JMLR.gif)
+![I review for JMLR](/images/I_Review_JMLR.gif)
 
 
 ## Administrative duties
