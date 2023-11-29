@@ -8,5 +8,5 @@ date: 2023-11-21
 location: "Online"
 ---
 
-I was a speaker and panel member at a discussion on "The existential risks of AI" organised by Natixis CIB and the Franco-British Data Society [video](https://www.youtube.com/watch?v=kw02MKedWh4).
+I was a speaker and panel member at a discussion on "The existential risks of AI" organised by Natixis CIB and the Franco-British Data Society. [Video](https://www.youtube.com/watch?v=kw02MKedWh4)
 
