@@ -26,9 +26,10 @@ If you are interested in an internship: unfortunately, I can only consider appli
 [Felix Biggs](https://www.felixbiggs.com), since Sep. 2019 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
 [Théophile Cantelobre](https://theophilec.github.io), since Sep. 2021 (co-supervision with [Alessandro Rudi](https://www.di.ens.fr/~rudi/))         <!-- #and [Carlo Ciliberto](https://cciliber.github.io))     -->      
 [Maxime Haddouche](https://maximehaddouche.github.io), since Sep. 2021 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))     
+[Valentin Kilian](https://valentinkil.github.io), since Oct. 2023 (co-supervision with [François Caron](https://www.stats.ox.ac.uk/~caron/))     
 [Antoine Picard](https://www.linkedin.com/in/antoine-picard-3147a1212/), since Sep. 2021         
 [Antonin Schrab](https://antoninschrab.github.io), since Sep. 2020 (co-supervision with [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/))     
-[Antoine Vendeville](https://antoinevendeville.github.io/), since Sep. 2019 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))      
+
 
 
 **Visiting**       
@@ -56,10 +57,13 @@ If you are interested in an internship: unfortunately, I can only consider appli
 &nbsp;&nbsp;&nbsp;*Now PhD student at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) and [RIKEN AIP](https://www.u-tokyo.ac.jp/en/), Japan*       
 
 **PhD students**       
+[Antoine Vendeville](https://antoinevendeville.github.io/), Sep. 2019 -- Oct. 2023 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))     
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](), [Slides from the defense]()            
+&nbsp;&nbsp;&nbsp;*Now postdoctoral researcher at [Sciences Po Médialab](https://medialab.sciencespo.fr), France*       
 [Arthur Leroy](https://arthur-leroy.netlify.app), Oct. 2017 -- Dec. 2020 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))           
-&nbsp;&nbsp;&nbsp;[Thesis (pdf)](https://arthur-leroy.netlify.app/files/Thesis-Arthur_LEROY.pdf), [Slides from the defense](https://arthur-leroy.netlify.app/files/slides_soutenance/slides_thesis.html#/)        
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://arthur-leroy.netlify.app/files/Thesis-Arthur_LEROY.pdf), [Slides from the defense](https://arthur-leroy.netlify.app/files/slides_soutenance/slides_thesis.html#/)        
 &nbsp;&nbsp;&nbsp;[Video of the defense](https://youtu.be/gAaKoKq9UDo), [Video of the full defense (presentation+questions)](https://youtu.be/6xpyS0tTSCo)      
-&nbsp;&nbsp;&nbsp;*Now postdoctoral researcher with [Mauricio Álvarez](https://maalvarezl.github.io) at [The University of Sheffield](https://www.sheffield.ac.uk), UK*       
+&nbsp;&nbsp;&nbsp;*Now postdoctoral researcher with [Mauricio Álvarez](https://maalvarezl.github.io) at [The University of Manchester](https://www.manchester.ac.uk), UK*       
 [Le Li](https://www.researchgate.net/scientific-contributions/2108172811_Le_Li), Oct. 2014 -- Nov. 2018 (co-supervision with [Sébastien Loustau](https://www.linkedin.com/in/sébastien-loustau-b57b4555/)).      
 &nbsp;&nbsp;&nbsp;[PhD thesis](https://tel.archives-ouvertes.fr/tel-01970795/) ([pdf](https://tel.archives-ouvertes.fr/tel-01970795/document))            
 &nbsp;&nbsp;&nbsp;*Now lecturer at [Central China Normal University](http://english.ccnu.edu.cn), China* 
@@ -72,7 +76,7 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 **Master interns**         
 [Valentin Kilian](https://valentinkil.github.io), May 2021 - Jul. 2021 (co-supervision with [Antoine Vendeville](https://antoinevendeville.github.io/))      
-&nbsp;&nbsp;&nbsp;*Now MSc student at [Ecole Normale Supérieure de Rennes](http://www.international.ens-rennes.fr/ens-rennes-english-version-253208.kjsp?RH=KERLANN_FR), France*       
+&nbsp;&nbsp;&nbsp;*Now back to the team!*       
 [Théophile Cantelobre](https://theophilec.github.io), Feb. 2020 - Aug. 2020      
 &nbsp;&nbsp;&nbsp;*Now back to the team!*      			     
 [Maxime Haddouche](https://maximehaddouche.github.io), Oct. 2019 - Aug. 2020     
