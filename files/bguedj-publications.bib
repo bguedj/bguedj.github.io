@@ -686,7 +686,7 @@ keywords={mine}
 
 @unpublished{haddouche2020upper,
 title={Upper and Lower Bounds on the Performance of {Kernel PCA}}, 
-author={Maxime Haddouche and Benjamin Guedj and Omar Rivasplata and John Shawe-Taylor},
+author={Maxime Haddouche and Benjamin Guedj and John Shawe-Taylor},
 year={2020},
 note = "Submitted.",
 abstract = {Principal Component Analysis (PCA) is a popular method for dimension reduction and has attracted an unfailing interest for decades. Recently, kernel PCA has emerged as an extension of PCA but, despite its use in practice, a sound theoretical understanding of kernel PCA is missing. In this paper, we contribute lower and upper bounds on the efficiency of kernel PCA, involving the empirical eigenvalues of the kernel Gram matrix. Two bounds are for fixed estimators, and two are for randomized estimators through the PAC-Bayes theory. We control how much information is captured by kernel PCA on average, and we dissect the bounds to highlight strengths and limitations of the kernel PCA algorithm. Therefore, we contribute to the better understanding of kernel PCA. Our bounds are briefly illustrated on a toy numerical example.},
@@ -1123,11 +1123,11 @@ copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 Interna
 keywords={mine}
 }
 
-@unpublished{viallard2023wasserstein,
+@inproceedings{viallard2023wasserstein,
 title = {Learning via {Wasserstein}-Based High Probability Generalisation Bounds},
 author = {Viallard, Paul and Haddouche, Maxime and Şimşekli, Umut and Guedj, Benjamin},
 year = {2023},
-note = "Accepted to NeurIPS 2023.",
+booktitle={Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems [NeurIPS] 2023},
 abstract = {Minimising upper bounds on the population risk or the generalisation gap has been widely used in structural risk minimisation (SRM) - this is in particular at the core of PAC-Bayesian learning. Despite its successes and unfailing surge of interest in recent years, a limitation of the PAC-Bayesian framework is that most bounds involve a Kullback-Leibler (KL) divergence term (or its variations), which might exhibit erratic behavior and fail to capture the underlying geometric structure of the learning problem - hence restricting its use in practical applications. As a remedy, recent studies have attempted to replace the KL divergence in the PAC-Bayesian bounds with the Wasserstein distance. Even though these bounds alleviated the aforementioned issues to a certain extent, they either hold in expectation, are for bounded losses, or are nontrivial to minimize in an SRM framework. In this work, we contribute to this line of research and prove novel Wasserstein distance-based PAC-Bayesian generalisation bounds for both batch learning with independent and identically distributed (i.i.d.) data, and online learning with potentially non-i.i.d. data. Contrary to previous art, our bounds are stronger in the sense that (i) they hold with high probability, (ii) they apply to unbounded (potentially heavy-tailed) losses, and (iii) they lead to optimizable training objectives that can be used in SRM. As a result we derive novel Wasserstein-based PAC-Bayesian learning algorithms and we illustrate their empirical advantage on a variety of experiments.},
 url = {https://arxiv.org/abs/2306.04375},
 url_PDF = {https://arxiv.org/pdf/2306.04375.pdf},
@@ -1155,11 +1155,11 @@ copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 Interna
 keywords={mine}
 }
 
-@unpublished{hellstrom2023comparing,
+@inproceedings{hellstrom2023comparing,
 title = {Comparing Comparators in Generalization Bounds},
 author={Fredrik Hellström and Benjamin Guedj},
 year={2023},
-note = "Submitted.",
+booktitle={Proceedings of The 27th International Conference on Artificial Intelligence and Statistics [AISTATS]},
 abstract = {We derive generic information-theoretic and PAC-Bayesian generalization bounds involving an arbitrary convex \emph{comparator} function, which measures the discrepancy between the training loss and the population loss. The bounds hold under the assumption that the cumulant-generating function (CGF) of the comparator is upper-bounded by the corresponding CGF within a family of bounding distributions. We show that the tightest possible bound is obtained with the comparator being the convex conjugate of the CGF of the bounding distribution, also known as the Cram\'er function. This conclusion applies more broadly to generalization bounds with a similar structure. This confirms the near-optimality of known bounds for bounded and sub-Gaussian losses and leads to novel bounds under other bounding distributions.},
 url = {https://arxiv.org/abs/2310.10534},
 url_PDF = {https://arxiv.org/pdf/2310.10534.pdf},
