@@ -23,7 +23,7 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 **PhD students**   
 [Reuben Adams](https://reubenadams.github.io), since Sep. 2020 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
-[Felix Biggs](https://www.felixbiggs.com), since Sep. 2019 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
+<!-- [Felix Biggs](https://www.felixbiggs.com), since Sep. 2019 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))    -->
 [Théophile Cantelobre](https://theophilec.github.io), since Sep. 2021 (co-supervision with [Alessandro Rudi](https://www.di.ens.fr/~rudi/))         <!-- #and [Carlo Ciliberto](https://cciliber.github.io))     -->      
 [Maxime Haddouche](https://maximehaddouche.github.io), since Sep. 2021 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))     
 [Valentin Kilian](https://valentinkil.github.io), since Oct. 2023 (co-supervision with [François Caron](https://www.stats.ox.ac.uk/~caron/))     
@@ -57,6 +57,9 @@ If you are interested in an internship: unfortunately, I can only consider appli
 &nbsp;&nbsp;&nbsp;*Now PhD student at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) and [RIKEN AIP](https://www.u-tokyo.ac.jp/en/), Japan*       
 
 **PhD students**       
+[Felix Biggs](https://www.felixbiggs.com), Sep. 2019 -- Mar. 2024 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))     
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](), [Slides from the defense]()            
+&nbsp;&nbsp;&nbsp;*Now job hunting!*       
 [Antoine Vendeville](https://antoinevendeville.github.io/), Sep. 2019 -- Oct. 2023 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))     
 &nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](), [Slides from the defense]()            
 &nbsp;&nbsp;&nbsp;*Now postdoctoral researcher at [Sciences Po Médialab](https://medialab.sciencespo.fr), France*       
