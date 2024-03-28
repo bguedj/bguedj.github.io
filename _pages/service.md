@@ -39,6 +39,10 @@ Serving as **Associate Editor**, member of the Editorial Board for [Information 
 
 Served as **member of the Editorial Board of reviewers** for the [Journal of Machine Learning Research (JMLR)](http://www.jmlr.org) (since June 2020)
 
+**Principal member of program committees (senior area chair)**
+
+[NeurIPS](https://neurips.cc) 2024      
+
 **Senior member of program committees (area chair)**
 
 [AISTATS](https://www.aistats.org) 2023, 2024    
