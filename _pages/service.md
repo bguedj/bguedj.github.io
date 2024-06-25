@@ -91,4 +91,4 @@ Founder and first president (2018-2019) of the group [Machine Learning and Artif
 Nominated member of the [Computational Statistics and Machine Learning](https://rss.org.uk/membership/rss-groups-and-committees/sections/statistical-computing/) Section (since 2021)
 
 
-I am a member of the board of [FERN-UK](https://uk.ambafrance.org/The-board) (French Education and Research Network in the UK, led by the [French Embassy to the UK](https://uk.ambafrance.org/-Science-Tech-)) and a member of the board of the [Franco-British Data Society](https://www.francobritishdatasociety.org).
+I am a member of the board of [FERN-UK](https://uk.ambafrance.org/The-board) (French Education and Research Network in the UK, led by the [French Embassy to the UK](https://uk.ambafrance.org/-Science-Tech-)) and a member of the board and Director of the [Franco-British Data Society](https://www.francobritishdatasociety.org). I am a board member and Trustee of the [Franco-British Council](https://francobritish.org/en/home/).
