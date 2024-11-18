@@ -11,7 +11,7 @@ If you are interested in a faculty or permanent researcher position: please cont
 
 If you are interested in a postdoc position: please contact me.
 
-If you are interested in a PhD position: please check this [webpage](https://www.ucl.ac.uk/ai-centre/study) and prepare a draft of your research proposal prior to contacting me. For your application to be fully considered, you should ideally link your proposal to my research interests and highlight why you would list me as potential supervisor.
+If you are interested in a PhD position: please prepare a draft of your research proposal prior to contacting me. For your application to be fully considered, you should ideally link your proposal to (at least some of) my research interests and highlight why you would list me as potential supervisor.
 
 If you are interested in an internship: unfortunately, I can only consider applications from students enrolled at UCL or in a French higher education institution. Due to a large volume of solicitations I might not be able to reply to your query if you are in neither of those cases.
 
@@ -22,21 +22,14 @@ If you are interested in an internship: unfortunately, I can only consider appli
 [Fredrik Hellström](https://fredrikhellstrom.github.io), since May 2023              
 
 **PhD students**   
+[Chloé Hashimoto-Cullen](https://www.linkedin.com/in/hashimoto-cullen/?originalSubdomain=uk), since Oct. 2024 (co-supervision with [Sylvain Le Corff](https://sylvainlc.github.io) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~yannig.goude/about.html))     
 [Reuben Adams](https://reubenadams.github.io), since Sep. 2020 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
-<!-- [Felix Biggs](https://www.felixbiggs.com), since Sep. 2019 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))    -->
-[Théophile Cantelobre](https://theophilec.github.io), since Sep. 2021 (co-supervision with [Alessandro Rudi](https://www.di.ens.fr/~rudi/))         <!-- #and [Carlo Ciliberto](https://cciliber.github.io))     -->      
-[Maxime Haddouche](https://maximehaddouche.github.io), since Sep. 2021 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))     
 [Valentin Kilian](https://valentinkil.github.io), since Oct. 2023 (co-supervision with [François Caron](https://www.stats.ox.ac.uk/~caron/))     
 [Antoine Picard](https://www.linkedin.com/in/antoine-picard-3147a1212/), since Sep. 2021         
-[Antonin Schrab](https://antoninschrab.github.io), since Sep. 2020 (co-supervision with [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/))     
 
 
+<!-- **Visiting**        -->
 
-**Visiting**       
-[Ludovic Arnould](https://www.linkedin.com/in/ludovic-arnould/), May 2022 -- Jul. 2022 (visiting PhD student)      
-&nbsp;&nbsp;&nbsp;*PhD student at [Sorbonne Université](https://www.sorbonne-universite.fr) with [Claire Boyer](https://scholar.google.fr/citations?user=UK7wNCwAAAAJ&hl=fr) and [Erwan Scornet](https://erwanscornet.github.io), France*       
-[Eugenio Clerico](https://scholar.google.com/citations?user=Q8byazcAAAAJ&hl=en), Apr. 2022 -- Jul. 2022 (visiting PhD student)      
-&nbsp;&nbsp;&nbsp;*PhD student at [The University of Oxford](https://www.ox.ac.uk) with [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and [George Deligiannidis](https://www.stats.ox.ac.uk/~deligian/), UK*       
 <!-- **Research engineers**     -->
    
 
@@ -53,10 +46,23 @@ If you are interested in an internship: unfortunately, I can only consider appli
 &nbsp;&nbsp;&nbsp;*Now Senior Data Scientist at [DiagRAMS Technologies](https://diagrams-technologies.com), France*        
 
 **Visiting**       
+[Eugenio Clerico](https://scholar.google.com/citations?user=Q8byazcAAAAJ&hl=en), Apr. 2022 -- Jul. 2022 (visiting PhD student)      
+&nbsp;&nbsp;&nbsp;*PhD student at [The University of Oxford](https://www.ox.ac.uk) with [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and [George Deligiannidis](https://www.stats.ox.ac.uk/~deligian/), UK*       
+[Ludovic Arnould](https://www.linkedin.com/in/ludovic-arnould/), May 2022 -- Jul. 2022 (visiting PhD student)      
+&nbsp;&nbsp;&nbsp;*PhD student at [Sorbonne Université](https://www.sorbonne-universite.fr) with [Claire Boyer](https://scholar.google.fr/citations?user=UK7wNCwAAAAJ&hl=fr) and [Erwan Scornet](https://erwanscornet.github.io), France*       
 [Kento Nozawa](https://nzw0301.github.io), May 2019 -- Oct. 2019 (visiting PhD student)      
 &nbsp;&nbsp;&nbsp;*Now PhD student at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) and [RIKEN AIP](https://www.u-tokyo.ac.jp/en/), Japan*       
 
 **PhD students**       
+[Théophile Cantelobre](https://theophilec.github.io), Sep. 2021 -- Oct. 2024 (co-supervision with [Alessandro Rudi](https://www.di.ens.fr/~rudi/) and [Carlo Ciliberto](https://cciliber.github.io))          
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](), [Slides from the defense]()            
+&nbsp;&nbsp;&nbsp;*Now job hunting!*       
+[Antonin Schrab](https://antoninschrab.github.io), Sep. 2020 -- Oct. 2024 (co-supervision with [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/))     
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](), [Slides from the defense]()            
+&nbsp;&nbsp;&nbsp;*Now job hunting!*       
+[Maxime Haddouche](https://maximehaddouche.github.io), Sep. 2021 -- Oct. 2024 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))     
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](), [Slides from the defense]()            
+&nbsp;&nbsp;&nbsp;*Now postdoc at Inria Paris*       
 [Felix Biggs](https://www.felixbiggs.com), Sep. 2019 -- Mar. 2024 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))     
 &nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](), [Slides from the defense]()            
 &nbsp;&nbsp;&nbsp;*Now job hunting!*       
@@ -78,12 +84,22 @@ If you are interested in an internship: unfortunately, I can only consider appli
 &nbsp;&nbsp;&nbsp;*Now PhD student at [EPFL](https://www.epfl.ch/en/), Switzerland*
 
 **Master interns**         
+[Chloé Hashimoto-Cullen](https://www.linkedin.com/in/hashimoto-cullen/?originalSubdomain=uk), January 2024 -- Sep. 2024      
+&nbsp;&nbsp;&nbsp;*Now back to the team!*       
+[Björn Kischelewski](https://www.linkedin.com/in/kischelewski/), January 2024 -- Sep. 2024      
+&nbsp;&nbsp;&nbsp;*Consultant at McKinsey*       
+[Ilai Bachrach](https://www.linkedin.com/in/ilaiadaya/), January 2024 -- Sep. 2024      
+&nbsp;&nbsp;&nbsp;*Now job hunting!*       
+[Naomi Fuchs](https://www.linkedin.com/in/naomi-fuchs-07348612b/?originalSubdomain=il), January 2024 -- Sep. 2024      
+&nbsp;&nbsp;&nbsp;*Now job hunting!*       
+[Angelina Magal](https://www.linkedin.com/in/angelina-magal-65096565/?originalSubdomain=uk), January 2024 -- Sep. 2024      
+&nbsp;&nbsp;&nbsp;*Now job hunting!*       
 [Valentin Kilian](https://valentinkil.github.io), May 2021 - Jul. 2021 (co-supervision with [Antoine Vendeville](https://antoinevendeville.github.io/))      
 &nbsp;&nbsp;&nbsp;*Now back to the team!*       
 [Théophile Cantelobre](https://theophilec.github.io), Feb. 2020 - Aug. 2020      
-&nbsp;&nbsp;&nbsp;*Now back to the team!*      			     
+&nbsp;&nbsp;&nbsp;*Now job hunting!*      			     
 [Maxime Haddouche](https://maximehaddouche.github.io), Oct. 2019 - Aug. 2020     
-&nbsp;&nbsp;&nbsp;*Now back to the team!*       			     
+&nbsp;&nbsp;&nbsp;*Now postdoc at Inria Paris*       			     
 [Louis Pujol](https://louis-pujol.github.io), Apr. 2019 - Oct. 2019    
 &nbsp;&nbsp;&nbsp;*Now PhD student at [Université Paris-Saclay](https://www.universite-paris-saclay.fr), France*		     
 [Wilfried Heyse](https://www.linkedin.com/in/wilfried-heyse-711008151/), May 2018 - Aug. 2018 (co-supervision with [Viet Chi Tran](https://perso.math.u-pem.fr/tran.viet-chi/))     
