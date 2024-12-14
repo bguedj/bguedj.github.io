@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to my corner of the web!
 
-I am a **Principal Research Fellow** in machine learning at [University College London](https://www.ucl.ac.uk) ([Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), [Department of Computer Science](https://www.ucl.ac.uk/computer-science/)) and a **tenured research scientist** at [Inria](http://www.inria.fr/) (affiliated with the [Modal research team](https://team.inria.fr/modal/) from the [Lille - Nord Europe research centre](https://www.inria.fr/fr/centre-inria-lille-nord-europe)). I am also a **Turing Fellow** at [The Alan Turing Institute](https://www.turing.ac.uk).
+I am a **Professor of Machine Learning and Foundational Artificial Intelligence** at [University College London](https://www.ucl.ac.uk) ([Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/), [Department of Computer Science](https://www.ucl.ac.uk/computer-science/)) and a **Research Director** at [Inria](http://www.inria.fr/) (affiliated with the [Modal research team](https://team.inria.fr/modal/) from the [Lille - Nord Europe research centre](https://www.inria.fr/fr/centre-inria-lille-nord-europe)). I am also a **Turing Fellow** at [The Alan Turing Institute](https://www.turing.ac.uk).
 
 I am a member of the [ELLIS society](https://ellis.eu) (and more precisely of its [UCL Unit](https://ucl-ellis.github.io), of which I am a **co-director**) and a Fellow of the [Royal Statistical Society](https://rss.org.uk) (member of the [Computational Statistics and Machine Learning](https://rss.org.uk/membership/rss-groups-and-committees/sections/statistical-computing/) section). I am a fellow of [ICA4](https://www.intercontinental-academia.org/fellows) (Intercontinental Academia on Intelligence and Artificial Intelligence).
 
@@ -20,10 +20,10 @@ I serve as the scientific director of [The Inria London Programme](https://londo
 You might want to visit companion websites:
 <!-- - [my previous website]((https://bguedj.github.io/website-2016-2020-deprecated/)) (2016-2020, now deprecated) -->
 <!-- [https://bguedj.github.io/website-2016-2020-deprecated/](https://bguedj.github.io/website-2016-2020-deprecated/) -->
-- the website for the [ICML 2023 workshop](https://bguedj.github.io/icml2023-workshop/) I co-organise
+- the website for the [ICML 2023 workshop](https://bguedj.github.io/icml2023-workshop/) (see the recordings on [this page](https://icml.cc/virtual/2023/workshop/21478)) I co-organised
 <!-- - the website for the [6PAC joint research team](https://bguedj.github.io/6pac/) I was a co-leader of -->
 <!-- [https://bguedj.github.io/6pac/](https://bguedj.github.io/6pac/) -->
-- the website for the [ICML 2019 tutorial](https://bguedj.github.io/icml2019/) I gave
+- the website for the [ICML 2019 tutorial](https://bguedj.github.io/icml2019/) (see [the slides](https://icml.cc/media/icml-2019/Slides/4338.pdf) and [recording](https://videoken.com/embed/_NuMUQYprn0)) I gave
 <!-- [https://bguedj.github.io/icml2019/](https://bguedj.github.io/icml2019/) -->
 - the website for the [NIPS 2017 workshop](https://bguedj.github.io/nips2017/) I co-organised
 <!-- [https://bguedj.github.io/nips2017/](https://bguedj.github.io/nips2017/) -->
@@ -58,17 +58,17 @@ You might want to visit companion websites:
 ### In a nutshell
 
 - *2021--present:* **Turing Fellow**, [The Alan Turing Institute](https://www.turing.ac.uk), UK
-- *2018--present*: **Principal Research Fellow**, [University College London](https://www.ucl.ac.uk), [Department of Computer Science](https://www.ucl.ac.uk/computer-science/), UK
-- *2014--present*: **tenured research scientist**, [Inria](http://www.inria.fr/), France
+- *2018--present*: **Professor of Machine Learning and Foundational Artificial Intelligence** (formerly Principal Research Fellow), [University College London](https://www.ucl.ac.uk), [Department of Computer Science](https://www.ucl.ac.uk/computer-science/), UK
+- *2014--present*: **Research Director** (formerly Research Scientist), [Inria](http://www.inria.fr/), France
 - 2014: **postdoctoral researcher**, [Sorbonne Université](https://www.sorbonne-universite.fr), France
 - 2011--2013: **PhD student** in mathematical statistics, [Sorbonne Université](https://www.sorbonne-universite.fr) and [Télécom Paris](https://www.telecom-paris.fr), France. Supervisors: [Gérard Biau](http://www.lpsm.paris/pageperso/biau/) and [Eric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=fr). Obtained with highest honors.     
 [PhD thesis](https://tel.archives-ouvertes.fr/tel-00922353) [(pdf)](https://tel.archives-ouvertes.fr/tel-00922353/document)
 - 2010--2011: **research assistant** at [DTU Compute](https://www.compute.dtu.dk), Denmark. Supervisor: [Gilles Guillot](https://scholar.google.com/citations?user=F3vNjskAAAAJ&hl=fr)
 - 2009-2010: **MSc student** in pure and applied mathematics, [Sorbonne Université](https://www.sorbonne-universite.fr), France
 
-## Twitter feed
+<!-- ## Twitter feed
 
-<a class="twitter-timeline" data-width="450" data-height="900" data-theme="dark" href="https://twitter.com/bguedj?ref_src=twsrc%5Etfw">Tweets by bguedj</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="450" data-height="900" data-theme="dark" href="https://twitter.com/bguedj?ref_src=twsrc%5Etfw">Tweets by bguedj</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 <!-- ## News
 
