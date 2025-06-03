@@ -22,11 +22,9 @@ If you are interested in an internship: unfortunately, I can only consider appli
 [Fredrik Hellström](https://fredrikhellstrom.github.io), since May 2023              
 
 **PhD students**   
-[Chloé Hashimoto-Cullen](https://www.linkedin.com/in/hashimoto-cullen/?originalSubdomain=uk), since Oct. 2024 (co-supervision with [Sylvain Le Corff](https://sylvainlc.github.io) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~yannig.goude/about.html))     
+[Chloé Hashimoto-Cullen](https://hashimotocullen.github.io), since Oct. 2024 (co-supervision with [Sylvain Le Corff](https://sylvainlc.github.io) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~yannig.goude/about.html))     
 [Reuben Adams](https://reubenadams.github.io), since Sep. 2020 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
 [Valentin Kilian](https://valentinkil.github.io), since Oct. 2023 (co-supervision with [François Caron](https://www.stats.ox.ac.uk/~caron/))     
-[Antoine Picard](https://www.linkedin.com/in/antoine-picard-3147a1212/), since Sep. 2021         
-
 
 <!-- **Visiting**        -->
 
@@ -54,6 +52,9 @@ If you are interested in an internship: unfortunately, I can only consider appli
 &nbsp;&nbsp;&nbsp;*Now PhD student at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) and [RIKEN AIP](https://www.u-tokyo.ac.jp/en/), Japan*       
 
 **PhD students**       
+[Antoine Picard](https://www.linkedin.com/in/antoine-picard-3147a1212/), Sep. 2021 -- Apr. 2025         
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](), [Slides from the defense]()            
+&nbsp;&nbsp;&nbsp;*Now research enginner at SUEZ*       
 [Théophile Cantelobre](https://theophilec.github.io), Sep. 2021 -- Oct. 2024 (co-supervision with [Alessandro Rudi](https://www.di.ens.fr/~rudi/) and [Carlo Ciliberto](https://cciliber.github.io))          
 &nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](), [Slides from the defense]()            
 &nbsp;&nbsp;&nbsp;*Now job hunting!*       
