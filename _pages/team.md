@@ -53,7 +53,7 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 **PhD students**       
 [Antoine Picard](https://www.linkedin.com/in/antoine-picard-3147a1212/), Sep. 2021 -- Apr. 2025         
-&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](), [Slides from the defense]()            
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](), [Slides from the defense](), [outreach article](https://www.inria.fr/fr/gaz-vert-algorithme-optimiser-methanisation)            
 &nbsp;&nbsp;&nbsp;*Now research enginner at SUEZ*       
 [Théophile Cantelobre](https://theophilec.github.io), Sep. 2021 -- Oct. 2024 (co-supervision with [Alessandro Rudi](https://www.di.ens.fr/~rudi/) and [Carlo Ciliberto](https://cciliber.github.io))          
 &nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://theses.hal.science/tel-04928744v1/document), [Slides from the defense]()            
