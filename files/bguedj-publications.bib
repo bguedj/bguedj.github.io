@@ -1404,7 +1404,7 @@ note = "Paper accepted in January 2025",
 abstract = {The clearance of explosive remnants of war (ERW) continues to be a predominantly manual and high-risk process that can benefit from advances in technology to improve its efficiency and effectiveness. In particular, research on artificial intelligence for ERW clearance has grown significantly in recent years. However, this research spans a wide range of fields, making it difficult to gain a comprehensive understanding of current trends and developments. Therefore, this article provides a literature review of academic research on AI for ERW detection for clearance operations. It finds that research can be grouped into two main streams, AI for ERW object detection and AI for ERW risk prediction, with the latter being much less studied than the former. From the analysis of the eligible literature, we develop three opportunities for future research, including a call for renewed efforts in the use of AI for ERW risk prediction, the combination of different AI systems and data sources, and novel approaches to improve ERW risk prediction performance, such as pattern-based prediction. Finally, we provide a perspective on the future of AI for ERW clearance. We emphasize the role of traditional machine learning for this task, the need to dynamically incorporate expert knowledge into the models, and the importance of effectively integrating AI systems with real-world operations.},
 url = {https://hal.science/hal-04603209},
 url_arXiv = {https://arxiv.org/abs/2411.05813},
-url_PDF = {url_PDF = "https://bguedj.github.io/files/bjorn-r6.pdf},
+url_PDF = {"https://bguedj.github.io/files/bjorn-r6.pdf},
 doi = {10.48550/ARXIV.2411.05813},
 eprint={2411.05813},
 archivePrefix={arXiv},
@@ -1460,6 +1460,29 @@ doi = {10.48550/ARXIV.2505.13206},
 eprint={2505.13206},
 archivePrefix={arXiv},
 primaryClass={math.ST},
+copyright = {Creative Commons Attribution 4.0 International},
+keywords={mine}
+}
+
+@unpublished{kischelewski2025landmines,
+title = {RestoreAI -- Pattern-based Risk Estimation Of Remaining Explosives},
+author = {Kischelewski, Björn and Guedj, Benjamin and Wahl, David},
+year = {2025},
+note = "Submitted",
+abstract = {Today, over 60 countries are affected by landmines, with more than 4,700 people killed or injured in 2022. However, landmine removal remains a slow and resource-intensive process. Clearance operations cover vast areas, while skilled deminers, hardware, and funding are limited.
+To address this challenge, artificial intelligence (AI) tools have been proposed to improve the detection of explosive ordnance (EO). Existing approaches have focused primarily on landmine recognition, with limited attention to prediction of landmine risk based on spatial pattern information.
+This work aims to answer the following research question: How can AI be used to predict landmine risk from landmine patterns to improve clearance time efficiency? 
+To that effect, we introduce \textbf{RestoreAI}, an AI system for pattern-based risk estimation of remaining explosives. 
+RestoreAI is the first AI system that leverages landmine patterns for risk prediction, improving the accuracy of estimating the residual risk of missing EO prior to land release. 
+We particularly focus on the implementation of three instances of RestoreAI, respectively, linear, curved and Bayesian pattern deminers. First, the linear pattern deminer uses linear landmine patterns from a principal component analysis (PCA) for the landmine risk prediction. Second, the curved pattern deminer uses curved landmine patterns from principal curves. Finally, the Bayesian pattern deminer incorporates prior expert knowledge by using a Bayesian pattern risk prediction. 
+Performance evaluation on real-world landmine data shows a significant increase in clearance time efficiency by incorporating landmine pattern information into the prediction. In particular, the best pattern-based deminers achieve a 14.37 percentage points higher average share of cleared landmines per timestep and require 24.45\% less time than the best baseline deminer to find all landmines. Interestingly, no significant performance differences are found between the linear and curved pattern deminers, suggesting the merits of using simpler and more efficient linear patterns for the risk prediction, lowering the computational burden of our algorithm when used in the field. RestoreAI has the potential to improve the safety of the skilled deminers, and the efficiency and agility of the entire demining process.},
+url = {https://hal.science/xx},
+url_arXiv = {https://arxiv.org/abs/2507.xxxxx},
+url_PDF = {https://arxiv.org/pdf/2507.xxxxx},
+doi = {10.48550/ARXIV.2507.xxxxx},
+eprint={2507.xxxxx},
+archivePrefix={arXiv},
+primaryClass={cs.LG},
 copyright = {Creative Commons Attribution 4.0 International},
 keywords={mine}
 }
