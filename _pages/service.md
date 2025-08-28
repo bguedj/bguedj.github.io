@@ -47,6 +47,7 @@ Served as **member of the Editorial Board of reviewers** for the [Journal of Mac
 
 **Senior member of program committees (area chair)**
 
+[AAAI](https://www.aaai.org) 2026    
 [AISTATS](https://www.aistats.org) 2023, 2024    
 [COLT](http://learningtheory.org) 2022       
 [ICLR](https://iclr.cc) 2024       
