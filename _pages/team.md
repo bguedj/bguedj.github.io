@@ -25,6 +25,7 @@ If you are interested in an internship: unfortunately, I can only consider appli
 [Chloé Hashimoto-Cullen](https://hashimotocullen.github.io), since Oct. 2024 (co-supervision with [Sylvain Le Corff](https://sylvainlc.github.io) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~yannig.goude/about.html))     
 [Reuben Adams](https://reubenadams.github.io), since Sep. 2020 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
 [Valentin Kilian](https://valentinkil.github.io), since Oct. 2023 (co-supervision with [François Caron](https://www.stats.ox.ac.uk/~caron/))     
+[Angelina Magal](https://www.linkedin.com/in/angelina-magal-65096565/), since Oct. 2025     
 
 <!-- **Visiting**        -->
 
@@ -94,7 +95,7 @@ If you are interested in an internship: unfortunately, I can only consider appli
 [Naomi Fuchs](https://www.linkedin.com/in/naomi-fuchs-07348612b/?originalSubdomain=il), January 2024 -- Sep. 2024      
 &nbsp;&nbsp;&nbsp;*Now job hunting!*       
 [Angelina Magal](https://www.linkedin.com/in/angelina-magal-65096565/?originalSubdomain=uk), January 2024 -- Sep. 2024      
-&nbsp;&nbsp;&nbsp;*Now job hunting!*       
+&nbsp;&nbsp;&nbsp;*Now back to the team!*       
 [Valentin Kilian](https://valentinkil.github.io), May 2021 - Jul. 2021 (co-supervision with [Antoine Vendeville](https://antoinevendeville.github.io/))      
 &nbsp;&nbsp;&nbsp;*Now back to the team!*       
 [Théophile Cantelobre](https://theophilec.github.io), Feb. 2020 - Aug. 2020      
