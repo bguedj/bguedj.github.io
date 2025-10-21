@@ -66,7 +66,7 @@ If you are interested in an internship: unfortunately, I can only consider appli
 &nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://maximehaddouche.github.io/files/139903_HADDOUCHE_2024_archivage-2.pdf), [Slides from the defense]()            
 &nbsp;&nbsp;&nbsp;*Now postdoc at Inria Paris*       
 [Felix Biggs](https://www.felixbiggs.com), Sep. 2019 -- Mar. 2024 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))     
-&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://felixbiggs.com/thesis.pdf), [Slides from the defense]()            
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://felixbiggs.com/thesis.pdf) and [official repository](https://discovery.ucl.ac.uk/id/eprint/10193715/2/thesis-main.pdf), [Slides from the defense]()            
 &nbsp;&nbsp;&nbsp;*Now job hunting!*       
 [Antoine Vendeville](https://antoinevendeville.github.io/), Sep. 2019 -- Oct. 2023 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))     
 &nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://theses.hal.science/tel-04431872v1/document), [Slides from the defense]()            
