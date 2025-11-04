@@ -8,4 +8,4 @@ date: 2025-11-04
 location: "Online"
 ---
 
-I gave one of the talks of the PAC-Bayes chapter of the [PostBayes seminar](https://postbayes.github.io/seminar/). You can access the [slides](https://bguedj.github.io/files/bguedj-talk-2025-postbayes-seminar.pdf) and the [recording]().
+I gave one of the talks of the PAC-Bayes chapter of the [PostBayes seminar](https://postbayes.github.io/seminar/). You can access the [slides](https://bguedj.github.io/files/bguedj-talk-2025-postbayes-online.pdf) and the [recording]().
