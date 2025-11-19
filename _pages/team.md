@@ -23,7 +23,6 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 **PhD students**   
 [Chloé Hashimoto-Cullen](https://hashimotocullen.github.io), since Oct. 2024 (co-supervision with [Sylvain Le Corff](https://sylvainlc.github.io) and [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~yannig.goude/about.html))     
-[Reuben Adams](https://reubenadams.github.io), since Sep. 2020 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
 [Valentin Kilian](https://valentinkil.github.io), since Oct. 2023 (co-supervision with [François Caron](https://www.stats.ox.ac.uk/~caron/))     
 [Angelina Magal](https://www.linkedin.com/in/angelina-magal-65096565/), since Oct. 2025     
 
@@ -53,6 +52,8 @@ If you are interested in an internship: unfortunately, I can only consider appli
 &nbsp;&nbsp;&nbsp;*Now PhD student at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/) and [RIKEN AIP](https://www.u-tokyo.ac.jp/en/), Japan*       
 
 **PhD students**       
+[Reuben Adams](https://reubenadams.github.io), Sep. 2020 -- July 2025 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)]()            
 [Antoine Picard](https://www.linkedin.com/in/antoine-picard-3147a1212/), Sep. 2021 -- Apr. 2025         
 &nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](), [Slides from the defense](), [outreach article](https://www.inria.fr/fr/gaz-vert-algorithme-optimiser-methanisation)            
 &nbsp;&nbsp;&nbsp;*Now research enginner at SUEZ*       
