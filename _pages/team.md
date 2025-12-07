@@ -73,7 +73,7 @@ If you are interested in an internship: unfortunately, I can only consider appli
 &nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://theses.hal.science/tel-04431872v1/document), [Slides from the defense]()            
 &nbsp;&nbsp;&nbsp;*Now postdoctoral researcher at [Sciences Po Médialab](https://medialab.sciencespo.fr), France*       
 [Arthur Leroy](https://arthur-leroy.netlify.app), Oct. 2017 -- Dec. 2020 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))           
-&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://arthur-leroy.netlify.app/files/Thesis-Arthur_LEROY.pdf), [Slides from the defense](https://arthur-leroy.netlify.app/files/slides_soutenance/slides_thesis.html#/)        
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://theses.hal.science/tel-03226194v1/file/LEROY_Arthur_va2.pdf), [Slides from the defense](https://arthur-leroy.netlify.app/slides/slides_soutenance/slides_thesis#/)        
 &nbsp;&nbsp;&nbsp;[Video of the defense](https://youtu.be/gAaKoKq9UDo), [Video of the full defense (presentation+questions)](https://youtu.be/6xpyS0tTSCo)      
 &nbsp;&nbsp;&nbsp;*Now postdoctoral researcher with [Mauricio Álvarez](https://maalvarezl.github.io) at [The University of Manchester](https://www.manchester.ac.uk), UK*       
 [Le Li](https://www.researchgate.net/scientific-contributions/2108172811_Le_Li), Oct. 2014 -- Nov. 2018 (co-supervision with [Sébastien Loustau](https://www.linkedin.com/in/sébastien-loustau-b57b4555/)).      
