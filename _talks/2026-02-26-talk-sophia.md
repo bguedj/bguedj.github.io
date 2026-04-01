@@ -8,4 +8,4 @@ date: 2026-02-04
 location: "Centre Inria de l'Université Côte d'Azur, Sophia Antipolis, France"
 ---
 
-I gave a plenary talk at the [Centre Inria de l'Université Côte d'Azur](https://www.inria.fr/fr/centre-inria-universite-cote-azur) as part of a [great workshop](https://www-sop.inria.fr/members/Samir.Perlaza/StatMLSeminar.html) organised by [Samir Perlaza](https://www-sop.inria.fr/members/Samir.Perlaza/). You can access the [slides](https://bguedj.github.io/files/bguedj-talk-2026-sophia.pdf).
+I gave a plenary talk at the [Centre Inria de l'Université Côte d'Azur](https://www.inria.fr/fr/centre-inria-universite-cote-azur) as part of a [great workshop](https://www-sop.inria.fr/members/Samir.Perlaza/StatMLSeminar.html) organised by [Samir Perlaza](https://www-sop.inria.fr/members/Samir.Perlaza/). You can access the [slides](https://bguedj.github.io/files/bguedj-talk-2026-sophia.pdf) and the [recording](https://www.canal-u.tv/chaines/dali/rethinking-generalisation-beyond-kl-with-geometry-and-comparators).
