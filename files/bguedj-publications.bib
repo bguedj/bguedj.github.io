@@ -87,10 +87,9 @@ url_Code = "https://cran.r-project.org/package=COBRA",
 keywords={mine}
 }
 
-@unpublished{celisse2016stability,
+@techreport{celisse2016stability,
 title={Stability revisited: new generalisation bounds for the {Leave-one-Out}},
 author={Celisse, Alain and Guedj, Benjamin},
-note={Preprint.},
 url = "https://arxiv.org/abs/1608.06412",
 url_PDF = "https://arxiv.org/pdf/1608.06412.pdf",
 year={2016},
@@ -669,7 +668,7 @@ url_PDF = {https://hal.inria.fr/hal-03033764/file/CE_GT-Suivi.pdf},
 keywords={mine}
 }
 
-@unpublished{cantelobre2020pacbayesian,
+@techreport{cantelobre2020pacbayesian,
 title={A {PAC-Bayesian} Perspective on Structured Prediction with Implicit Loss Embeddings}, 
 author={Théophile Cantelobre and Benjamin Guedj and Mar\'ia P\'erez-Ortiz and John Shawe-Taylor},
 year={2020},
@@ -759,7 +758,7 @@ primaryClass={cs.LG},
 keywords={mine}
 }
 
-@unpublished{perezortiz2021learning,
+@techreport{perezortiz2021learning,
 title={Learning {PAC-Bayes} Priors for Probabilistic Neural Networks},
 author={Mar\'ia P\'erez-Ortiz and Omar Rivasplata and Benjamin Guedj and Matthew Gleeson and Jingyu Zhang and John Shawe-Taylor and Miroslaw Bober and Josef Kittler},
 year={2021},
@@ -918,7 +917,7 @@ keywords={mine}
 }
 
 @inproceedings{adams2022confusion,
-title={Controlling Multiple Errors Simultaneously with a {PAC-Bayes} Bound},
+title={Controlling Multiple Errors Simultaneously with a {PAC}-{Bayes} Bound},
 author={Reuben Adams and John Shawe-Taylor and Benjamin Guedj},
 year={2024},
 booktitle = {Advances in Neural Information Processing Systems [NeurIPS]},
@@ -1085,9 +1084,10 @@ author = {Clerico, Eugenio and Farghly, Tyler and Deligiannidis, George and Gued
 year = {2025},
 booktitle = {International Conference on Algorithmic Learning Theory [ALT]},
 abstract = {We establish disintegrated PAC-Bayesian generalisation bounds for models trained with gradient descent methods or continuous gradient flows. Contrary to standard practice in the PAC-Bayesian setting, our result applies to optimisation algorithms that are deterministic, without requiring any \textit{de-randomisation} step. Our bounds are fully computable, depending on the density of the initial distribution and the Hessian of the training objective over the trajectory. We show that our framework can be applied to a variety of iterative optimisation algorithms, including stochastic gradient descent (SGD), momentum-based schemes, and damped Hamiltonian dynamics.},
-url = {https://arxiv.org/abs/2209.02525},
+url = {https://proceedings.mlr.press/v272/clerico25a.html},
+url_arXiv = {https://arxiv.org/abs/2209.02525},
 url_PDF = {https://arxiv.org/pdf/2209.02525.pdf},
-url_Video = {https://youtu.be/wXmIMnlxDiU?si=jSA5h9_2XPxVeanX},
+url_Video = {https://www.youtube.com/watch?v=wXmIMnlxDiU},
 doi = {10.48550/ARXIV.2209.02525},
 eprint={2209.02525},
 archivePrefix={arXiv},
@@ -1264,7 +1264,7 @@ copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 Interna
 keywords={mine}
 }
 
-@unpublished{ica2023,
+@techreport{ica2023,
 title = {{Nurturing Knowledge: A Virtue Epistemic Approach to Explainable AI}},
 author={Laura Candiotto and N. Alex Cayco-Gajic and Patricia Coelho de Soarez and Massimiliano Di Luca and Diego Frassinelli and André Fujita and Jakub Growiec and Benjamin Guedj and Suranga N. Kasturi and Yasutomo Kawanishi and Philipp Kellmeyer and Michael A. Livermore and Deshendran Moodley and Ithai Rabinowitch and Tahina Ralitera and Oksana Stalnov and Henry Taylor and Melvin Wevers},
 year={2023},
@@ -1338,9 +1338,10 @@ author = {Haddouche, Maxime and Viallard, Paul and Şimşekli, Umut and Guedj, B
 year = {2025},
 booktitle = {International Conference on Algorithmic Learning Theory [ALT]},
 abstract = {Modern machine learning usually involves predictors in the overparametrised setting (number of trained parameters greater than dataset size), and their training yield not only good performances on training data, but also good generalisation capacity. This phenomenon challenges many theoretical results, and remains an open problem. To reach a better understanding, we provide novel generalisation bounds involving gradient terms. To do so, we combine the PAC-Bayes toolbox with Poincaré and Log-Sobolev inequalities, avoiding an explicit dependency on dimension of the predictor space. Our results highlight the positive influence of \emph{flat minima} (being minima with a neighbourhood nearly minimising the learning problem as well) on generalisation performances, involving directly the benefits of the optimisation phase.  },
-url = {https://arxiv.org/abs/2402.08508},
+url = {https://proceedings.mlr.press/v272/haddouche25a.html},
+url_arXiv = {https://arxiv.org/abs/2402.08508},
 url_PDF = {https://arxiv.org/pdf/2402.08508.pdf},
-url_Video = {https://youtu.be/LfPV8AzlkXg?si=6zTYHuPqubLfIYLq},
+url_Video = {https://www.youtube.com/watch?v=LfPV8AzlkXg},
 doi = {10.48550/ARXIV.2402.08508},
 eprint={2402.08508},
 archivePrefix={arXiv},
@@ -1368,8 +1369,10 @@ author = {Picard-Weibel, Antoine and Moscoviz, Roman and Guedj, Benjamin},
 year = {2024},
 booktitle = {Advances in Neural Information Processing Systems [NeurIPS]},
 abstract = {PAC-Bayes learning is a comprehensive setting for (i) studying the generalisation ability of learning algorithms and (ii) deriving new learning algorithms by optimising a generalisation bound. However, optimising generalisation bounds might not always be viable for tractable or computational reasons, or both. For example, iteratively querying the empirical risk might prove computationally expensive. In response, we introduce a novel principled strategy for building an iterative learning algorithm via the optimisation of a sequence of surrogate training objectives, inherited from PAC-Bayes generalisation bounds. The key argument is to replace the empirical risk (seen as a function of hypotheses) in the generalisation bound by its projection onto a constructible low dimensional functional space: these projections can be queried much more efficiently than the initial risk. On top of providing that generic recipe for learning via surrogate PAC-Bayes bounds, we (i) contribute theoretical results establishing that iteratively optimising our surrogates implies the optimisation of the original generalisation bounds, (ii) instantiate this strategy to the framework of meta-learning, introducing a meta-objective offering a closed form expression for meta-gradient, (iii) illustrate our approach with numerical experiments inspired by an industrial biochemical problem.},
-url = {https://arxiv.org/abs/2410.10230},
-url_PDF = {https://arxiv.org/pdf/2410.10230.pdf},
+url = {https://proceedings.neurips.cc/paper_files/paper/2024/hash/5fba70900a84a8fb755c48ba99420c95-Abstract-Conference.html},
+url_arXiv = {https://arxiv.org/abs/2410.10230},
+url_PDF = {https://proceedings.neurips.cc/paper_files/paper/2024/file/5fba70900a84a8fb755c48ba99420c95-Paper-Conference.pdf},
+url_Video = {https://neurips.cc/virtual/2024/poster/95781},
 doi = {10.48550/ARXIV.2410.10230},
 eprint={2410.10230},
 archivePrefix={arXiv},
@@ -1378,11 +1381,10 @@ copyright = {Creative Commons Attribution 4.0 International},
 keywords={mine}
 }
 
-@unpublished{hashimoto2024predicting,
+@techreport{hashimoto2024predicting,
 title = {Predicting Electricity Consumption with Random Walks on {Gaussian} {Processes}},
 author = {Hashimoto-Cullen, Chloé and Guedj, Benjamin},
 year = {2024},
-note = "Submitted.",
 abstract = {We consider time-series forecasting problems where data is scarce, difficult to gather, or induces a prohibitive computational cost. As a first attempt, we focus on short-term electricity consumption in France, which is of strategic importance for energy suppliers and public stakeholders. The complexity of this problem and the many levels of geospatial granularity motivate the use of an ensemble of Gaussian Processes (GPs). Whilst GPs are remarkable predictors, they are computationally expensive to train, which calls for a frugal few-shot learning approach. By taking into account performance on GPs trained on a dataset and designing a random walk on these, we mitigate the training cost of our entire Bayesian decision-making procedure. We introduce our algorithm called \textsc{Domino} (ranDOM walk on gaussIaN prOcesses) and present numerical experiments to support its merits.},
 url = {https://arxiv.org/abs/2409.05934},
 url_PDF = {https://arxiv.org/pdf/2409.05934.pdf},
@@ -1547,12 +1549,11 @@ keywords={mine}
 }
 
 @unpublished{hashimoto2025vae,
-title = {Time Series Forecasting with Variational Autoencoders: A {PAC}-{B}ayesian-driven Algorithm},
+title = {{PAC}-{B}ayesian Variational Autoencoders for Time Series},
 author = {Hashimoto-Cullen, Chloé and Agoua, Ghislain and Guedj, Benjamin and Le Corff, Sylvain},
 year = {2025},
 note = "Submitted.",
-abstract = {Time series forecasting is increasingly important to applications ranging from the medical domain to finance and electricity consumption management, to name but a few. Yet, despite its practical importance, few algorithms come with strong theoretical guarantees, which means that there are no safeguards against sudden performance drops in new implementations.
-We propose a variational framework for time series forecasting, grounded in a novel PAC-Bayesian bound. Building on this bound, we introduce PAVE, a lightweight VQ-VAE-inspired algorithm. Our contributions are twofold: (i) we provide new PAC-Bayesian bounds on the reconstruction error of time series VQ-VAE algorithms, and (ii) we conduct an extensive empirical evaluation. On electricity consumption forecasting benchmarks, PAVE achieves competitive accuracy while remaining computationally efficient. Together, our theoretical and experimental results position PAVE as a principled alternative for probabilistic time series forecasting.},
+abstract = {Forecasting time series accurately is critical in applications ranging from energy systems to healthcare and finance, yet principled generalisation guarantees for modern latent variable models remain limited. In particular, while Variational AutoEncoders (VAEs) are widely used for sequential data, their theoretical analysis is largely restricted to i.i.d. settings. In this work, we develop a PAC-Bayesian framework for latent variables models applied to time series. Building on reconstruction-based bounds, we extend PAC-Bayesian guarantees to Markovian latent structures, capturing temporal dependencies through a sequential generative process. Motivated by this analysis, we introduce Structured Lightweight Discrete Latent Representation, a forecasting method designed to operate under our proposed theoretical framework and inspired by Vector Quantised-VAEs. We validate our approach through controlled experiments that isolate the impact of dataset size and sequence length, empirically confirming the trends predicted by our bounds. Overall, our results provide a first step toward a theoretically grounded understanding of VAE-based time series models.},
 url = {https://arxiv.org/abs/2510.xxxxx},
 url_PDF = {https://arxiv.org/pdf/2510.xxxxx.pdf},
 doi = {10.48550/ARXIV.2510.xxxxx},
@@ -1588,6 +1589,54 @@ doi = {10.48550/ARXIV.2601.19674},
 eprint={2601.19674},
 archivePrefix={arXiv},
 primaryClass={cs.LG},
+copyright = {Creative Commons Attribution 4.0 International},
+keywords={mine}
+}
+
+@unpublished{haddouche2026optimism,
+title = {Tempered Optimism for Online Learning: Non-Convex Optimisation and Generalisation Bounds},
+author = {Haddouche, Maxime and Dupuis, Benjamin and Guedj, Benjamin and Şimşekli, Umut and Wintenberger, Olivier},
+year = {2026},
+note = "Submitted.",
+abstract = {},
+url = {https://arxiv.org/abs/2510.xxxxx},
+url_PDF = {https://arxiv.org/pdf/2510.xxxxx.pdf},
+doi = {10.48550/ARXIV.2510.xxxxx},
+eprint={2510.xxxxx},
+archivePrefix={arXiv},
+primaryClass={stat.ML},
+copyright = {Creative Commons Attribution 4.0 International},
+keywords={mine}
+}
+
+@unpublished{hashimoto2026identifiable,
+title = {Identifiable Latent Mixtures of Time Series Foundation Models},
+author = {Hashimoto-Cullen, Chloé and Durand, Amaury and Bozzi, Laurent and Goude, Yannig and Guedj, Benjamin and Le Corff, Sylvain},
+year = {2026},
+note = "Submitted.",
+abstract = {},
+url = {https://arxiv.org/abs/2510.xxxxx},
+url_PDF = {https://arxiv.org/pdf/2510.xxxxx.pdf},
+doi = {10.48550/ARXIV.2510.xxxxx},
+eprint={2510.xxxxx},
+archivePrefix={arXiv},
+primaryClass={stat.ML},
+copyright = {Creative Commons Attribution 4.0 International},
+keywords={mine}
+}
+
+@unpublished{nguyen2026physics,
+title = {A {PAC}-{B}ayesian View of Generalisation for Physics-Informed Machine Learning},
+author = {Nguyen, Thien V. and Habrard, Amaury and Guedj, Benjamin},
+year = {2026},
+note = "Submitted.",
+abstract = {},
+url = {https://arxiv.org/abs/2510.xxxxx},
+url_PDF = {https://arxiv.org/pdf/2510.xxxxx.pdf},
+doi = {10.48550/ARXIV.2510.xxxxx},
+eprint={2510.xxxxx},
+archivePrefix={arXiv},
+primaryClass={stat.ML},
 copyright = {Creative Commons Attribution 4.0 International},
 keywords={mine}
 }
