@@ -53,24 +53,24 @@ If you are interested in an internship: unfortunately, I can only consider appli
 
 **PhD students**       
 [Reuben Adams](https://reubenadams.github.io), Sep. 2020 -- July 2025 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))   
-&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)]()            
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://discovery.ucl.ac.uk/id/eprint/10217499/2/PhD_Thesis_with_Corrections.pdf)            
 [Antoine Picard](https://www.linkedin.com/in/antoine-picard-3147a1212/), Sep. 2021 -- Apr. 2025         
-&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](), [Slides from the defense](), [outreach article](https://www.inria.fr/fr/gaz-vert-algorithme-optimiser-methanisation)            
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://pepite-depot.univ-lille.fr/LIBRE/EDMADIS/2025/2025ULILB007.pdf), [outreach article](https://www.inria.fr/fr/gaz-vert-algorithme-optimiser-methanisation)            
 &nbsp;&nbsp;&nbsp;*Now research enginner at SUEZ*       
 [Théophile Cantelobre](https://theophilec.github.io), Sep. 2021 -- Oct. 2024 (co-supervision with [Alessandro Rudi](https://www.di.ens.fr/~rudi/) and [Carlo Ciliberto](https://cciliber.github.io))          
-&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://theses.hal.science/tel-04928744v1/document), [Slides from the defense]()            
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://theses.hal.science/tel-04928744v1/document)            
 &nbsp;&nbsp;&nbsp;*Now job hunting!*       
 [Antonin Schrab](https://antoninschrab.github.io), Sep. 2020 -- Oct. 2024 (co-supervision with [Arthur Gretton](http://www.gatsby.ucl.ac.uk/~gretton/))     
-&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](), [Slides from the defense]()            
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://discovery.ucl.ac.uk/10205846/1/Schrab_10205846_Thesis_Revised.pdf), [Slides from the defense](https://antoninschrab.github.io/files/Slides_Optimal.pdf)            
 &nbsp;&nbsp;&nbsp;*Now job hunting!*       
 [Maxime Haddouche](https://maximehaddouche.github.io), Sep. 2021 -- Oct. 2024      
-&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://maximehaddouche.github.io/files/139903_HADDOUCHE_2024_archivage-2.pdf), [Slides from the defense]()            
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://maximehaddouche.github.io/files/139903_HADDOUCHE_2024_archivage-2.pdf)            
 &nbsp;&nbsp;&nbsp;*Now postdoc at Inria Paris*       
 [Felix Biggs](https://www.felixbiggs.com), Sep. 2019 -- Mar. 2024 (co-supervision with [John Shawe-Taylor](http://www0.cs.ucl.ac.uk/staff/J.Shawe-Taylor/))     
-&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://felixbiggs.com/thesis.pdf) and [official repository](https://discovery.ucl.ac.uk/id/eprint/10193715/2/thesis-main.pdf), [Slides from the defense]()            
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://felixbiggs.com/thesis.pdf) and [official repository](https://discovery.ucl.ac.uk/id/eprint/10193715/2/thesis-main.pdf)            
 &nbsp;&nbsp;&nbsp;*Now job hunting!*       
 [Antoine Vendeville](https://antoinevendeville.github.io/), Sep. 2019 -- Oct. 2023 (co-supervision with [Shi Zhou](https://wp.cs.ucl.ac.uk/shizhou/))     
-&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://theses.hal.science/tel-04431872v1/document), [Slides from the defense]()            
+&nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://theses.hal.science/tel-04431872v1/document)            
 &nbsp;&nbsp;&nbsp;*Now postdoctoral researcher at [Sciences Po Médialab](https://medialab.sciencespo.fr), France*       
 [Arthur Leroy](https://arthur-leroy.netlify.app), Oct. 2017 -- Dec. 2020 (co-supervision with [Servane Gey](http://helios.mi.parisdescartes.fr/~gey/) and [Pierre Latouche](http://helios.mi.parisdescartes.fr/~platouch/))           
 &nbsp;&nbsp;&nbsp;[PhD thesis (pdf)](https://theses.hal.science/tel-03226194v1/file/LEROY_Arthur_va2.pdf), [Slides from the defense](https://arthur-leroy.netlify.app/slides/slides_soutenance/slides_thesis#/)        
