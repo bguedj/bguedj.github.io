@@ -3,9 +3,6 @@ main:
   - title: "Home"
     url: /about/
 
-  - title: "News"
-    url: /year-archive/
-
   - title: "Group"
     url: /team/
 
