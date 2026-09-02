@@ -22,6 +22,8 @@ This led to my being appointed a [Young Leader](https://francobritish.org/en/you
 
 In July 2025, during the [State Visit of President Macron to London](https://francobritish.org/wp-content/uploads/2025/07/IMG_8010-2048x1152.jpg), I have co-authored [a report](https://francobritish.org/wp-content/uploads/2025/07/FBC-CFB-YL-LL-UK-France-Summit-submission-July-2025-2.pdf) produced by the [Franco-British Council](https://francobritish.org), and [handed it over](https://francobritish.org/en/3151-2/) to [Clara Chappaz](https://en.wikipedia.org/wiki/Clara_Chappaz), then French Minister for AI and digital affairs.
 
+In 2025-2026, I served as AI lead for UCL's contribution to the [AI Research Foundations Toolkit](https://extend.ucl.ac.uk/course/view.php?id=2167), a free educational resource co-developed with the [African Institute for Mathematical Sciences](https://www.aims.ac.za) (AIMS) and Google DeepMind, with support from Google.org — see [the announcement](https://www.linkedin.com/feed/update/urn:li:ugcPost:7498671917474725888/).
+
 You might want to visit companion websites:
 <!-- - [my previous website]((https://bguedj.github.io/website-2016-2020-deprecated/)) (2016-2020, now deprecated) -->
 <!-- [https://bguedj.github.io/website-2016-2020-deprecated/](https://bguedj.github.io/website-2016-2020-deprecated/) -->
