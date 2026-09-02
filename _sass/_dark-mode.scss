@@ -1,0 +1,218 @@
+/* ==========================================================================
+   DARK MODE
+   Defaults to the visitor's OS/browser preference (prefers-color-scheme);
+   the toggle button in the masthead can override it, remembered via
+   localStorage. See _includes/head.html (initial choice, no flash) and
+   _includes/masthead.html (the toggle). This theme was never built with
+   CSS custom properties, so overriding selectors here is simpler and safer
+   than rewriting every partial.
+   ========================================================================== */
+
+html[data-theme="dark"] {
+
+  $dm-bg           : #1b1b1e;
+  $dm-bg-alt       : #26262b;
+  $dm-text         : #d7d7d9;
+  $dm-text-muted   : #9a9a9e;
+  $dm-border       : #3a3a40;
+  $dm-link         : #7cc9e8;
+  $dm-link-hover   : #a4dbf2;
+
+  background-color: $dm-bg;
+
+  body {
+    color: $dm-text;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: $dm-text;
+  }
+
+  a {
+    color: $dm-link;
+
+    &:hover,
+    &:active {
+      color: $dm-link-hover;
+    }
+  }
+
+  /* code */
+
+  p > code, a > code, li > code, figcaption > code, td > code, pre, tt {
+    background: $dm-bg-alt;
+    border-color: $dm-border;
+    color: $dm-text;
+  }
+
+  .highlight,
+  div.highlighter-rouge {
+    background: $dm-bg-alt;
+  }
+
+  /* tables */
+
+  table {
+    background-color: $dm-bg-alt;
+    color: $dm-text;
+
+    tr {
+      background-color: $dm-bg-alt;
+
+      &:nth-child(even) {
+        background-color: $dm-bg;
+      }
+    }
+
+    caption {
+      color: $dm-text-muted;
+    }
+
+    td, th {
+      border-color: $dm-border;
+    }
+  }
+
+  /* blockquotes */
+
+  blockquote {
+    color: $dm-text-muted;
+    border-left-color: $dm-border;
+  }
+
+  hr {
+    border-top-color: $dm-border;
+  }
+
+  /* masthead / top navigation */
+
+  .masthead {
+    background-color: $dm-bg;
+    border-bottom-color: $dm-border;
+  }
+
+  .theme-toggle {
+    color: $dm-text;
+
+    &:hover {
+      color: $dm-link;
+      background: $dm-bg-alt;
+    }
+  }
+
+  .greedy-nav {
+    background: $dm-bg;
+
+    a {
+      color: $dm-text;
+    }
+
+    .visible-links a:before {
+      background: $dm-link;
+    }
+
+    .hidden-links {
+      background: $dm-bg-alt;
+      border-color: $dm-border;
+
+      a {
+        color: $dm-text;
+      }
+
+      &:before,
+      &:after {
+        border-bottom-color: $dm-bg-alt;
+      }
+    }
+  }
+
+  /* sidebar / author profile */
+
+  .author__avatar img {
+    border-color: $dm-border;
+  }
+
+  .author__urls {
+    background: $dm-bg-alt;
+    border-color: $dm-border;
+    color: $dm-text;
+    box-shadow: 0 0 10px rgba(#000, 0.5);
+
+    &:before {
+      border-color: $dm-border transparent;
+    }
+
+    &:after {
+      border-color: $dm-bg-alt transparent;
+    }
+
+    @include breakpoint($large) {
+      background: transparent;
+      border-color: transparent;
+      box-shadow: none;
+    }
+  }
+
+  /* page content, archive listings */
+
+  .page__content,
+  .page__hero,
+  .archive {
+    color: $dm-text;
+  }
+
+  .page__related,
+  .archive__item-teaser {
+    border-color: $dm-border;
+  }
+
+  .page__footer-follow,
+  .archive__subtitle,
+  .page__meta {
+    border-color: $dm-border;
+    color: $dm-text-muted;
+  }
+
+  /* notices */
+
+  .notice, .notice--primary {
+    background-color: $dm-bg-alt;
+  }
+
+  /* forms / search */
+
+  input, textarea {
+    background-color: $dm-bg-alt;
+    color: $dm-text;
+    border-color: $dm-border;
+  }
+
+  .search-content,
+  .search-content__inner-wrap {
+    background: rgba(27, 27, 30, 0.9);
+  }
+
+  .search-content__form {
+    background-color: $dm-bg;
+  }
+
+  /* buttons: keep brand/status colors, just fix the plain white variant */
+
+  .btn--inverse {
+    color: $dm-text !important;
+    background-color: $dm-bg-alt;
+    border-color: $dm-border;
+  }
+
+  /* footer */
+
+  .page__footer {
+    background-color: $dm-bg-alt;
+    border-top-color: $dm-border;
+    color: $dm-text-muted;
+
+    a {
+      color: $dm-text-muted;
+    }
+  }
+}
