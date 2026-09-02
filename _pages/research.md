@@ -9,22 +9,6 @@ classes: wide
 
 I am interested in machine learning, with a particular focus on statistical learning theory, PAC-Bayes theory, computational statistics and algorithms, deep learning, kernels and learning representation.
 
-<!-- ## Software
-
-TBC -->
-
-<!-- https://github.com/bhargavvader/pycobra
-
-<iframe src="https://ghbtns.com/github-btn.html?user={{ bhargavvader }}&repo={{ pycobra }}&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-
-https://github.com/astha736/PACbayesianNMF
-
-https://cran.r-project.org/web/packages/COBRA/index.html
-
-https://cran.r-project.org/web/packages/pacbpred/index.html
-
-https://i-pri.org/special/Biostatistics/Software/Geneland/ -->
-
 ## Projects
 
 Two past collaborative research projects with their own dedicated websites: [6PAC](https://bguedj.github.io/6pac/) (2018--2021, with [Peter Grünwald](https://safestatistics.com)) and [APRIORI](https://project.inria.fr/apriori/) (2019--2023).
