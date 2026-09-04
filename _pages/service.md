@@ -41,7 +41,7 @@ Served as **member of the Editorial Board of reviewers** for the [Journal of Mac
 
 **Principal member of program committees (senior area chair)**
 
-[AISTATS](https://www.aistats.org) 2025, 2026     
+[AISTATS](https://www.aistats.org) 2025, 2026, 2027     
 [ICLR](https://iclr.cc) 2026, 2027       
 [ICML](https://icml.cc) 2026       
 [NeurIPS](https://neurips.cc) 2024, 2025      
